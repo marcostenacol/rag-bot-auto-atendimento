@@ -25,10 +25,32 @@ Este projeto consiste no desenvolvimento de um sistema de atendimento automatiza
 ---
 
 ## ⚙️ .ENV para rodar o projeto
-```# EVO-GLOBAL-API-KEY
+
+O projeto utiliza um arquivo `.env` para configurações sensíveis. **Nota:** O diretório `chroma_data/` e o arquivo `.env` estão no `.gitignore` e não devem ser enviados para o repositório.
+
+### Variáveis Obrigatórias (O bot não inicia sem estas):
+```bash
+# Conexão com o Banco de Dados (Postgres)
+DATABASE_CONNECTION_URI=postgresql://usuario:senha@host:porta/database
+
+# Provedores de IA
+GROQ_API_KEY='sua_chave_aqui'
+HUGGINGFACE_API_KEY='sua_chave_aqui'
+LLAMA_V='modelo_llama_escolhido'
+```
+
+### Configurações de Dados Mockados:
+```bash
+# Define se os dados de teste (quartos, tipos) devem ser resetados ao iniciar
+LOAD_MOCK_DATA=false  # Use 'true' apenas em desenvolvimento
+```
+
+### Configurações da Evolution API (WhatsApp):
+```bash
+# EVO-GLOBAL-API-KEY
 AUTHENTICATION_API_KEY=
 
-# EVO-DP
+# EVO-DP (Configurações de persistência da Evolution)
 DATABASE_ENABLED=true
 DATABASE_PROVIDER=
 DATABASE_CONNECTION_URI=
