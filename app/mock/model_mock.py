@@ -39,7 +39,7 @@ class RoomOccupancy(db.Model):
     )
 
     check_in_date = db.Column(db.Date, nullable=False)
-    check_out_date = db.Column(db.Date, nullable=False)
+    check_out_date = db.Column(db.Date, nullable=True)
 
     guest_name = db.Column(db.String(200))
     source = db.Column(db.String(50))

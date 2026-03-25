@@ -1,4 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
 .venv/
 venv/
-chroma_data/
+ENV/
+env/
 .env
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project Specific
+chroma_data/
+.agents/

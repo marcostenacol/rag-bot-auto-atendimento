@@ -23,11 +23,11 @@ def handle_reservation_flow(user, message):
 
     if cleaned in ["cancelar", "cancelar reserva", "cancelar pré-reserva"]:
         cancel_pre_reservation_step(user.id)
-        return "Reserva cancelada! Se quiser começar de novo, é só dizer 😊"
+        return "Reserva cancelada!"
 
     step = get_active_pre_reservation_step(user.id)
     if not step:
-        step = create_pre_reservation_step(user.id)
+        create_pre_reservation_step(user.id)
         return generate_dynamic_question("name", "Início da reserva")
 
     data = {
@@ -103,4 +103,4 @@ def handle_reservation_flow(user, message):
     step.step = "finalizado"
     update_pre_reservation_step(user.id, "finalizado", step)
 
-    return "Prontinho! Sua pré-reserva foi registrada com sucesso. Entraremos em contato em breve 😊"
+    return "Prontinho! Sua pré-reserva foi registrada com sucesso."

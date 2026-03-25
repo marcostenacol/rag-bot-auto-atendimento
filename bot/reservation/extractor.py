@@ -1,14 +1,8 @@
 import json
 import re
-from datetime import datetime
-from dateutil.parser import parse as date_parse
+from validator import parse_date_or_none
 from bot.reservation.llm import structured_llm
 
-def parse_date_or_none(value):
-    try:
-        return date_parse(value, dayfirst=True).date()
-    except:
-        return None
 
 def extract_fields_with_llm(message, current_data, current_step):
     cleaned = message.strip().lower()
@@ -37,12 +31,12 @@ def extract_fields_with_llm(message, current_data, current_step):
         - Quantity deve ser inteiro até 10.
         - Se não houver campo identificável, retorne {{}}.
 
-        Mensagem: "{message}"
+        Mensagem: "{message}" 
+        Passo atual: {current_step}
         Dados atuais: {current_data}
     """
 
     response = structured_llm.ask(prompt)
-
     try:
         data = json.loads(response)
     except:
@@ -57,12 +51,14 @@ def extract_fields_with_llm(message, current_data, current_step):
     if "check_out_date" in data and current_data.get("check_in_date"):
         check_in = current_data["check_in_date"]
         if isinstance(check_in, str):
-            check_in = datetime.fromisoformat(check_in).date()
+            check_in = parse_date_or_none(check_in)
 
         check_out = data["check_out_date"]
         if isinstance(check_out, str):
-            check_out = datetime.fromisoformat(check_out).date()
+            check_out = parse_date_or_none(check_out)
 
+        if not check_out or not check_in:
+            return {"__error__": "A data informada é inválida. Use algo como 10/02."}
         if check_out <= check_in:
             return {"__error__": "A data de saída deve ser posterior à data de entrada."}
 

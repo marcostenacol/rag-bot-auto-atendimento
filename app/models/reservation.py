@@ -25,4 +25,4 @@ class Reservation(db.Model):
     updated_at = db.Column(db.DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
 
     def __repr__(self):
-        return f"<PreReserva {self.name} de {self.check_in_date} a {self.check_out_date}>"
+        return f"<Reservation {self.name} de {self.check_in_date} a {self.check_out_date}>"

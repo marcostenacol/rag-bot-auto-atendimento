@@ -8,7 +8,7 @@ Este projeto consiste no desenvolvimento de um sistema de atendimento automatiza
 
 - Identificação da intenção do usuário via PLN (ex: solicitação de reserva).
 - Geração de respostas com base em arquivos institucionais usando RAG.
-- Interface com usuários por meio do Telegram Bot API.
+- Interface com usuários por meio do Evolution API.
 - Armazenamento e consulta de logs de interação.
 
 ---

@@ -1,4 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
 .venv/
 venv/
-chroma_data/
+ENV/
+env/
 .env
+
+# IDEs
+.idea/
+.vscode/
+
+# Project Specific
+chroma_data/
+.agents/
+.git/
+.gitignore
+README.md
+Makefile
+docker-compose.yml
+Dockerfile.api
