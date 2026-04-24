@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 .venv/
 venv/
+.venv_linux/
 ENV/
 env/
 .env
@@ -17,3 +18,9 @@ env/
 # Project Specific
 chroma_data/
 .agents/
+
+TCC.docx
+tcc.tex
+media/
+**/__pycache__/
+*.pyc

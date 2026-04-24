@@ -5,7 +5,7 @@ from app.models.database import db
 from routes.webhook import webhook_bp
 
 from app.models import messageHistory, reservation, user, preReservationStep
-from app.mock.model_mock import RoomType, RoomOccupancy, Room ##PARA MOCK
+from app.mock.model_mock import RoomType, RoomOccupancy, Room
 from app.mock.data_mock import load_mock_data
 
 REQUIRED_ENV_VARS = [
@@ -35,7 +35,6 @@ with app.app_context():
 
     db.create_all()
     
-    # Carrega dados mockados apenas se configurado (evita resetar dados em produção)
     if os.environ.get('LOAD_MOCK_DATA', 'false').lower() == 'true':
          load_mock_data()
 
