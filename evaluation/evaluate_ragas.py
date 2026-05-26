@@ -14,35 +14,75 @@ from langchain_groq import ChatGroq
 from langchain_huggingface import HuggingFaceEmbeddings
 
 from bot.aiBot import AIBot
-from evaluation.dataset import dataset
+from evaluation.dataset import dataset_sessions
+
+import json
 
 def run_evaluation():
     bot = AIBot()
     
-    print(f"Dataset padrão (dataset.py) carregado com {len(dataset)} perguntas.")
+    print(f"Dataset de sessões carregado com {len(dataset_sessions)} sessões multi-turn.")
 
     questions = []
     answers = []
     contexts_list = []
     ground_truths = []
     
-    print(f"Gerando respostas do bot para {len(dataset)} perguntas...")
-    for item in dataset:
-        q = item['question']
-        print(f"Q: {q}")
-        
-        docs = bot._AIBot__retriever.invoke(q)
-        contexts = [d.page_content for d in docs]
-        
-        resposta = bot.invoke(history_messages=[], question=q)
-        
-        questions.append(q)
-        answers.append(resposta)
-        contexts_list.append(contexts)
-        ground_truths.append(item['ground_truth'])
-        
-        time.sleep(2)
-        
+    checkpoint_file = "evaluation/checkpoint_generation.json"
+    checkpoint_data = []
+    
+    if os.path.exists(checkpoint_file):
+        with open(checkpoint_file, "r", encoding="utf-8") as f:
+            checkpoint_data = json.load(f)
+            print(f"-> Checkpoint carregado com {len(checkpoint_data)} turnos já gerados.")
+            
+    # Cria um dicionário para busca rápida
+    answered_questions = {item['question']: item for item in checkpoint_data}
+    
+    print("Gerando respostas do bot para as sessões...")
+    
+    # Se quiser testar apenas uma parte para o TCC sem bater cota, altere dataset_sessions para dataset_sessions[:10]
+    for session in dataset_sessions:
+        print(f"\n--- Iniciando Sessão {session['session_id']} ---")
+        history_messages = []
+        for turn in session['turns']:
+            q = turn['question']
+            print(f"Q: {q}")
+            
+            if q in answered_questions:
+                print(" -> Recuperado do checkpoint.")
+                saved_item = answered_questions[q]
+                resposta = saved_item['answer']
+                contexts = saved_item['contexts']
+            else:
+                try:
+                    resposta, docs = bot.invoke(history_messages=history_messages, question=q, return_context=True)
+                    contexts = [d.page_content for d in docs]
+                    
+                    # Salva no checkpoint
+                    checkpoint_data.append({
+                        "question": q,
+                        "answer": resposta,
+                        "contexts": contexts,
+                        "ground_truth": turn['ground_truth']
+                    })
+                    with open(checkpoint_file, "w", encoding="utf-8") as f:
+                        json.dump(checkpoint_data, f, ensure_ascii=False, indent=4)
+                        
+                    time.sleep(2)
+                except Exception as e:
+                    print(f"\n[!] Erro na API (possível Rate Limit): {e}")
+                    print("[!] O progresso foi salvo no checkpoint 'checkpoint_generation.json'.")
+                    print("[!] Aguarde o limite da Groq resetar ou use outra chave de API, e rode o script novamente.")
+                    return
+            
+            questions.append(q)
+            answers.append(resposta)
+            contexts_list.append(contexts)
+            ground_truths.append(turn['ground_truth'])
+            
+            history_messages.append((q, resposta))
+            
     data = {
         "question": questions,
         "answer": answers,
@@ -55,7 +95,7 @@ def run_evaluation():
     llm = ChatGroq(model=os.environ['LLAMA_V'])
     embeddings = bot.embeddings
     
-    print("Iniciando avaliação RAGAS...")
+    print("\nIniciando avaliação RAGAS nas sessões...")
     metrics = [faithfulness, answer_relevancy, context_precision, context_recall]
     
     run_config = RunConfig(max_workers=1, timeout=30)
@@ -79,12 +119,12 @@ def run_evaluation():
             run_config=run_config
         )
 
-    print("Resultados da Avaliação RAGAS:")
+    print("\nResultados da Avaliação RAGAS Multi-turn:")
     print(evaluate_result)
     
     df = evaluate_result.to_pandas()
-    df.to_csv("evaluation/ragas_results.csv", index=False)
-    print("Resultados salvos em evaluation/ragas_results.csv")
+    df.to_csv("evaluation/ragas_results_sessions.csv", index=False)
+    print("Resultados salvos em evaluation/ragas_results_sessions.csv")
 
 if __name__ == "__main__":
     from decouple import config

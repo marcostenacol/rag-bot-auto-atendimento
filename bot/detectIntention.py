@@ -44,6 +44,9 @@ class IntentionDetector:
             Categorias possíveis: [pre_reserva, mensagem_geral]
             Responda apenas com o nome da categoria.
             """
-            resposta = self.llm.invoke(prompt)
-            return resposta.content.strip().lower()
+            try:
+                resposta = self.llm.invoke(prompt)
+                return resposta.content.strip().lower()
+            except Exception:
+                return "mensagem_geral"
         return "mensagem_geral"

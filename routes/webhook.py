@@ -19,17 +19,24 @@ webhook_bp = Blueprint('webhook', __name__)
 def webhook():
     data = request.json
 
-    if data.get('data',{}) is not None:
-        received_message = data.get('data', {}).get('message', {}).get('conversation')
-        instance = data.get('instance', {})
-        apikey = data.get('apikey', {})
-        remotejid =  data.get('data', {}).get('key', {}).get('remoteJid')
-        received_number = remotejid.split("@")[0]
-        sender_type = remotejid.split("@")[1]
-    else:
+    data_payload = data.get('data') if data else None
+    if not data_payload:
         return jsonify({'status': 'failed', 'message': 'Dados Vazios.'}), 200
 
-    if sender_type in ['@g.us', 'status@broadcast']:
+    remotejid = data_payload.get('key', {}).get('remoteJid')
+    if not remotejid or '@' not in remotejid:
+        return jsonify({'status': 'failed', 'message': 'remoteJid inválido.'}), 200
+
+    received_message = data_payload.get('message', {}).get('conversation')
+    if not received_message:
+        return jsonify({'status': 'success', 'message': 'Mensagem não-texto ignorada.'}), 200
+
+    instance = data.get('instance', {})
+    apikey = data.get('apikey', {})
+    received_number = remotejid.split("@")[0]
+    sender_type = remotejid.split("@")[1]
+
+    if sender_type in ['g.us', 'status@broadcast']:
         return jsonify({'status': 'success', 'message': 'Mensagem de grupo/status ignorada.'}), 200
 
     user = get_user_by_contact(received_number)

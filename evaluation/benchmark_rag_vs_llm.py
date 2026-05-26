@@ -39,6 +39,9 @@ def run_benchmark():
             "LLM Puro (Sem Contexto)": ans_llm
         })
         
+        import time
+        time.sleep(2)  # Evita Rate Limit 429
+        
     df = pd.DataFrame(results)
     
     csv_path = "evaluation/benchmark_results.csv"

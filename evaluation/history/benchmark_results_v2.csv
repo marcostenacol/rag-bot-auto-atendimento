@@ -1,0 +1,1034 @@
+Pergunta,Resposta Esperada,RAG (Com Contexto),LLM Puro (Sem Contexto)
+A partir de que horas posso fazer o check-in?,O check-in é permitido a partir das 14h.,"O check-in no nosso hotel é permitido a partir das 14h. Se você precisar chegar antes desse horário, podemos oferecer um early check-in, sujeito à disponibilidade, com uma taxa de 30% a 50% do valor da diária, dependendo do quão antecipada for a sua chegada. Você gostaria de saber mais sobre essa opção ou sobre o processo de check-in em si?","O horário de check-in varia de acordo com a política da empresa. No geral, o check-in fica disponível a partir das 14h. O horário de check-out é, geralmente, até as 12h."
+E se eu chegar de madrugada?,"O serviço de recepção funciona, mas o check-in antecipado está sujeito à disponibilidade e a taxas de 30% a 50% do valor da diária.","Se você chegar de madrugada, o check-in é a partir das 14h. No entanto, podemos oferecer um early check-in, sujeito à disponibilidade, com uma taxa equivalente a 30% a 50% do valor da diária, dependendo do horário antecipado de chegada. Por exemplo, se você chegar às 6h00, poderíamos cobrar 50% do valor da diária.
+
+Se preferir, você pode guardar suas malas no nosso Maleiro de forma gratuita e utilizar a piscina ou restaurante enquanto preparamos seu quarto. Como você chegará de madrugada, recomendo ligar para nós com antecedência para confirmar a possibilidade de early check-in e os valores envolvidos, ok?","Se você planeja chegar de madrugada, é uma boa ideia ter um plano para garantir sua segurança e conforto. Aqui estão algumas sugestões:
+
+1. **Transporte**: Se você estiver viajando de avião, trem ou ônibus, verifique os horários de funcionamento dos transportes públicos e os serviços de táxi ou aplicativos de transporte disponíveis na área. Muitas cidades têm serviços de transporte 24 horas, mas é sempre bom confirmar.
+
+2. **Acomodação**: Se você ainda não tem um local para ficar, considere reservar um hotel ou hostel que esteja aberto 24 horas. Muitos estabelecimentos oferecem serviços de recepção 24/7, mas é sempre prudente confirmar antes de sua chegada.
+
+3. **Segurança**: Ao chegar de madrugada, especialmente em áreas desconhecidas, tente manter-se em áreas bem iluminadas e movimentadas. Evite caminhar sozinho por vielas ou áreas desertas. Se possível, use serviços de transporte seguro.
+
+4. **Comida e Bebida**: Se você chegar tarde e estiver com fome, procure por restaurantes ou lanchonetes que operam 24 horas. Muitas cidades têm estabelecimentos que servem comida a qualquer hora.
+
+5. **Plano de Emergência**: Tenha um plano de emergência. Isso inclui ter o número de contato de um serviço de táxi confiável, um aplicativo de transporte, ou um amigo/local que possa oferecer ajuda se necessário.
+
+6. **Conexão com a Internet**: Se você precisar de acesso à internet para verificar informações ou se comunicar com alguém, procure por locais que ofereçam Wi-Fi gratuito, como cafés, bibliotecas ou áreas públicas.
+
+7. **Descanso**: Se você está cansado, priorize o descanso. Se não tiver um local para ficar, considere usar um serviço de sala de espera em aeroportos, estações de trem ou áreas de descanso.
+
+Lembre-se de que a segurança deve ser sua prioridade. Se possível, informe alguém sobre seus planos e previsão de chegada."
+Posso levar meu cachorro? Ele pesa 5kg.,"Sim, o hotel recebe cães e gatos de pequeno porte até 10kg com uma tarifa Pet Fee de R$ 60 por estadia.","Sim, você pode levar seu cachorro! Nós somos um hotel ""Pet Friendly"" e aceitamos cães e gatos de pequeno porte, até 10kg. Seu cachorro, pesando 5kg, está dentro do limite permitido.
+
+Lembre-se de que é necessário apresentar a carteira de vacinação do seu pet e que ele não pode circular em áreas de refeição. Além disso, é cobrada uma taxa de R$ 60,00 por estadia para cobrir os custos de desinfecção diária.
+
+Você pode ficar tranquilo, pois vamos cuidar bem do seu companheiro de quatro patas!","Sim, você pode levar seu cachorro! Muitos lugares são pet-friendly, especialmente se o seu cachorro for pequeno e bem-comportado. No entanto, é sempre uma boa ideia verificar com antecedência se o local permite a entrada de animais de estimação e se há algum requisito específico, como tamanho ou peso.
+
+Se o seu cachorro pesa 5kg, é provável que seja considerado um cachorro pequeno, o que facilita levar em muitos lugares. Além disso, é importante lembrar de:
+
+* Levar uma guia e uma coleira para o seu cachorro
+* Manter o seu cachorro sob controle e evitar que ele cause problemas
+* Limpar após o seu cachorro, se necessário
+* Respeitar as regras e os outros visitantes
+
+Lembre-se de que a política de animais de estimação pode variar dependendo do local, então é sempre melhor verificar antes de ir."
+Ele pode frequentar a piscina com as crianças?,"Não, por normas da vigilância sanitária, os animais não podem ingressar nas áreas de piscina e restaurante.","Sim, é permitido frequentar a piscina com crianças. No entanto, é importante lembrar que as crianças devem estar sempre acompanhadas de um adulto responsável e não é permitido o uso de fraldas expostas convencionais, exceto se necessário uso de guias e coleiras para  locomoção,  quando necessário. Além disso, é obrigatório o uso de roupa de banho adequada. A piscina funciona todos os dias das 08h00 às 20h00.","Sim, o homem pode frequentar a piscina com as crianças. A presença de adultos responsáveis é importante para garantir a segurança e o bem-estar das crianças durante as atividades de lazer, como nadar."
+Tem internet de alta velocidade no hotel?,"Sim, oferecemos Wi-Fi gratuito de alta velocidade em todo o hotel. Há também a rede Premium paga.","Sim! Oferecemos **Wi-Fi Gratuito de Alta Velocidade** em todo o perímetro do hotel (quartos, piscinas, restaurantes). Para hóspedes em viagem a negócios que precisem de banda larga dedicada, oferecemos planos ""Premium"" de internet adquiridos em recepção ($/dia).
+
+A rede padrão é ""HotelExample_Guest"" e a rede Premium é ""HotelExample_Premium"". A senha para ambas é ""hotel1234"". Se tiver algum problema de conexão, basta ligar para a recepção que teremos suporte 24 horas.","Muitos hotéis oferecem internet de alta velocidade, mas a disponibilidade e a qualidade podem variar dependendo do hotel e de sua localização. Aqui estão algumas dicas para descobrir se o hotel tem internet de alta velocidade:
+
+1. **Verifique o site do hotel**: Muitos hotéis listam as comodidades, incluindo a conectividade Wi-Fi, em seus sites. Procure por seções como ""Comodidades"" ou ""Serviços"" para encontrar informações sobre a internet.
+2. **Leia as avaliações**: Sites de reservas de hotéis, como Booking.com, Expedia ou TripAdvisor, frequentemente incluem avaliações de hóspedes anteriores. Procure por comentários sobre a internet para ter uma ideia da velocidade e confiabilidade da conexão.
+3. **Contate o hotel diretamente**: Se você não encontrar informações suficientes online, pode ligar para o hotel ou enviar um e-mail para perguntar sobre a internet. Eles podem fornecer detalhes sobre a velocidade da conexão e se há alguma restrição de uso.
+4. **Procure por especificações técnicas**: Alguns hotéis podem listar especificações técnicas, como a velocidade da internet (por exemplo, 100 Mbps, 1 Gbps), tipo de conexão (Wi-Fi, Ethernet) e se a conexão é ilimitada.
+
+Lembre-se de que mesmo que um hotel ofereça internet de alta velocidade, a qualidade da conexão pode variar dependendo de vários fatores, como a distância do roteador, interferências de outros dispositivos e o número de usuários conectados simultaneamente.
+
+Se a internet for crucial para você durante a estadia, é uma boa ideia confirmar as especificações e ler avaliações recentes para garantir que o hotel atenda às suas necessidades."
+Qual é a senha da rede gratuita?,A senha para a rede padrão (HotelExample_Guest) é hotel1234.,A senha da rede Wi-Fi gratuita do hotel é: hotel1234. A rede é denominada HotelExample_Guest.,"Eu não tenho acesso a informações específicas sobre redes ou senhas. No entanto, posso oferecer algumas sugestões sobre como encontrar a senha de uma rede gratuita:
+
+1. **Verifique o local**: Se você está em um local público como um café, hotel ou aeroporto, pergunte ao pessoal se eles têm uma rede Wi-Fi gratuita e qual é a senha.
+
+2. **Procure por placas ou avisos**: Muitos lugares que oferecem Wi-Fi gratuito exibem a senha em placas ou avisos próximos às áreas onde as pessoas se sentam ou em pontos de destaque.
+
+3. **Use aplicativos ou sites**: Existem aplicativos e sites que ajudam a encontrar senhas de Wi-Fi gratuito em diferentes locais. No entanto, tenha cuidado ao usar esses serviços, pois a segurança e a precisão das informações podem variar.
+
+4. **Verifique com o provedor de serviços**: Se você está em um local como um hotel ou aeroporto, o provedor de serviços pode ter fornecido a senha junto com outras informações de viagem ou hospedagem.
+
+Lembre-se de que, embora o Wi-Fi gratuito seja conveniente, é importante tomar medidas para proteger sua segurança online, como usar uma VPN (Rede Privada Virtual) e evitar acessar informações sensíveis ou realizar transações financeiras em redes públicas."
+O estacionamento é gratuito?,"Não, o estacionamento e valet custam R$ 30,00 por diária.","Não, o estacionamento não é gratuito. Nós oferecemos serviço de valet parking, mas cobramos R$ 30,00 por noite para veículos utilitários estacionados externamente em situações especiais, como picos ou festividades de final de ano. O estacionamento subterrâneo com manobrista está incluído, porém sujeito à disponibilidade e mediante a ordem de chegada.","Normalmente, sim. Contudo, alguns eventos e locais podem possuir estacionamento tarifado."
+Vocês garantem que meu carro ficará na sombra?,As vagas cobertas e subterrâneas são disponibilizadas por ordem de chegada até que a lotação seja completada.,"Dispomos de manobrista (Valet) que acomodará os carros nas vagas cobertas ou fechadas subterrâneas. No entanto, não podemos garantir que o carro ficará especificamente na sombra, pois a ocupação das vagas é feita por ordem de chegada até completarmos a lotação.",Eu sou um grande modelo de linguagem. Não tenho a capacidade de controlar o mundo físico. Eu não posso garantir que seu carro ficará na sombra ou realizar qualquer ação física no mundo real. Eu posso apenas fornecer informações e assistência com base no meu treinamento e conhecimento. Há alguma outra coisa em que eu possa ajudá-lo?
+Quais são os horários do café da manhã?,O café da manhã é servido das 6h30 às 10h30.,O café da manhã é servido das 06h30 às 10h30 da manhã.,Normalmente as pessoas comem café da manhã entre 7 e 10 horas.
+"E se eu não tiver ele incluso no meu pacote, quanto pago?","Para quem não possui o café incluso na reserva, cobra-se uma taxa de R$ 55,00 por pessoa na portaria.","Para informações adicionais como aulas de surf, por favor consulte a tabela de serviços e preços. No entanto, de acordo com o contexto fornecido, uma aula de surf custa R$ 120,00 por aula, com equipamento incluso, e está disponível diariamente durante a maré alta.","Se você não tiver o item incluso no seu pacote e precisar dele, os preços variam conforme a categoria e a loja. No Brasil, os preços podem variar bastante dependendo do local e do fornecedor. Em média, o valor pode variar de R$ 5 a R$ 100, dependendo do que você está procurando. Se você puder fornecer mais detalhes sobre o item, posso tentar ajudar com uma estimativa mais precisa."
+O hotel possui serviço gratuito de transporte do aeroporto?,"Não há serviço gratuito. O hotel oferece serviço de transfer (van/carro) com tarifa adicional de R$ 80,00 por trecho.","Desculpe, mas nosso hotel não oferece serviço gratuito de transporte do aeroporto. No entanto, podemos fornecer um serviço de transfer com tarifa adicional. O custo é de R$ 80,00 por trecho para um veículo privativo (até 3 pessoas com bagagens) e R$ 150,00 por trecho para vans executivas (para grupos a partir de 4 pessoas). É necessário agendar com antecedência de 12 horas.","Sim, o hotel oferece serviço gratuito de transporte do aeroporto para os hóspedes."
+A que distância ele fica de vocês?,O aeroporto está a 12 km de distância do hotel (aproximadamente 25 minutos de carro).,"O Aeroporto fica a 12 km de distância do nosso hotel, o que corresponde a aproximadamente 25 minutos de carro. Além disso, oferecemos um serviço de transfer sob agendamento e tarifa adicional para facilitar o transporte de e para o aeroporto.","Eu sou um grande modelo de linguagem, então não tenho uma presença física. Eu existo em servidores remotos e acesso a Internet para fornecer respostas às suas perguntas. Eu não tenho uma localização física, então não estou perto ou longe de você. Como posso ajudá-lo?"
+Posso fumar no quarto?,"Não, o hotel é um ambiente livre de fumo e é expressamente proibido fumar em qualquer espaço coberto.","Desculpe, mas não é permitido fumar em ambientes internos do hotel, incluindo os quartos. Isso de acordo com a Lei nº 12.546/2011 e a política do hotel. Se você for pego fumando ou se houver vestígios de fumo, pode ser cobrada uma multa. Há áreas externas onde o fumo é permitido, mas dentro do hotel e nos quartos é proibido.","Não, não é recomendado fumar no quarto. O tabagismo passivo é uma preocupação significativa e pode afetar a saúde de qualquer pessoa que esteja presente no ambiente, incluindo crianças, idosos e pessoas com condições de saúde preexistentes. Além disso, o fumo em ambientes fechados pode causar danos à saúde do próprio fumante.
+
+Fumar no quarto pode trazer vários problemas:
+
+1. **Tabagismo Passivo:** O fumo passivo é uma exposição a substâncias químicas perigosas liberadas pelo tabaco, que podem causar doenças cardíacas, câncer de pulmão e outros problemas de saúde em pessoas que não fumam.
+
+2. **Danos à Saúde:** Para os fumantes, fumar em ambientes fechados pode aumentar o risco de doenças cardíacas, câncer de pulmão, enfisema e outras condições de saúde relacionadas ao tabagismo.
+
+3. **Odor e Manchas:** O fumo pode deixar um odor desagradável e causar manchas nas paredes, cortinas e móveis, o que pode ser difícil e caro de limpar.
+
+4. **Risco de Incêndio:** Cigarros acesos podem ser uma fonte de ignição para incêndios, especialmente em ambientes com objetos inflamáveis próximos.
+
+5. **Impacto na Qualidade do Ar:** O fumo pode degradar significativamente a qualidade do ar dentro de casa, contribuindo para problemas respiratórios e outros problemas de saúde.
+
+Se você é fumante e vive com outras pessoas, é considerado educado e saudável fumar do lado de fora, longe de janelas e portas, para minimizar a exposição ao fumo passivo. Existem também produtos e métodos que podem ajudar a reduzir os riscos associados ao tabagismo, como adesivos de nicotina, gomas de mascar e medicamentos prescritos para ajudar a parar de fumar.
+
+Lembre-se de que a melhor opção para a saúde é evitar o tabagismo completamente. Se você está procurando parar de fumar, há muitos recursos disponíveis para ajudar, incluindo linhas de apoio, grupos de apoio e programas de cessação do tabagismo."
+Isso inclui cigarro eletrônico e vape?,"Sim, é expressamente proibido o uso de qualquer tipo de fumo, inclusive cigarros eletrônicos, charutos ou cachimbos.","Sim, de acordo com as regras do hotel, é expressamente proibido o fumo, o que inclui cigarros convencionais, eletrônicos, charutos ou cachimbos em qualquer espaço coberto do hotel, incluindo os aposentos, banheiros e corredores. Caso seja percebido odor ou vestígio de tabaco, uma multa por odor de fumaça será lançada na sua conta. Se você é fumante, recomendamos procurar os locais especificamente designados para fumar, se houver.","Sim, os cigarros eletrônicos e vape também podem ser incluídos na discussão sobre produtos de tabaco, pois são frequentemente usados para fumar substâncias nicotínicas ou outras, embora muitas vezes sejam comercializados como alternativas mais seguras aos cigarros tradicionais. No entanto, é importante notar que a segurança e os efeitos a longo prazo desses produtos ainda estão sendo estudados, e eles não são completamente isentos de riscos.
+
+Os cigarros eletrônicos e vape são dispositivos eletrônicos que aquecem um líquido, muitas vezes contendo nicotina, para produzir uma névoa que é inalada pelo usuário. Eles foram introduzidos no mercado como uma opção potencialmente menos prejudicial para os fumantes que desejam parar de fumar ou reduzir o consumo de tabaco.
+
+No entanto, desde a sua popularização, várias questões de saúde pública foram levantadas, incluindo:
+
+1. **Uso entre jovens:** Houve um aumento significativo no uso de cigarros eletrônicos entre adolescentes e jovens adultos, o que é preocupante devido aos potenciais riscos à saúde associados ao uso de nicotina durante o desenvolvimento cerebral.
+
+2. **Riscos à saúde:** Embora muitas vezes considerados uma alternativa mais segura aos cigarros tradicionais, os cigarros eletrônicos não são completamente seguros. Eles podem conter substâncias químicas nocivas, incluindo nicotina, que é altamente viciante, além de outros produtos químicos que podem causar danos pulmonares e cardíacos.
+
+3. **Regulação:** A regulação desses produtos varia significativamente de um país para outro. Em muitos lugares, esforços estão sendo feitos para regulamentar a comercialização, o uso e a venda de cigarros eletrônicos, especialmente em relação à idade mínima para a compra e às advertências de saúde.
+
+Portanto, quando se discute o tabagismo e os esforços para reduzir seus danos, os cigarros eletrônicos e vape são frequentemente incluídos na conversa, especialmente em termos de estratégias para ajudar os fumantes a parar e de políticas de saúde pública destinadas a reduzir o uso desses produtos, especialmente entre os jovens."
+Qual a idade mínima para se hospedar sozinho?,Menores de 18 anos só podem se hospedar acompanhados dos pais ou responsáveis legais.,"De acordo com as regras do nosso hotel, menores de 18 anos só podem se hospedar se estiverem acompanhados dos pais ou responsáveis legais. Portanto, a idade mínima para se hospedar sozinho é 18 anos.","A idade mínima para se hospedar sozinho em hotéis pode variar dependendo do estabelecimento e da legislação local. Em muitos lugares, a idade mínima para se hospedar sozinho em um hotel é de 18 anos, o que coincide com a idade de maioridade em muitos países. No entanto, existem exceções e variações.
+
+Aqui estão algumas considerações gerais:
+
+1. **Legislação Local:** Em alguns países ou regiões, a legislação pode estipular uma idade mínima diferente para que um indivíduo possa se hospedar sozinho em um hotel. Por exemplo, em alguns lugares, menores de 18 anos podem se hospedar sozinhos com permissão dos pais ou responsáveis.
+
+2. **Políticas de Hotel:** Muitos hotéis têm suas próprias políticas em relação à idade mínima para check-in. Alguns podem permitir que menores de 18 anos se hospedem sozinhos com um cartão de crédito ou débito em nome de um adulto responsável, enquanto outros podem ter uma política mais rígida e só aceitar hóspedes com 18 anos ou mais.
+
+3. **Responsabilidade:** Hotéis podem solicitar que menores de idade sejam acompanhados por um adulto responsável ou que apresentem uma autorização por escrito dos pais ou responsáveis. Isso é mais comum em estabelecimentos que oferecem serviços específicos para famílias ou em locais com leis rigorosas de proteção ao menor.
+
+4. **Exceções:** Em alguns casos, como viagens de estudo, estágios ou eventos específicos, menores de idade podem se hospedar sozinhos em hotéis com autorização prévia e acompanhamento de um adulto responsável.
+
+É importante verificar a política específica do hotel antes de fazer uma reserva, especialmente se você for menor de 18 anos e planeja se hospedar sozinho. Muitos hotéis têm informações claras sobre suas políticas de idade em seus sites ou podem fornecer detalhes quando você faz uma reserva."
+E se o adolescente tiver autorização judicial?,"Caso acompanhado de terceiros, exige-se autorização judicial ou por escrito dos responsáveis com firma reconhecida.","Se o adolescente tiver autorização judicial ou por escrito dos pais reconhecida em cartório, ele poderá se hospedar no hotel sem a presença dos pais ou responsáveis legais. Essa autorização é válida desde que atenda aos requisitos estabelecidos pela Lei nº 8.069/1990 (Estatuto da Criança e do Adolescente).","Se o adolescente tiver autorização judicial, isso significa que um juiz avaliou a situação e decidiu que o menor pode realizar certos atos ou procedimentos sem a necessidade de autorização de um adulto, como pais ou responsáveis.
+
+Nesse caso, a autorização judicial serve como uma espécie de ""autorização especial"" que permite ao adolescente agir de forma independente em determinados aspectos. Isso pode ocorrer em situações como:
+
+1. **Emancipação**: O adolescente pode ser emancipado por decisão judicial, o que lhe confere maior autonomia para tomar decisões e agir em seu próprio nome, como se fosse um adulto.
+
+2. **Autorização para realizar atos específicos**: Em alguns casos, um juiz pode conceder autorização para que o adolescente realize atos específicos, como trabalho, casamento, entre outros, desde que sejam avaliados como benéficos ou necessários para o menor.
+
+3. **Situações de risco ou vulnerabilidade**: Se o adolescente estiver em uma situação de risco ou vulnerabilidade, o juiz pode conceder autorização para que ele tome certas decisões ou realize determinados atos para proteger seus interesses.
+
+É importante notar que a autorização judicial é sempre caso a caso e depende de uma avaliação cuidadosa das circunstâncias específicas do adolescente. O objetivo é sempre proteger o melhor interesse do menor.
+
+Além disso, mesmo com autorização judicial, o adolescente pode ainda ter limitações e deveres, e é fundamental que ele esteja ciente de seus direitos e responsabilidades. Acompanhamento por profissionais, como assistentes sociais, psicólogos ou advogados, pode ser parte do processo para garantir que os interesses do adolescente sejam protegidos."
+O que acontece se eu chegar para o check-in após as 18h?,As reservas são garantidas até as 18h. Em caso de ausência sem comunicação (No Show) a reserva pode ser cancelada e cobrada integralmente.,"Se você chegar para o check-in após as 18h, é importante saber que as reservas são garantidas até esse horário. Caso você não consiga realizar o check-in até as 18h e não tenha comunicado previamente, o hotel pode considerar sua reserva como ""no-show"" (ausência sem comunicação).
+
+Nesse caso, a política do hotel é cobrar o período reservado ou parte dele, de acordo com o pacote escolhido. É sempre recomendável informar o hotel com antecedência se você tiver algum atraso ou mudança nos planos, para evitar quaisquer problemas ou cobranças adicionais.
+
+Se você tiver alguma preocupação ou precisar de mais informações, fique à vontade para perguntar!","Se você não conseguir fazer o check-in antes das 18h, não se preocupe. Você pode pegar as chaves do seu quarto mais tarde, no horário de funcionamento da recepção. Se você informar o hotel com antecedência, eles podem até preparar sua bagagem para você. Só é preciso combinar com antecedência."
+Como posso garantir se eu for atrasar?,A reserva se mantém se houver garantia de no-show (ex: cartão de crédito ou depósito prévio fornecidos previamente).,"Para garantir que sua reserva seja mantida em caso de atraso, é importante comunicar ao hotel com antecedência. De acordo com nossas políticas, as reservas são garantidas até as 18h, salvo comunicação prévia. Portanto, se você tiver algum atraso previsto, basta nos informar para que possamos atualizar sua reserva e evitar qualquer tipo de cancelamento ou cobrança indevida.","Para garantir que você seja compensado caso atrase no pagamento de uma dívida ou compromisso financeiro, é importante seguir alguns passos e entender seus direitos e as políticas da instituição ou pessoa com a qual você tem o compromisso. Aqui estão algumas dicas:
+
+1. **Comunique-se Antecipadamente**: Se possível, informe com antecedência sobre o atraso. Isso demonstra responsabilidade e pode ajudar a encontrar uma solução.
+
+2. **Conheça Seus Direitos e Deveres**: Entenda as cláusulas do contrato ou acordo que você firmou. Muitas vezes, os contratos especificam o que acontece em caso de atraso.
+
+3. **Negocie**: Entre em contato com a instituição ou pessoa credora e explique sua situação. Muitas vezes, é possível negociar um plano de pagamento ou uma prorrogação do prazo.
+
+4. **Documente Tudo**: Mantenha registros de todas as comunicações, incluindo datas, horários e detalhes do que foi discutido. Isso pode ser útil se houver alguma disputa futura.
+
+5. **Busque Assistência Profissional**: Se você estiver tendo dificuldades em lidar com a situação ou se o valor em questão for significativo, considere buscar aconselhamento de um profissional, como um advogado ou um consultor financeiro.
+
+6. **Entenda as Penalidades**: Saiba quais penalidades podem ser aplicadas em caso de atraso. Isso pode incluir juros adicionais, multas ou outras consequências.
+
+7. **Priorize**: Se você estiver atrasado em vários pagamentos, priorize quais são mais urgentes ou importantes. Às vezes, é necessário concentrar-se em pagar primeiro as dívidas com juros mais altos ou aquelas que têm consequências mais severas em caso de atraso.
+
+8. **Mantenha a Calma e Seja Honesto**: Mantenha a calma durante as negociações e seja honesto sobre sua situação financeira. A transparência pode ajudar a construir confiança e a encontrar uma solução.
+
+Lembre-se de que a comunicação é chave. Quanto mais cedo você informar sobre o atraso e buscar uma solução, mais fácil será encontrar uma saída que funcione para ambas as partes."
+Quais documentos preciso apresentar no check-in?,"É necessário apresentar um documento oficial de identidade com foto (RG, CNH ou Passaporte). O titular do cartão de crédito da reserva também deve estar presente.","Para realizar o check-in, é necessário apresentar um documento oficial de identidade com foto válido, como RG, CNH ou Passaporte. Além disso, se aplicável, o titular do cartão de crédito usado na reserva também deve estar presente.","No check-in, é necessário apresentar documentos de identidade, como passaporte, carteira de identidade (RG) ou outro documento oficial com foto, dependendo das exigências da companhia aérea e do destino. Também é importante ter o número da reserva ou e-ticket pronto para ser apresentado. Em alguns casos, podem ser necessários documentos adicionais, como visto para determinados países, comprovante de hospedagem ou seguro de viagem. É recomendável verificar com antecedência as exigências específicas da companhia aérea e do destino para garantir que você tenha todos os documentos necessários."
+Vocês exigem caução nessa hora?,"Sim, retemos uma garantia eletrônica (caução) de em média R$ 200,00 por dia.",Não tenho essa informação. Posso ajudar com mais alguma informação sobre o Hotel?,"Não, eu não tenho um sistema para cobrar ou exigir caução. Eu sou um modelo de linguagem de IA e nosso objetivo é fornecer informações e ajudar com perguntas dentro do meu conhecimento. Não temos capacidades de transação financeira. Como posso te ajudar hoje?"
+Existe um horário de silêncio obrigatório no hotel?,"Sim, o horário de silêncio absoluto vigora das 22h às 07h para garantir o bem-estar de todos.","Sim, existe um horário de silêncio obrigatório no hotel. Ele ocorre das 22h às 7h, com o objetivo de garantir o bem-estar e o descanso dos hóspedes. Durante esse período, é importante manter o silêncio e evitar barulhos que possam incomodar os outros hóspedes.","Os horários de silêncio podem variar de acordo com as políticas específicas do hotel e com as leis e regulamentos locais. Muitos hotéis têm horários de silêncio designados, especialmente durante a noite, para garantir que os hóspedes possam descansar sem perturbações. Estes horários são geralmente comunicados aos hóspedes no momento do check-in ou através de informações afixadas nas áreas comuns do hotel.
+
+Se você está se hospedando em um hotel e precisa saber sobre os horários de silêncio, aqui estão algumas sugestões:
+
+1. **Verifique no site do hotel ou durante o check-in:** Muitos hotéis mencionam suas políticas de silêncio em seus sites ou informam os hóspedes durante o processo de check-in.
+
+2. **Pergunte diretamente ao hotel:** Se as informações não estiverem disponíveis, não hesite em perguntar diretamente ao pessoal do hotel. Eles poderão fornecer detalhes específicos sobre os horários de silêncio e quaisquer outras políticas relacionadas ao ruído.
+
+3. **Respeite os outros hóspedes:** Mesmo que não haja um horário de silêncio designado, é cortês manter o ruído baixo, especialmente durante as horas noturnas, para respeitar o descanso dos outros hóspedes.
+
+Lembre-se de que a tranquilidade e o respeito mútuo são fundamentais para uma estadia agradável em qualquer hotel."
+O que acontece se um hóspede fizer barulho alto nesse período?,Barulhos e conversas em tom alto implicarão em advertências ou multas.,"Durante o horário de silêncio, que é das 22h às 07h, é importante manter o volume baixo para não incomodar os outros hóspedes. Se um hóspede fizer barulho alto nesse período, poderá receber advertências ou até mesmo multas. É sempre bom respeitar o sossego dos demais hóspedes para garantir uma estadia agradável para todos.","Se um hóspede fizer barulho alto durante o período de silêncio, que geralmente é estabelecido em hotéis e pousadas para garantir o descanso dos outros hóspedes, várias ações podem ser tomadas, dependendo das políticas específicas do estabelecimento e das leis locais. Aqui estão algumas possíveis consequências:
+
+1. **Advertência Verbal ou Escrita**: O hóspede pode receber uma advertência por parte da equipe do hotel, que pode ser verbal ou por escrito. A advertência visa alertar o hóspede sobre o comportamento inadequado e pedir que ele reduza o barulho.
+
+2. **Solicitação de Silêncio**: Em muitos casos, a equipe do hotel pode solicitar diretamente ao hóspede que faça menos barulho, explicando a política de silêncio do estabelecimento e a importância do respeito aos outros hóspedes.
+
+3. **Cobrança de Taxa Adicional**: Alguns hotéis têm políticas que incluem a cobrança de taxas adicionais por perturbar o sossego. Essa taxa pode ser cobrada uma vez ou repetidamente, dependendo da gravidade e da frequência das ocorrências.
+
+4. **Registro no Histórico do Hóspede**: O incidente pode ser registrado no histórico do hóspede junto ao hotel. Isso pode afetar futuras reservas ou serviços oferecidos pelo estabelecimento.
+
+5. **Desconto ou Reembolso Parcial**: Em alguns casos, especialmente se o barulho for excessivo e perturbar significativamente outros hóspedes, o hotel pode oferecer um desconto na conta ou um reembolso parcial pela estadia, como forma de compensação.
+
+6. **Solicitação de Saída**: Em casos extremos de perturbação da ordem ou desrespeito às regras do hotel, o estabelecimento pode solicitar que o hóspede se retire. Isso geralmente ocorre após várias advertências e tentativas de resolver a situação de forma amigável.
+
+É importante que os hóspedes estejam cientes das regras e políticas do hotel ou pousada onde estão se hospedando. Muitos estabelecimentos têm regras claras quanto ao horário de silêncio e ao comportamento adequado, que são comunicadas aos hóspedes no momento do check-in ou através de informações disponíveis nas instalações. Respeitar essas regras é fundamental para garantir uma estadia agradável para todos."
+O que acontece se for detectado cheiro de fumaça no meu quarto?,"Caso seja percebido odor ou vestígio de tabaco, uma multa por limpeza extrema será lançada na conta do hóspede.","Se for detectado cheiro de fumaça no seu quarto, será cobrada uma taxa adicional de limpeza extrema. Essa taxa é calculada com base nos custos necessários para eliminar o odor e deixar o quarto pronto para outro hóspede. O valor exato pode ser consultado na recepção do hotel. Lembre-se de que fumar em ambientes internos é proibido por lei e por política do hotel. Se precisar fumar, dirija-se aos locais designados para isso.","Se for detectado cheiro de fumaça no seu quarto, é importante tomar medidas imediatas para garantir a segurança. Aqui estão algumas etapas que você pode seguir:
+
+1. **Verifique se há fogo**: O primeiro passo é verificar se há fogo ou chamas visíveis no quarto. Se sim, é crucial agir rapidamente e de forma segura.
+
+2. **Desligue fontes de energia elétrica**: Se não houver fogo, mas o cheiro de fumaça persistir, desligue todas as fontes de energia elétrica no quarto, como lâmpadas, aparelhos eletrônicos e outros dispositivos.
+
+3. **Abra janelas e portas**: Se possível, abra janelas e portas para ventilar o quarto. Isso pode ajudar a dissipar a fumaça e reduzir o risco de incêndio.
+
+4. **Saia do quarto e do edifício**: Se o cheiro de fumaça for forte ou se você não conseguir identificar a fonte, saia do quarto e do edifício imediatamente. Não use elevadores; use as escadas.
+
+5. **Alerta outras pessoas**: Se você estiver em um prédio ou residência compartilhada, avise outras pessoas sobre o cheiro de fumaça e peça que elas também saiam.
+
+6. **Chame os bombeiros ou serviço de emergência**: Ligue para o serviço de emergência local ou para os bombeiros para relatar o incidente. Forneça o endereço e qualquer outra informação relevante.
+
+7. **Não volte até que seja seguro**: Não volte ao quarto ou edifício até que os profissionais de emergência tenham verificado o local e declarado que está seguro.
+
+8. **Identifique e resolva a causa**: Após o incidente, é importante identificar a causa do cheiro de fumaça. Pode ser um problema elétrico, um incêndio pequeno que foi apagado, um problema com o aquecedor, ou até mesmo um problema com o lixo ou algo em combustão espontânea. Tome medidas para corrigir a causa raiz.
+
+Lembre-se, a segurança deve ser sempre a prioridade. Se houver qualquer dúvida sobre a segurança do local, é melhor errar pelo lado da cautela e buscar ajuda profissional."
+Onde eu poderia fumar então?,Os fumantes deverão se dirigir aos locais especificamente designados nas áreas externas (se houver).,"Desculpe, mas de acordo com as regras do nosso hotel, é expressamente proibido o fumo em qualquer espaço coberto do hotel ou nos aposentos, banheiros e corredores. No entanto, se houver locais especificamente designados para fumantes, nossa equipe poderá informar sobre esses espaços. Gostaria de saber mais sobre outras opções ou serviços que oferecemos?","Em muitos lugares, as leis e regulamentações sobre fumar variam muito, mas geralmente existem áreas designadas onde o fumo é permitido ou tolerado. Aqui estão algumas sugestões gerais sobre onde você poderia fumar, dependendo do local e das regras específicas:
+
+1. **Áreas ao ar livre designadas**: Muitos lugares públicos têm áreas específicas ao ar livre onde o fumo é permitido. Isso pode incluir parques, praças ou áreas afastadas de prédios públicos.
+
+2. **Restaurantes e bares ao ar livre**: Alguns restaurantes e bares têm áreas ao ar livre onde o fumo é permitido. No entanto, é sempre uma boa ideia verificar com o estabelecimento antes de acender um cigarro.
+
+3. **Cigar bars ou clubes de fumantes**: Existem estabelecimentos específicos, como cigar bars, que são projetados para fumantes. Eles geralmente têm ambientes fechados onde o fumo é permitido e, às vezes, oferecem charutos, cigarros e outros produtos relacionados.
+
+4. **Áreas de fumantes designadas em eventos**: Em alguns eventos ao ar livre ou em locais específicos, como festivais ou feiras, podem haver áreas designadas para fumantes.
+
+5. **Em casa ou em veículos particulares**: Se você tem um espaço privado, como sua casa ou carro, você geralmente pode fumar lá, desde que não viole nenhuma lei local ou regulamento de propriedade.
+
+Lembre-se de sempre verificar as leis e regulamentações locais antes de fumar em qualquer lugar. Muitas cidades e países têm leis rigorosas contra o fumo em locais públicos, e fumar em áreas proibidas pode resultar em multas ou penalidades. Se você está procurando por um lugar para fumar, é uma boa ideia perguntar a alguém sobre as regras específicas do local."
+Posso utilizar meu fogareiro elétrico no quarto?,"Não é permitida a utilização de aparelhos de alto consumo, como fogareiros ou resistências, visando evitar riscos de incêndio.","Desculpe, mas não é permitido utilizar fogareiros ou resistências para ferver água ou cozinhar alimentos nos quartos do hotel. Isso é uma medida de segurança para evitar riscos elétricos e de incêndio. Se precisar de água quente, posso sugerir que você utilize o serviço de room service ou solicite ajuda à nossa equipe. Nós temos secadores de cabelo disponíveis nos quartos, mas não permitimos o uso de aparelhos de alto consumo ou que possam gerar fumaça.","Não é recomendado usar um fogareiro elétrico no quarto por várias razões de segurança:
+
+1. **Risco de Incêndio**: Embora os fogareiros elétricos sejam projetados para serem seguros, qualquer aparelho elétrico pode falhar ou ser danificado, causando um curto-circuito e potencialmente levando a um incêndio. O ambiente fechado de um quarto pode dificultar a evacuação rápida em caso de emergência.
+
+2. **Qualidade do Ar**: Os fogareiros elétricos podem emitir vapores, especialmente se estiverem sendo usados para cozinhar alimentos gordurosos ou se houver resíduos queimados. Isso pode afetar a qualidade do ar no quarto, tornando-o menos saudável para respirar.
+
+3. **Umidade**: Alguns alimentos cozidos no fogareiro podem liberar vapor no ar, aumentando a umidade no quarto. Isso pode levar à formação de mofo e condensação em janelas e superfícies.
+
+4. **Distração e Segurança Pessoal**: Usar um fogareiro elétrico no quarto pode ser uma distração, especialmente se você estiver tentando relaxar ou dormir. Isso pode aumentar o risco de acidentes, como queimaduras ou incêndios, devido à falta de atenção.
+
+5. **Regras de Segurança contra Incêndios**: Muitos prédios e residências têm regras específicas contra cozinhar em áreas que não são designadas para isso, como quartos, devido aos riscos de incêndio.
+
+Se você precisar cozinhar e não tiver acesso a uma cozinha, considere usar um aparelho específico para essa finalidade, como um micro-ondas ou uma cafeteira elétrica, que são projetados para serem usados em diferentes ambientes e geralmente têm mais salvaguardas de segurança. No entanto, sempre siga as instruções do fabricante e as normas de segurança locais.
+
+Em resumo, embora possa parecer conveniente, usar um fogareiro elétrico no quarto não é uma boa ideia devido aos riscos potenciais de segurança e saúde. Se possível, use-o em uma área bem ventilada e designada para cozinhar."
+E se eu precisar ferver água?,"Nós solicitamos que evite usar esses itens de alto consumo, você pode utilizar o frigobar ou o serviço de quarto 24h para bebidas quentes.","Desculpe, mas não é permitido ferver água ou cozinhar alimentos nos quartos do hotel. De acordo com nossas regras, é proibido utilizar aparelhos de alto consumo ou fogareiros/resistências para ferver água ou cozinhar alimentos nos apartamentos. 
+
+No entanto, nossos quartos já oferecem amenities como máquina de café expresso na Suíte Presidencial. Além disso, você pode verificar com a equipe do hotel se há outras opções disponíveis para atender às suas necessidades.","Se você precisar ferver água, aqui estão algumas opções:
+
+1. **Fogão**: Coloque água em uma panela e coloque-a no fogão. Acenda o fogo médio-alto e espere até que a água comece a ferver. Isso geralmente leva de 5 a 10 minutos, dependendo da quantidade de água.
+
+2. **Micro-ondas**: Coloque água em um recipiente próprio para micro-ondas. Aqueça por 1-2 minutos, dependendo da quantidade de água e da potência do seu micro-ondas. Tenha cuidado ao retirar o recipiente, pois pode estar muito quente.
+
+3. **Chaleira elétrica**: Se você tiver uma chaleira elétrica, encha-a com água e ligue-a. A chaleira elétrica ferve a água rapidamente e geralmente desliga automaticamente quando a água atinge o ponto de ebulição.
+
+4. **Fervedor**: Similar à chaleira elétrica, mas pode ser mais rápido e também desligará automaticamente.
+
+Lembre-se de sempre tomar cuidado ao manusear água quente e recipientes quentes para evitar queimaduras."
+Qual a regra para consumo de bebidas alcoólicas?,"O consumo de bebidas alcoólicas é permitido apenas para maiores de 18 anos, mediante apresentação de identificação.",Bebidas alcoólicas só podem ser consumidas por maiores de 18 anos e é necessário apresentar identificação.,"A regra para consumo de bebidas alcoólicas varia de acordo com a legislação de cada país ou região. No entanto, de forma geral, a maioria dos lugares tem uma idade mínima para a compra e consumo de bebidas alcoólicas, que geralmente é de 18 anos, mas pode variar.
+
+Além disso, é importante lembrar que o consumo excessivo de álcool pode ter consequências negativas para a saúde e bem-estar. Portanto, é recomendável beber com moderação e responsabilidade.
+
+Aqui estão algumas diretrizes gerais:
+
+1. **Idade mínima**: Em muitos países, a idade mínima para comprar e consumir bebidas alcoólicas é de 18 anos. No entanto, em alguns lugares, como nos Estados Unidos, a idade mínima é de 21 anos.
+
+2. **Consumo responsável**: É importante beber com moderação. O consumo excessivo de álcool pode levar a problemas de saúde, acidentes e comportamentos de risco.
+
+3. **Direção**: Nunca dirija após consumir álcool. O álcool pode afetar significativamente a capacidade de dirigir de forma segura.
+
+4. **Gravidez e amamentação**: O consumo de álcool durante a gravidez ou amamentação pode ter efeitos negativos no feto ou no bebê.
+
+5. **Saúde**: Pessoas com certas condições de saúde ou que tomam certos medicamentos devem evitar ou limitar o consumo de álcool.
+
+6. **Menores**: É ilegal fornecer álcool a menores de idade, e o consumo de álcool por menores pode ter consequências legais e de saúde.
+
+Lembre-se de que essas são diretrizes gerais e que as leis e recomendações específicas podem variar dependendo do local onde você está. Sempre é uma boa ideia verificar as leis locais e beber de forma responsável."
+Vocês vendem isso de madrugada no quarto?,"Sim, o serviço de quarto está disponível 24h e as cervejas artesanais ou garrafas de vinho podem ser solicitadas via Room Service.","Desculpe, mas não tenho informações sobre venda de itens durante a madrugada nos quartos. O hotel segue um horário específico para serviços e atendimento. Se precisar de algo durante sua estadia, recomendo verificar o serviço de lavanderia ou outros serviços oferecidos pelo hotel dentro do horário de funcionamento.","Não, não vendemos nada. Posso ajudar com informações ou responder a perguntas em uma variedade de tópicos. Como posso ajudar você hoje?"
+O hotel se responsabiliza por valores deixados na mesa?,Não. O hotel recomenda o uso do cofre eletrônico do quarto e não se responsabiliza por valores ou dinheiro não armazenados nele.,"Desculpe, mas de acordo com nossas regras de segurança, recomendamos que valores e dinheiro sejam armazenados no cofre eletrônico disponível em seu quarto. O hotel não se responsabiliza por danos, ausência, sumiços ou extravio de itens pessoais deixados em áreas comuns, como mesas. É sempre mais seguro usar o cofre para proteger seus pertences.","Em geral, os hotéis têm políticas variadas em relação a objetos deixados pelos hóspedes em suas acomodações, incluindo itens deixados em mesas ou outras superfícies. A responsabilidade do hotel por valores deixados na mesa pode depender de vários fatores, incluindo:
+
+1. **Política do Hotel**: Cada hotel tem sua própria política em relação a objetos perdidos ou deixados para trás. Alguns hotéis podem ter um procedimento específico para lidar com itens encontrados, enquanto outros podem não ter uma política clara.
+
+2. **Valor e Tipo de Item**: Hotéis podem ter uma política específica para itens de valor, como joias, dinheiro, documentos importantes, etc. Em alguns casos, eles podem oferecer um cofre no quarto para que os hóspedes guardem itens de valor.
+
+3. **Comunicação com o Hóspede**: Se um hóspede deixar um item de valor na mesa ou em qualquer outra parte do quarto, o hotel geralmente tentará contatar o hóspede para informá-lo sobre o item encontrado. No entanto, a capacidade do hotel de entrar em contato com o hóspede depende das informações de contato fornecidas durante o check-in ou através de outros meios.
+
+4. **Prazo para Reclamação**: Alguns hotéis podem ter um prazo limite para os hóspedes reclamarem itens perdidos. Se o hóspede não entrar em contato dentro desse prazo, o item pode ser descartado ou doado.
+
+5. **Legislação Local**: Em alguns países ou regiões, existem leis específicas que regem a responsabilidade dos hotéis por itens deixados por hóspedes. Essas leis podem variar significativamente e podem impor obrigações específicas aos hotéis.
+
+É importante que os hóspedes tomem precauções para proteger seus pertences, como usar o cofre disponível no quarto para itens de valor e verificar cuidadosamente o quarto antes de partir. Se um hóspede deixar um item de valor na mesa ou em qualquer outra parte do quarto, é aconselhável entrar em contato com o hotel o mais rápido possível para tentar recuperar o item.
+
+Em resumo, enquanto muitos hotéis farão o possível para ajudar os hóspedes a recuperar itens perdidos, a responsabilidade e o procedimento podem variar. É sempre uma boa ideia verificar a política do hotel em relação a objetos perdidos e tomar medidas para proteger seus pertences."
+E se alguém da limpeza roubar?,"A política de responsabilidade determina que valores expressivos devem estar no cofre, caso contrário não há passibilidade de indenização.","Desculpe, mas não tenho informações sobre procedimentos específicos em caso de roubo por funcionários da limpeza. No entanto, posso dizer que recomendamos guardar objetos de valor nos cofres programáveis disponíveis nas suítes dos respectivos aposentos. Além disso, é importante lembrar que o hotel não se responsabiliza por objetos não guardados nos cofres. Se você tiver alguma preocupação, posso sugerir que converse com a administração do hotel para obter mais informações.","Se alguém da limpeza roubar, é importante abordar a situação de forma calma e profissional. Aqui estão algumas etapas que você pode seguir:
+
+1. **Verifique os fatos**: Antes de tomar qualquer ação, certifique-se de que o roubo realmente ocorreu. Isso pode envolver verificar se itens estão faltando e se há evidências de que o funcionário da limpeza esteve envolvido.
+
+2. **Documente o incidente**: Registre todos os detalhes do incidente, incluindo o que foi roubado, quando foi descoberto e qualquer evidência que possa estar disponível. Isso é crucial para qualquer investigação posterior.
+
+3. **Converse com o funcionário**: Se possível, converse com o funcionário da limpeza de forma privada e profissional. Pergunte sobre o incidente e dê a eles a oportunidade de explicar. Mantenha a calma e evite acusações diretas.
+
+4. **Política da empresa**: Verifique a política da empresa sobre roubo e conduta de funcionários. É importante seguir os procedimentos estabelecidos para lidar com tais incidentes.
+
+5. **Investigação**: Se necessário, inicie uma investigação interna. Isso pode envolver revisar filmagens de segurança, entrevistar testemunhas e coletar mais evidências.
+
+6. **Ação disciplinar**: Se o roubo for confirmado, tome medidas disciplinares apropriadas de acordo com a política da empresa. Isso pode variar de uma advertência formal a demissão, dependendo da gravidade do incidente e das políticas da empresa.
+
+7. **Prevenção futura**: Use o incidente como uma oportunidade para revisar e melhorar as políticas e procedimentos de segurança da empresa. Isso pode incluir melhorar a supervisão, implementar controles de estoque mais rigorosos e fornecer treinamento adicional para os funcionários.
+
+8. **Suporte**: Ofereça suporte aos funcionários afetados pelo incidente, incluindo o funcionário acusado, se apropriado.
+
+Lembre-se de que cada situação é única, e é importante lidar com o incidente de forma justa, legal e de acordo com as políticas e procedimentos da sua empresa. Se necessário, considere buscar aconselhamento legal para garantir que você esteja seguindo as melhores práticas e cumprindo com todas as leis relevantes."
+Onde ficam as rotas de evacuação de incêndio?,A rota de evacuação está localizada na porta de todos os quartos e nos corredores do prédio.,"As rotas de evacuação em caso de incêndio estão localizadas nas portas e corredores de cada quarto, permitindo que você saiba a melhor rota para sair da sua área do prédio em segurança. Além disso, é importante saber que existem extintores disponíveis e, em caso de emergência, você deve contatar imediatamente a recepção pelos ramais específicos previstos para emergências.","As rotas de evacuação de incêndio são rotas de fuga seguras projetadas para permitir que pessoas evacuem um edifício ou área rapidamente e de forma segura em caso de incêndio ou outra emergência. A localização exata dessas rotas pode variar dependendo do layout do edifício, das normas de segurança locais e das necessidades específicas do local. No entanto, existem algumas diretrizes gerais sobre onde essas rotas costumam ser localizadas:
+
+1. **Corredores e Escadas**: As rotas de evacuação geralmente incluem corredores e escadas que levam diretamente para o exterior do edifício ou para áreas seguras. Essas rotas são projetadas para serem facilmente acessíveis e claramente sinalizadas.
+
+2. **Saídas de Emergência**: As saídas de emergência são partes essenciais das rotas de evacuação. Elas devem ser claramente marcadas e não podem ser bloqueadas. Em muitos edifícios, as saídas de emergência são equipadas com portas que se abrem facilmente na direção da evacuação.
+
+3. **Áreas Abertas**: Em casos de grandes incêndios ou emergências, as rotas de evacuação podem levar a áreas abertas como pátios, estacionamentos ou ruas adjacentes, onde as pessoas possam se afastar do perigo.
+
+4. **Pontos de Encontro**: Fora do edifício, as rotas de evacuação geralmente levam a pontos de encontro designados. Esses pontos são locais seguros onde as pessoas podem se reunir para serem contabilizadas e onde as autoridades podem prestar assistência.
+
+5. **Rotas Alternativas**: Em edifícios maiores ou complexos, podem existir rotas de evacuação alternativas para diferentes áreas do prédio. Isso garante que, mesmo se uma rota estiver bloqueada, haja outras opções seguras para evacuar.
+
+É crucial que as rotas de evacuação sejam:
+
+- **Claramente Sinalizadas**: Com sinais de saída de emergência visíveis e bem iluminados.
+- **Mantenham-se Desobstruídas**: Livres de obstáculos, móveis ou materiais que possam impedir a passagem.
+- **Conhecidas por Todos**: As pessoas que frequentam o local devem estar cientes das rotas de evacuação.
+
+As normas e regulamentos de segurança contra incêndios variam por região, mas a maioria deles inclui requisitos específicos para a localização, design e manutenção das rotas de evacuação. É importante que os ocupantes de um edifício estejam familiarizados com essas rotas e sigam as instruções de evacuação em caso de emergência."
+Qual ramal eu ligo se houver fogo?,"Em caso acidental, deve-se contatar imediatamente a recepção nos ramais específicos previstos de emergência (como o Ramal 0).","Em caso de emergência, como um incêndio, é importante contatar imediatamente a recepção. No entanto, não tenho informações específicas sobre os ramais de emergência. Você pode perguntar diretamente na recepção do hotel para obter essas informações.","Em caso de fogo ou incêndio, é crucial agir rapidamente e de forma segura. O número de telefone para ligar em caso de emergência pode variar dependendo do país ou região em que você está. No entanto, em muitos lugares, especialmente no Brasil, o número padrão para emergências, incluindo incêndios, é o 193, que é o número do Corpo de Bombeiros.
+
+Se você estiver no Brasil, ligue 193.
+
+Se você estiver em outro país, é uma boa ideia ter em mãos o número de emergência local. Alguns exemplos incluem:
+
+- Na Europa, o número de emergência unificado é 112.
+- Nos Estados Unidos, o número para emergência é 911.
+- Em muitos países da América Latina, os números podem variar, mas frequentemente incluem o 911, 112 (em alguns países com influência europeia), ou números específicos do país.
+
+Lembre-se de que, além de ligar para o serviço de emergência, é importante manter uma rota de evacuação segura e, se possível, usar extintores de incêndio adequados ao tipo de fogo que você está enfrentando, sempre com cuidado e seguindo as instruções de segurança."
+Posso receber visitas no meu quarto à tarde?,"Não. Visitantes não-hóspedes são permitidos apenas em áreas comuns (lobby, restaurante) e o acesso aos andares de quartos é restrito.","Sim, você pode receber visitas no seu quarto, mas é necessário que elas se registrem na recepção. Além disso, as visitas devem sair até às 22h. Se permanecerem após esse horário, será cobrada meia diária.","Receber visitas no quarto à tarde pode ser uma questão de preferência pessoal, regras da casa ou até mesmo de acordos com quem você mora. Aqui estão algumas considerações:
+
+1. **Privacidade**: Se o quarto é seu espaço pessoal, você pode querer considerar se está confortável em receber visitas ali. A privacidade é importante para muitas pessoas.
+
+2. **Organização**: O estado do quarto pode ser uma preocupação. Se você está recebendo visitas, provavelmente quererá que o ambiente esteja arrumado e limpo.
+
+3. **Regras da Casa**: Se você mora com outras pessoas, pode haver regras sobre receber visitas em casa, especialmente em áreas privadas como o quarto.
+
+4. **Comunicação**: Se você decidir receber visitas, é uma boa ideia comunicar isso com quem você mora, para evitar mal-entendidos.
+
+5. **Conforto dos Visitantes**: Considere também o conforto dos seus visitantes. Um quarto pode ser um espaço mais íntimo e menos acolhedor para visitas do que uma sala de estar, por exemplo.
+
+Se você está pensando em receber visitas no seu quarto à tarde, aqui estão algumas sugestões:
+
+- **Defina limites**: Seja claro sobre o que é confortável para você e o que não é.
+- **Prepare o ambiente**: Rápida arrumação pode fazer uma grande diferença.
+- **Comunique-se**: Informe a quem você mora e aos visitantes sobre seus planos.
+- **Seja respeitoso**: Lembre-se de que o quarto é um espaço pessoal, então considere o conforto e a privacidade dos outros.
+
+No final, a decisão de receber visitas no quarto à tarde depende do que você se sente confortável e do contexto da sua situação de vida."
+Até que horas eles podem ficar nessas áreas comuns?,"Os visitantes podem ficar nas áreas comuns das 08h até, no mais tardar, 22h.","Para a piscina, os horários são:
+- Adultos: 6h às 22h
+- Crianças: 8h às 20h.
+
+Para o Centro Fitness e Musculação (Academia), o horário é das 6h às 22h.
+
+Lembre-se de que, em todas as áreas comuns do hotel, é importante respeitar as regras e os horários estabelecidos para garantir a segurança e o conforto de todos os hóspedes.","Os horários de funcionamento das áreas comuns em condomínios podem variar de acordo com as regras estabelecidas pela administração do condomínio ou pelo regimento interno. Não há uma regra geral que defina até que horas os moradores podem ficar nessas áreas, pois isso depende das normas específicas de cada condomínio.
+
+É comum que áreas comuns como piscinas, academias, salões de festas e áreas de lazer tenham horários de funcionamento específicos, que podem ser influenciados por fatores como a segurança, a manutenção e o sossego dos moradores. Por exemplo:
+
+- **Piscinas e áreas de lazer**: Geralmente, funcionam durante o dia, podendo ter horários restritos como das 8h às 20h, mas isso pode variar.
+- **Academias**: Podem ter horários mais amplos, incluindo fins de semana, mas sempre respeitando um horário limite à noite para não perturbar os moradores.
+- **Salões de festas**: Normalmente, têm horários específicos para uso, que podem ser agendados com antecedência e geralmente respeitam um horário para acabar a festa, evitando perturbação do sossego.
+
+É importante que os moradores verifiquem as regras do seu condomínio, geralmente disponíveis no site, na portaria ou através do síndico, para conhecerem os horários de funcionamento das áreas comuns e as normas de utilização. Isso ajuda a garantir que todos possam desfrutar desses espaços de forma harmoniosa e segura."
+Crianças podem usar a piscina sozinhas?,"Não, as crianças deverão sempre estar acompanhadas por um adulto responsável ao utilizar a piscina.","Não, crianças devem estar sempre acompanhadas de um adulto responsável enquanto usam a piscina. Além disso, é obrigatório que crianças usem roupa de banho adequada e não usem fraldas expostas convencionais, a menos que sejam apropriadas flutuantes ou para mergulhos infantis.","Não, crianças não devem usar a piscina sozinhas. A supervisão de um adulto é fundamental para garantir a segurança das crianças perto de piscinas. Aqui estão algumas razões pelas quais as crianças não devem usar a piscina sem supervisão:
+
+1. **Risco de Afogamento**: O afogamento é uma das principais causas de morte acidental em crianças. Mesmo em piscinas rasas, as crianças podem se afogar rapidamente se não souberem nadar ou se entrarem na água inesperadamente.
+
+2. **Falta de Habilidades de Natação**: Muitas crianças ainda não têm habilidades de natação adequadas e podem não saber como se comportar na água ou como sair da piscina em caso de emergência.
+
+3. **Emergências Médicas**: Em caso de uma emergência médica, como uma parada cardíaca ou uma lesão, a presença de um adulto pode ser crucial para fornecer primeiros socorros ou chamar ajuda médica rapidamente.
+
+4. **Prevenção de Acidentes**: Adultos podem prevenir acidentes, como crianças correndo perto da piscina, brincando com objetos que possam ser engolidos ou usados de forma perigosa na água, ou entrando na piscina de forma insegura.
+
+5. **Ensino de Segurança na Água**: A supervisão de um adulto também é uma oportunidade para ensinar às crianças sobre segurança na água, como não correr perto da piscina, não nadar sozinho, e seguir regras de segurança.
+
+Para garantir a segurança, é recomendável que as crianças estejam sempre acompanhadas de um adulto responsável quando estiverem perto de piscinas. Além disso, aulas de natação para crianças, ministradas por profissionais qualificados, podem ser extremamente benéficas para ensinar habilidades de natação e segurança na água."
+Bebês podem entrar com fraldas normais nela?,"Não, bebês devem utilizar fraldas apropriadas flutuantes para mergulhos infantis.","Não, crianças na piscina devem usar fraldas apropriadas para mergulhos infantis ou flutuantes, e não fraldas normais expostas. É obrigatório o acompanhamento de um adulto.","Sim, os bebês podem usar fraldas normais ou descartáveis, dependendo das preferências e necessidades dos pais. As fraldas descartáveis são mais comuns e convenientes, mas algumas famílias optam por fraldas de pano reutilizáveis por razões ambientais ou de saúde. Ambas as opções têm seus prós e contras."
+Tem salva-vidas de plantão lá?,"Não existe salva-vidas no local, portanto o uso da piscina é de responsabilidade exclusiva do hóspede.","Não, não temos um salva-vidas de plantão no local. É importante que os hóspedes usem a piscina com responsabilidade e tenham cuidado ao nadar. Lembre-se de que o uso de flutuadores e outros equipamentos de segurança é recomendado, especialmente para crianças ou para quem não sabe nadar.","Sim, há salva-vidas de plantão em muitas praias e locais de banho durante a temporada de verão e em alguns casos durante todo o ano. A presença de salva-vidas pode variar dependendo da localização, do tamanho da praia e das políticas locais de segurança. Eles são treinados para responder a emergências, como resgates na água, primeiros socorros e outras situações de perigo.
+
+Se você está planejando visitar uma praia ou um local de banho, é uma boa ideia verificar se há salva-vidas de plantão. Isso pode ser feito:
+
+1. **Verificando os avisos na praia:** Muitas praias têm avisos ou placas indicando se há salva-vidas de plantão e os horários de funcionamento.
+
+2. **Contatando as autoridades locais:** Prefeituras, secretarias de turismo ou departamentos de segurança pública podem fornecer informações sobre a presença de salva-vidas em praias e locais de banho.
+
+3. **Usando aplicativos e sites:** Existem aplicativos e sites que fornecem informações sobre praias, incluindo a presença de salva-vidas.
+
+4. **Observando a bandeira:** Em algumas praias, é comum o uso de bandeiras para indicar as condições de segurança. Por exemplo, uma bandeira verde pode indicar que é seguro nadar, enquanto uma bandeira vermelha pode significar perigo e a presença de salva-vidas.
+
+Lembre-se de que, mesmo com salva-vidas de plantão, é importante tomar precauções de segurança ao nadar, como:
+
+- Nadando em áreas designadas.
+- Verificando as condições climáticas e do mar.
+- Não nadando sozinho.
+- Conhecendo seus limites de natação.
+
+A segurança deve sempre ser a prioridade ao desfrutar de atividades aquáticas."
+Qual o horário de funcionamento dela?,A piscina funciona todos os dias das 08h00 da manhã às 20h00.,"Você está se referindo à piscina do hotel?
+
+De acordo com as informações que tenho, a piscina do hotel funciona das 6h às 22h para adultos e das 8h às 20h para crianças.","Eu geralmente respondo com rapidez, mas preciso de mais detalhes para conseguir te ajudar. Você poderia, por favor, me dizer a que ""dela"" você está se referindo? É uma loja, um restaurante, um serviço público ou algo mais?"
+Qual o horário de funcionamento da academia?,A academia (Fitness Center) funciona diariamente das 06h00 às 22h00.,"A academia do nosso hotel funciona das 6h às 22h. Porém, o acesso é restrito a maiores de 16 anos.",A academia funciona de segunda a sexta-feira das 07h às 22h e nos sábados das 07h às 19h.
+Adolescentes podem treinar lá?,"O acesso à academia é restrito para menores de 16 anos, salvo acompanhamento formalizado pelos pais.","Sim, adolescentes podem treinar na nossa academia, mas é importante lembrar que menores de 18 anos só poderão se hospedar e utilizar nossas instalações se estiverem acompanhados dos pais ou responsáveis legais. Além disso, nossa academia está aberta das 06h00 às 22h00.","Sim, muitos adolescentes podem começar a treinar em academias, dependendo de vários fatores. Aqui estão algumas considerações importantes:
+
+1. **Idade e Maturidade**: A capacidade de um adolescente de treinar em uma academia depende de sua idade e nível de maturidade. Muitos profissionais de educação física e treinamento recomendam que adolescentes comecem a treinar com pesos e realizar exercícios de força supervisionados por um profissional qualificado após os 12 a 14 anos de idade. No entanto, isso pode variar dependendo do desenvolvimento individual e dos objetivos de treinamento.
+
+2. **Supervisão Profissional**: É crucial que os adolescentes sejam supervisionados por um profissional qualificado. Isso ajuda a garantir que eles estejam executando os exercícios corretamente, minimizando o risco de lesões e maximizando os benefícios do treinamento.
+
+3. **Objetivos de Treinamento**: Os objetivos de treinamento do adolescente também são importantes. Se o objetivo é melhorar a saúde geral, aumentar a força, melhorar a performance esportiva ou simplesmente se manter ativo, um programa de treinamento personalizado pode ser benéfico.
+
+4. **Segurança e Equipamento**: As academias devem ter um ambiente seguro para adolescentes, com equipamentos adequados para a idade e nível de habilidade deles. Muitas academias oferecem programas específicos para jovens ou têm horários dedicados para treinamento de adolescentes.
+
+5. **Consentimento e Comunicação**: Em muitos lugares, pode ser necessário o consentimento dos pais ou responsáveis para que menores de idade possam treinar em uma academia. Além disso, uma boa comunicação entre o adolescente, os pais e o treinador é essencial para garantir que os objetivos sejam alcançados de forma segura e eficaz.
+
+6. **Programas de Treinamento para Jovens**: Algumas academias e centros de treinamento oferecem programas específicos para jovens, que podem incluir treinamento de força, condicionamento físico, esportes de equipe ou aulas de grupo. Esses programas são projetados para serem divertidos e desafiadores, ajudando a desenvolver hábitos de vida saudáveis desde cedo.
+
+Em resumo, adolescentes podem treinar em academias, mas é importante que isso seja feito de maneira segura e supervisionada, com consideração aos objetivos individuais, nível de habilidade e necessidades de desenvolvimento."
+Posso almoçar no restaurante usando apenas roupa de banho?,"Não, não é permitido o ingresso ou trânsito nos restaurantes sem camisas, em biquínis ou com os pés descalços.","Desculpe, mas não é permitido entrar no restaurante usando apenas roupa de banho. De acordo com nossas regras, no horário do almoço, é necessário usar roupas leves e informais, mas não é permitido ingresso sem camisas ou com pés totalmente descalços. Além disso, o uso de trajes de piscina não disfarçados não é permitido no restaurante. Se você acabou de sair da piscina, recomendamos que use uma toalha ou uma muda de roupa antes de se dirigir ao restaurante. Estamos aqui para atendê-lo e oferecer uma experiência agradável!","Em geral, a resposta depende das regras específicas do restaurante e do local onde ele está situado. Muitos restaurantes têm códigos de vestimenta que especificam o tipo de roupa permitida para os clientes. Em alguns casos, especialmente em restaurantes localizados em áreas de praia ou resorts, pode ser mais comum e aceitável usar roupa de banho após um mergulho no mar ou na piscina, desde que o estabelecimento permita explicitamente.
+
+No entanto, na maioria dos restaurantes, especialmente aqueles localizados em áreas urbanas ou em estabelecimentos mais formais, usar apenas roupa de banho pode ser considerado inadequado. Roupas de banho são geralmente associadas a atividades aquáticas e não são vistas como apropriadas para ambientes de refeição, onde se espera um certo nível de formalidade ou, pelo menos, um código de vestimenta mais convencional.
+
+Se você está planejando almoçar em um restaurante e quer saber se pode usar roupa de banho, aqui estão algumas dicas:
+
+1. **Verifique o local**: Se o restaurante está localizado em uma praia, piscina ou em um resort, é mais provável que permita roupa de banho.
+2. **Consulte o site ou ligue para o restaurante**: Muitos restaurantes têm sites ou podem ser contatados por telefone para perguntar sobre suas políticas de vestimenta.
+3. **Observe o ambiente**: Se você já esteve no restaurante antes ou pode ver o ambiente externo, observe o tipo de clientela e as regras implícitas de vestimenta.
+4. **Vista uma saída de praia**: Se você acabou de nadar e quer almoçar no restaurante, considere vestir uma saída de praia ou uma roupa leve que seja mais apropriada para um ambiente de refeição.
+
+Lembre-se de que a regra de ouro é sempre se vestir de acordo com o ambiente e as expectativas do local que você está visitando. Se tiver dúvidas, é melhor errar do lado da cautela e escolher uma roupa mais apropriada para um restaurante."
+Que tipo de comida tem no almoço?,"O almoço oferece pratos à la carte ou buffet executivo (saladas, carnes, massas, sobremesas) e funciona das 12h às 15h.","No almoço, oferecemos opções à la carte e pratos executivos, incluindo saladas, carnes, massas e sobremesas. É um buffet executivo. As bebidas, entretanto, não estão incluídas. O horário do almoço é das 12h às 15h, e o preço é de R$ 80,00 por pessoa.","**Opções de Almoço**
+
+O tipo de comida que tem no almoço pode variar muito dependendo de vários fatores, como:
+
+* **Cultura**: Em diferentes países e regiões, os pratos típicos de almoço podem ser muito variados. Por exemplo:
+ + No Brasil, é comum ter pratos como feijoada, churrasco, arroz com frango, etc.
+ + No Japão, o almoço pode incluir sushi, ramen, tempura, etc.
+ + No México, é comum ter tacos, burritos, quesadillas, etc.
+* **Região**: Dentro de um mesmo país, as opções de almoço podem variar dependendo da região. Por exemplo:
+ + No norte do Brasil, é comum ter pratos como açaí, tacacá, etc.
+ + No sul do Brasil, é comum ter pratos como churrasco, polenta, etc.
+* **Estilo de vida**: As opções de almoço também podem variar dependendo do estilo de vida e das preferências pessoais. Por exemplo:
+ + Para quem é vegetariano ou vegano, é comum ter opções como saladas, sanduíches de vegetais, etc.
+ + Para quem é onívoro, é comum ter opções como carnes, peixes, etc.
+
+**Exemplos de Opções de Almoço**
+
+Aqui estão alguns exemplos de opções de almoço que podem ser encontradas em diferentes lugares:
+
+* **Pratos quentes**:
+ + Arroz com frango
+ + Feijoada
+ + Churrasco
+ + Sopa
+* **Pratos frios**:
+ + Saladas
+ + Sanduíches
+ + Frutas
+ + Iogurte
+* **Comidas rápidas**:
+ + Tacos
+ + Burritos
+ + Sushi
+ + Hamburgueres
+
+**Conclusão**
+
+Em resumo, o tipo de comida que tem no almoço pode variar muito dependendo de vários fatores, como cultura, região e estilo de vida. Existem muitas opções de almoço disponíveis, desde pratos quentes e frios até comidas rápidas e saudáveis. É importante escolher opções que sejam nutritivas e agradáveis ao paladar."
+Como funciona o check-out tarde?,"O late check-out até as 16h00 tem cobrança de 50% do valor da diária, dependendo da disponibilidade.","O check-out tarde, ou late check-out, é permitido até às 16h, com uma taxa de 50% da diária. É importante verificar a disponibilidade com a recepção, pois está sujeito à ocupação do hotel no dia específico da sua solicitação.","O check-out tardio é um serviço oferecido por muitos hotéis que permite aos hóspedes permanecer no quarto por um período adicional após o horário normal de check-out, geralmente às 12h. Esse serviço pode ser útil para hóspedes que precisam de mais tempo para relaxar, trabalhar ou simplesmente não querem deixar o hotel imediatamente.
+
+Aqui está como funciona o check-out tardio:
+
+1. **Solicitação**: O hóspede solicita o check-out tardio à equipe do hotel, geralmente na recepção ou por meio de um aplicativo do hotel. É recomendável fazer essa solicitação com antecedência, pois a disponibilidade pode ser limitada.
+
+2. **Disponibilidade**: O hotel verifica se o quarto está disponível para o check-out tardio. A disponibilidade pode depender de vários fatores, incluindo a política do hotel, a ocupação do hotel naquele dia e o tipo de quarto.
+
+3. **Taxas**: Muitos hotéis cobram uma taxa adicional pelo check-out tardio. Essa taxa pode variar de acordo com o hotel e o período de tempo adicional que o hóspede deseja permanecer. Em alguns casos, o check-out tardio pode ser oferecido gratuitamente, especialmente se o hóspede estiver celebrando uma ocasião especial ou se o hotel tiver uma política de cortesia.
+
+4. **Horário**: O horário de check-out tardio varia de hotel para hotel. Alguns podem oferecer check-out às 14h, 16h ou até mais tarde, enquanto outros podem ter horários mais restritos.
+
+5. **Check-out**: Se o check-out tardio for aprovado, o hóspede receberá uma confirmação do horário até o qual pode permanecer no quarto. É importante verificar com o hotel se há alguma taxa adicional e qual é o horário limite para o check-out.
+
+6. **Pagamento**: Se houver uma taxa pelo check-out tardio, ela geralmente será adicionada à conta do hóspede e paga no momento do check-out ou no final da estadia.
+
+O check-out tardio é uma opção conveniente para hóspedes que precisam de mais tempo no hotel, mas é sempre bom verificar a política específica do hotel e quaisquer taxas associadas."
+Tem alguma regra que isenta essa taxa?,Hóspedes que integram o programa 'Viajante Vip Hotel' podem ganhar check-outs prorrogados gratuitos às 14h.,"Desculpe, mas não possui essa informação. Posso ajudar com algo mais?","Sim, existem várias regras e condições que podem isentar ou reduzir a taxa de Imposto de Importação. No entanto, é importante notar que essas regras podem variar dependendo do tipo de produto, do país de origem, do valor da mercadoria e do tipo de importação (comercial, não comercial, etc.). Aqui estão algumas situações gerais que podem levar à isenção ou redução da taxa de Imposto de Importação:
+
+1. **Isenção para Produtos de Valor Inferior a US$ 50 (para pessoas físicas):** Para importações de valor até US$ 50, feitas por pessoa física, o Imposto de Importação é isento, desde que o remetente seja uma pessoa física e o destinatário também seja uma pessoa física. No entanto, é importante verificar se o produto está enquadrado nas regras do Remessa Conforme.
+
+2. **Remessa Conforme:** A partir de agosto de 2023, entrou em vigor o programa Remessa Conforme, que isenta de Imposto de Importação (II) as compras de até US$ 50 feitas por pessoas físicas com empresas que aderiram ao programa e que garantam o recolhimento do ICMS e do Imposto sobre Serviços (ISS) quando aplicável. Para compras acima de US$ 50 ou para produtos que não aderiram ao programa, o Imposto de Importação é de 20%.
+
+3. **Bens de Capital:** Equipamentos e máquinas que não sejam produzidos no Brasil ou que sejam destinados à produção de bens ou serviços e que constem em listas específicas podem ter redução ou isenção do Imposto de Importação.
+
+4. **Medicamentos e Produtos para a Saúde:** Alguns medicamentos e produtos para a saúde podem ter isenção ou redução do Imposto de Importação, especialmente se destinados a entidades filantrópicas ou para uso próprio de pacientes com doenças específicas.
+
+5. **Livros, Jornais e Periódicos:** A importação de livros, jornais e periódicos é isenta de Imposto de Importação, o que visa fomentar a cultura e o acesso à informação.
+
+6. **Amostras e Presentes:** Em alguns casos, amostras sem valor comercial ou pequenos presentes podem ser isentos, mas geralmente há restrições e necessidade de enquadramento em normas específicas.
+
+7. **Acordos Comerciais:** O Brasil possui acordos comerciais com vários países e blocos econômicos (como o Mercosul, a União Europeia, etc.), que podem reduzir ou eliminar o Imposto de Importação para produtos originários desses locais.
+
+É fundamental consultar a legislação atualizada e, se necessário, buscar aconselhamento de um profissional especializado em comércio exterior para entender melhor como essas regras se aplicam ao seu caso específico. A Receita Federal do Brasil e o Ministério da Economia são fontes oficiais que podem fornecer informações atualizadas sobre essas questões."
+O hotel emite nota fiscal para minha empresa?,"Sim, realizamos emissão fiscal contra empresas (B2B) perante faturamento quinzenal para clientes corporativos registrados.","Sim, o hotel emite nota fiscal para pessoa jurídica. Ao finalizar o check-out, a recepção exigirá seus dados corporativos completos e fará a emissão fiscal contra empresas (B2B) perante faturamento quinzenal para clientes corporativos já registrados ou pagamentos via pré-pagamentos com depósitos antecipados.","Sim. O hotel emite nota fiscal para sua empresa, e isso é um procedimento padrão em estabelecimentos que oferecem serviços de hospedagem.
+
+Quando você se hospeda em um hotel, seja a trabalho ou a lazer, o hotel fornece um serviço de hospedagem e, como qualquer outra empresa que prestadora de serviços, ele precisa documentar essa transação. A nota fiscal é o documento que registra essa transação comercial e é emitida pelo hotel em nome de sua empresa.
+
+A nota fiscal serve como um recibo oficial e comprova a prestação de serviços (no caso, hospedagem) e também é usada para fins contábeis e fiscais. Ela deve conter informações como:
+
+- Descrição do serviço prestado (hospedagem, neste caso)
+- Valor dos serviços
+- Data de início e fim da hospedagem
+- Dados do hotel (emitente) e do cliente (sua empresa)
+- CNPJ, endereço e outras informações relevantes tanto do hotel quanto de sua empresa.
+
+Além disso, muitos hotéis também oferecem outros serviços, como alimentação (restaurante), serviços de spa, aluguel de salas para eventos, entre outros, e cada um desses serviços pode ser discriminado na nota fiscal.
+
+É importante verificar se a nota fiscal foi emitida corretamente e se todos os dados estão corretos, pois ela pode ser necessária para sua contabilidade, para solicitar reembolso de despesas, ou até mesmo para comprovar a saída de caixa em caso de auditorias.
+
+Caso você não receba a nota fiscal ou se houver algum erro nela, é recomendável entrar em contato com o hotel o mais rápido possível para regularizar a situação."
+Preciso mandar algum e-mail pra isso?,"Sim, a recepção exigirá seus dados corporativos completos durante o check-out ou via contato com nosso setor de faturamento.","Sim, para solicitar o faturamento da nota para pessoa jurídica, é necessário enviar um e-mail com seus dados corporativos completos. No entanto, não tenho o endereço de e-mail específico para isso. Você pode confirmar com a recepção do hotel para obter mais informações sobre como proceder.",Não tenho certeza do que você está se referindo. Você poderia fornecer mais detalhes ou contexto sobre o que precisa fazer ou para quem precisa mandar um e-mail? Isso me ajudaria a entender melhor sua situação e oferecer uma resposta mais precisa.
+Qual é a política sobre lavagem de roupas?,"O hotel possui serviço de lavanderia (urgente) que custa R$ 50,00 por peça, entregando em até 6 horas.","Nossa política de lavagem de roupas é baseada no Programa ""Hotel Verde"". As roupas de cama são trocadas a cada 3 dias. Se você deseja reutilizar as toalhas, por favor, deixe-as penduradas no toalheiro. Caso as toalhas sejam jogadas no chão, elas serão prontamente lavadas e substituídas por novas.
+
+Quanto à lavanderia, não temos informações sobre serviços de lavagem de roupas pessoais. Se você precisar de mais informações sobre isso, posso sugerir que entre em contato conosco para mais detalhes. 
+
+Posso ajudar com mais alguma coisa?","Não tenho acesso a políticas ou procedimentos específicos de uma organização ou empresa, mas posso oferecer algumas diretrizes gerais sobre políticas de lavagem de roupas. Se você está procurando informações sobre uma política específica, recomendo verificar com o departamento de recursos humanos ou com o responsável pela política da organização em questão.
+
+### Diretrizes Gerais
+
+1. **Frequência de Lavagem**: A frequência com que as roupas devem ser lavadas pode variar dependendo do tipo de atividade realizada, do clima e das preferências pessoais. Roupas usadas para atividades físicas ou em ambientes quentes podem precisar ser lavadas após cada uso, enquanto outras podem ser lavadas semanalmente.
+
+2. **Separação de Roupas**: É uma boa prática separar as roupas por tipo e cor antes de lavá-las. Roupas brancas e claras devem ser lavadas separadamente de roupas escuras para evitar transferência de cor. Roupas delicadas ou que exigem lavagem à mão devem ser separadas das que podem ser lavadas na máquina.
+
+3. **Uso de Detergentes**: O uso de detergentes apropriados para o tipo de roupa e a máquina de lavar é importante. Detergentes para roupas delicadas ou para lavagem à mão são formulados para ser mais suaves.
+
+4. **Temperaturas de Lavagem**: A temperatura da água deve ser escolhida com base no tipo de roupa. Roupas brancas e de cores claras podem ser lavadas em água quente para uma limpeza mais profunda, enquanto roupas escuras ou delicadas devem ser lavadas em água fria para prevenir o desbotamento.
+
+5. **Secagem**: Roupas devem ser secas de acordo com as instruções do fabricante. Algumas roupas podem ser secas na máquina, enquanto outras devem ser secas ao ar livre. Pendurar roupas para secar ao ar livre pode ser uma opção mais suave e econômica.
+
+6. **Manutenção de Roupas**: Além da lavagem, a manutenção regular inclui passar roupas que necessitam ser passadas e reparar danos, como botões soltos ou rasgos, para prolongar a vida útil das roupas.
+
+### Política no Local de Trabalho
+
+- **Uniformes**: Se a política se aplica a uniformes de trabalho, pode haver diretrizes específicas sobre como os uniformes devem ser lavados e cuidados, incluindo a frequência de lavagem e se os uniformes devem ser trazidos para casa ou lavados em um serviço de lavanderia profissional.
+
+- **Roupas de Proteção**: Para trabalhadores em ambientes perigosos, pode haver políticas específicas sobre o cuidado e a manutenção de roupas de proteção para garantir que permaneçam eficazes.
+
+- **Higiene**: Em alguns ambientes de trabalho, especialmente na indústria alimentícia ou em hospitais, pode haver políticas rigorosas sobre a higiene pessoal, incluindo a lavagem de roupas para prevenir a propagação de germes.
+
+Lembre-se de que as políticas específicas podem variar amplamente dependendo do contexto, setor e cultura organizacional."
+Esses serviços são cobrados na hora?,"Não, serviços de lavanderia costumam ser lançados como 'consumo' e pagos sempre na saída do Check-Out.","Sim, os serviços de Early check-in e Late check-out são cobrados no momento do check-out, junto com a hospedagem.
+
+- Early check-in (antes das 14h): Taxa de 30% da diária.
+- Late check-out (até 16h): Taxa de 50% da diária.
+
+Já os serviços como café da manhã para não-pensionistas, são cobrados diariamente na portaria, no valor de R$ 55,00/pessoa.
+
+E os preços das acomodações, como Quarto Standard, Quarto Luxo e Suíte Presidencial, também são pagos no momento do check-out, de acordo com a política de cancelamento e os valores informados anteriormente.","Eu sou um grande modelo de linguagem. Quando você me faz uma pergunta ou me fornece uma orientação, eu analizo o que você diz e gero uma resposta que seja relevante e precisa. Estou constantemente aprendendo e melhorando, então com o passar do tempo serei ainda melhor em atendê-lo. Há algo em que eu possa ajudá-lo?"
+Os quartos têm ar condicionado?,"Sim, todos os quartos são equipados com Ar Condicionado Split silencioso.","Sim, todos os quartos do hotel são equipados com Ar Condicionado Split silencioso.","Sim, a maioria dos quartos do hotel tem ar condicionado."
+Qual a voltagem das tomadas deles?,A voltagem padrão nas acomodações do hotel é de 220v.,"Desculpe, mas não tenho essa informação. Posso ajudar com outras questões sobre o hotel?","As especificações das tomadas podem variar bastante de um país para outro, dependendo das normas e regulamentações locais de segurança e infraestrutura elétrica. A voltagem das tomadas é um dos aspectos mais importantes, pois determina a compatibilidade com aparelhos elétricos de diferentes partes do mundo.
+
+### Voltagem Comum em Tomadas
+
+- **220-240V**: Muitos países, especialmente na Europa, Ásia e África, usam tomadas com voltagem de 220-240 volts, com frequência de 50 Hz. Exemplos incluem Reino Unido, Alemanha, França, Austrália, China e Brasil (embora no Brasil a voltagem seja de 230 volts).
+
+- **120V**: Nos Estados Unidos, Canadá e alguns outros países da América do Norte, as tomadas geralmente fornecem 120 volts, com frequência de 60 Hz.
+
+- **100V**: No Japão, as tomadas fornecem 100 volts, com frequência de 50 Hz em algumas áreas e 60 Hz em outras.
+
+### Tipos de Tomadas
+
+Além da voltagem, o tipo físico de tomada também varia significativamente. Existem muitos tipos de tomadas, designados por letras (como A, C, D, E, F, G, etc.), cada um com suas próprias características de construção, como o número de pinos, a forma dos pinos e a presença de pinos de aterramento.
+
+### Considerações para Viagens
+
+Quando se viaja para outro país, é importante verificar as especificações das tomadas e da voltagem para garantir que os dispositivos elétricos portáteis sejam compatíveis. Pode ser necessário usar adaptadores de tomada e, em alguns casos, conversores de voltagem para evitar danificar os aparelhos.
+
+### Brasil
+
+No Brasil, a voltagem nominal das tomadas é de 230 volts, com frequência de 60 Hz. O país utiliza principalmente tomadas do tipo A e B (com dois pinos planos paralelos), mas também é comum encontrar tomadas com três pinos (dois pinos planos e um pino de aterramento).
+
+É sempre uma boa prática verificar as especificações locais antes de viajar ou de adquirir aparelhos elétricos para uso em outro país."
+Posso agendar uma massagem?,"Sim, oferecemos massagem relaxante com aromaterapia por R$ 150,00 a hora, mediante agendamento das 09h às 21h.","Sim, é possível agendar uma massagem conosco. Oferecemos a Massagem Relaxante por R$ 150,00 por hora, com sessão de aromaterapia inclusa. O horário de funcionamento do Spa é das 9h às 21h. Recomendamos agendar previamente para garantir sua sessão. Você pode fazer isso entrando em contato com a nossa recepção ou diretamente com o Spa. Quais opções de massagem você gostaria de conhecer melhor?","Claro, posso ajudá-lo a entender como agendar uma massagem, mas não posso agendar diretamente para você. Aqui estão algumas etapas que você pode seguir para agendar uma massagem:
+
+1. **Escolha um Local**: Decida onde você gostaria de receber a massagem. Pode ser um spa, uma clínica de massagem, um centro de bem-estar ou até mesmo um profissional que vá até você.
+
+2. **Verifique a Disponibilidade**: Entre em contato com o local escolhido (ligando, enviando um e-mail ou usando o site/app deles) para verificar a disponibilidade de horários. Muitos lugares permitem que você faça isso online.
+
+3. **Selecione o Tipo de Massagem**: Saber qual tipo de massagem você deseja pode ajudar no processo. Existem muitos tipos, como massagem relaxante, esportiva, shiatsu, entre outras.
+
+4. **Forneça Detalhes**: Quando agendar, será necessário fornecer alguns detalhes, como:
+   - Seu nome e contato.
+   - Data e hora preferidas.
+   - Tipo de massagem desejada.
+   - Duração da massagem (geralmente 30, 60 ou 90 minutos).
+
+5. **Confirme o Agendamento**: Certifique-se de confirmar o agendamento. O local pode pedir que você confirme com um número de confirmação ou um link.
+
+6. **Prepare-se**: Antes da massagem, é uma boa ideia:
+   - Chegar um pouco mais cedo para preencher qualquer papelada necessária.
+   - Tomar um banho, se necessário.
+   - Evitar refeições pesadas antes da massagem.
+
+7. **Comunique-se Durante a Massagem**: Se você tiver áreas específicas de tensão ou preferências de pressão, não hesite em comunicar ao massagista durante a sessão.
+
+Lembre-se de que a comunicação é chave, tanto antes quanto durante a massagem, para garantir que você tenha a melhor experiência possível. Se você está procurando por um profissional específico ou tem necessidades especiais, certifique-se de mencioná-las ao agendar."
+Posso agendar pela recepção?,"O agendamento é feito no próprio Spa, e terapias do SPA costumam ser lançadas na conta do quarto.","Sim! Você pode agendar passeios de barco, aulas de surf e massagens diretamente com a recepção. Eles poderão fornecer mais informações sobre valores e horários disponíveis.","Sim, é possível agendar um horário com um profissional de saúde, como um médico, dentista ou outro especialista, através da recepção de um consultório, clínica ou hospital. Muitos estabelecimentos de saúde oferecem essa opção para que os pacientes possam marcar consultas de forma conveniente.
+
+Aqui estão algumas maneiras pelas quais você pode agendar um horário pela recepção:
+
+1. **Telefone**: Você pode ligar diretamente para o número de telefone da recepção do consultório ou clínica e falar com o recepcionista para agendar um horário.
+2. **Presencialmente**: Você pode se dirigir pessoalmente ao consultório ou clínica e falar com o recepcionista para agendar um horário.
+3. **E-mail**: Alguns consultórios e clínicas podem oferecer a opção de agendamento por e-mail. Você pode enviar um e-mail para a recepção solicitando um horário.
+4. **Sistema de agendamento online**: Muitos estabelecimentos de saúde têm sistemas de agendamento online que permitem que você marque um horário através do site ou de uma plataforma de agendamento.
+
+Ao agendar um horário, é importante ter as seguintes informações prontas:
+
+- Seu nome e data de nascimento
+- O tipo de consulta que você deseja (por exemplo, consulta médica, exame, procedimento)
+- Suas datas e horários disponíveis
+- Seu número de telefone e/ou e-mail para contato
+
+Lembre-se de confirmar o horário agendado e perguntar sobre qualquer documentação ou preparo necessário para a consulta."
+Quais passeios posso fazer na cidade?,"O Concierge organiza City Tours, passeios de barco para ilhas, e roteiros ecológicos de jipe.","Nossa cidade oferece diversas opções de lazer!
+
+Você pode visitar o **Museu Central**, que fica a apenas 2 km de distância do hotel. Também temos o **Parque Verde** e a **Pista de Caminhada**, que ficam a 1,2 km de distância. É um ótimo lugar para se exercitar e aproveitar o ar livre.
+
+Além disso, há um **Shopping Center** e um **Centro Financeiro** a 5 km de distância, caso você queira explorar opções de compras e serviços.
+
+Para se locomover pela cidade, sugerimos utilizar aplicativos como **Uber**, **99** ou **InDriver**. O ponto de embarque e desembarque fica na entrada principal do hotel, protegido por uma marquise.
+
+Se precisar de mais informações ou ajuda para planejar seus passeios, nossa equipe de **Concierge** está à disposição!","Você pode visitar o Cristo Redentor, o Pão de Açúcar, o Aquário Marinho, o Jardim Botânico, o Museu de Arte Moderna, o Museu Nacional de Belas Artes, o Palácio do Catete, o Morro da Urca e o Teatro Municipal."
+Qual o valor do passeio de barco?,"O passeio de barco custa R$ 200,00 por pessoa, dura 2h e ocorre na temporada (jun–set).","O passeio de barco para as ilhas vizinhas custa R$ 200,00 por pessoa. Ele dura 2 horas, inclui paradas para mergulho e as saídas dependem de condições climáticas seguras. É necessário um grupo mínimo de 4 pessoas. Esse passeio está disponível durante a temporada, de junho a setembro.","– Passeio de barco: R$ 10,00 (ida e volta)"
+O hotel fica no centro turístico?,"O hotel tem fácil acesso aos atrativos. Os pontos turísticos mais próximos são o Museu Central (2 km) e o Parque Verde com pista de caminhada (1,2 km).","Não, o hotel não fica no centro turístico, mas oferece fácil acesso a pontos turísticos próximos, como o Museu Central, que fica a 2 km de distância, e o Parque Verde e Pista de Caminhada, a 1,2 km. Nossa equipe de Concierge está à disposição para ajudar a organizar seus deslocamentos.","Sim, o hotel fica no centro turístico. É uma ótima localização para quem deseja aproveitar ao máximo a estadia."
+Qual aplicativo vocês recomendam usar pra ir lá?,"Sugerimos o uso de Uber, 99 ou InDriver, com ponto de embarque na entrada principal.","Nós sugerimos usar aplicativos como Uber, 99 ou InDriver para transporte. O ponto de embarque e desembarque fica na entrada principal do hotel, que é protegido por uma marquise.",Eu não tenho certeza do que você está procurando. Você poderia fornecer mais detalhes ou contexto sobre o que você quer acessar com o aplicativo? Isso ajudaria a dar uma recomendação mais precisa.
+"Se eu esquecer meu carregador, acho outro perto?","Existem pontos comerciais, como um Shopping Center e Centro Financeiro a 5 km de distância.",Não tenho essa informação. Posso ajudar com outras informações sobre o hotel?,"Se você estiver em um local público, como um aeroporto, hotel, restaurante ou shopping, é provável que haja carregadores disponíveis para uso. Muitos desses locais oferecem carregadores públicos ou áreas de carregamento com dispositivos de carregamento disponíveis para uso.
+
+Além disso, você pode tentar:
+
+1. **Perguntar aos funcionários do local**: Eles podem ter carregadores extras ou saber de algum lugar nas proximidades onde você possa encontrar um.
+2. **Procurar por estações de carregamento**: Muitos locais públicos têm estações de carregamento com múltiplas tomadas e carregadores USB disponíveis.
+3. **Comprar um carregador**: Se você estiver perto de uma loja de eletrônicos ou uma loja de conveniência, pode comprar um carregador.
+4. **Usar um carregador de outro dispositivo**: Se você tiver outro dispositivo com um carregador compatível, pode usar esse carregador para carregar seu dispositivo.
+
+Lembre-se de sempre verificar a compatibilidade do carregador com seu dispositivo antes de usá-lo."
+E farmácia?,"Temos uma farmácia 24h a 500m (Rua das Palmeiras, 100).","Desculpe, mas não tenho essa informação. Posso ajudar com mais alguma coisa sobre o Hotel?","Posso fornecer informações sobre uma variedade de tópicos relacionados à saúde. Qual é o seu interesse específico? Posso ajudar com questões sobre medicamentos, condições de saúde, nutrição ou algo mais? Por favor, me avise como posso ajudar."
+Vocês têm suíte presidencial?,"Sim, a Suíte Presidencial custa a partir de R$ 1.200,00 por noite e inclui 2 ambientes e serviço de mordomo.","Sim, temos! A Suíte Presidencial é uma das nossas acomodações mais luxuosas. Ela inclui 2 ambientes (sala de estar isolada), serviço de mordomo 24h, champanhe de boas-vindas, máquina de café expresso e jacuzzi privativa. O valor é de R$ 1.200,00 por noite e comporta até 2 hóspedes. É necessário fazer uma reserva prévia. Você gostaria de saber mais sobre como fazer uma reserva?","Sim, temos suíte presidencial. Ela inclui um quarto amplo com uma cama king-size, uma área de estar com um sofá e uma mesa de trabalho, um banheiro com chuveiro e uma varanda com vista para a cidade. Além disso, a suíte presidencial inclui serviços adicionais, como um serviço de butler e acesso a uma área de lazer exclusiva. Você gostaria de mais detalhes ou de fazer uma reserva?"
+Tem jacuzzi nela?,"Sim, ela possui champanhe de boas-vindas, máquina de café expresso e jacuzzi privativa.","Sim, a Suíte Presidencial tem uma jacuzzi privativa.","Eu sou um modelo de inteligência artificial conhecido como Llama. Llama significa ""Meta AI de modelo de linguagem grande""."
+O hotel tem programa de sustentabilidade?,"Sim, possuímos o programa 'Hotel Verde'. Para colaborar, as roupas de cama são trocadas a cada 3 dias.","Sim, nós temos um programa de sustentabilidade chamado ""Hotel Verde"". Você pode participar ajudando a reduzir o impacto ambiental, por exemplo, reutilizando as toalhas. Basta deixá-las penduradas no toalheiro.","Nos últimos anos, tem se tornado cada vez mais comum os estabelecimentos hoteleiros possuírem um programa de sustentabilidade. Essa prática visa reduzir o impacto ambiental causado pelo hotel, através de uma série de ações, como:
+
+* **Economia de energia e água**
+ * Utilização de lâmpadas LED e sistemas de iluminação inteligentes
+ * Instalação de sistemas de economia de água em pias, chuveiros e vasos sanitários
+* **Redução de resíduos**
+ * Implementação de programas de reciclagem e reutilização de materiais
+ * Redução do uso de plásticos descartáveis
+* **Uso de fontes de energia renováveis**
+ * Instalação de painéis solares ou turbinas eólicas para gerar energia
+* **Práticas de conservação**
+ * Proteção de áreas verdes e preservação de habitats naturais
+ * Implementação de práticas de conservação de biodiversidade
+* **Educação e conscientização**
+ * Treinamento de funcionários sobre práticas sustentáveis
+ * Comunicação com os hóspedes sobre as iniciativas de sustentabilidade do hotel
+
+Essas ações não apenas contribuem para a preservação do meio ambiente, mas também podem resultar em economia de custos e melhoria da imagem do hotel. É importante notar que cada hotel pode ter seu próprio programa de sustentabilidade, portanto é recomendável verificar diretamente com o hotel para obter informações específicas sobre suas práticas."
+"E as toalhas, como funcionam no programa?","Se desejar reutilizar suas toalhas, deixe-as penduradas no toalheiro. Toalhas no chão serão lavadas.","No nosso programa ""Hotel Verde"", estamos comprometidos com o meio ambiente e o consumo consciente de água. Para isso, temos uma política de reutilização de toalhas. Se você deseja reutilizar as toalhas, basta deixá-las penduradas no toalheiro. Dessa forma, indicará que deseja reutilizá-las e nós as recolheremos e as lavaremos posteriormente.
+
+Se, por outro lado, você joga as toalhas no chão, entendemos que deseja que sejam lavadas e substituídas por novas. Estamos aqui para atender às suas necessidades e garantir seu conforto durante a estadia.","No programa que estamos discutindo, que parece ser uma referência a algum contexto específico que não foi totalmente detalhado, as toalhas podem ter um significado particular ou serem mencionadas de forma metafórica. No entanto, sem um contexto claro, posso oferecer uma interpretação geral sobre como ""toalhas"" poderiam funcionar em diferentes tipos de programas ou contextos:
+
+1. **Contexto de Hotelaria ou Resorts:** Em um programa de TV ou sistema de gestão de hotéis, as toalhas são essenciais para o conforto dos hóspedes. Nesse caso, o programa poderia gerenciar o estoque de toalhas, monitorar quando elas precisam ser lavadas ou substituídas, e até mesmo permitir que os funcionários requisitem mais toalhas conforme necessário.
+
+2. **Contexto de Roupas ou Lavanderia:** Se o programa estiver relacionado a um serviço de lavanderia ou a um aplicativo que ajuda a gerenciar roupas e lavagem de roupas, as toalhas seriam um tipo de item que pode ser lavado e monitorado dentro do sistema. O programa poderia controlar quantas toalhas estão disponíveis, quais estão sujas e precisam ser lavadas, e agendar lavagens.
+
+3. **Contexto de Educação ou Treinamento:** Em um contexto educacional, um programa que ensina sobre hospitalidade, gestão de hotéis, ou até mesmo sobre cuidados pessoais, as toalhas poderiam ser usadas como exemplo para demonstrar procedimentos de higiene, dobragem, arrumação em hotéis, etc.
+
+4. **Contexto de Jogos ou Simulações:** Em um jogo ou simulação, as toalhas poderiam ser um item que os jogadores precisam coletar, usar ou gerenciar de alguma forma. Por exemplo, em um jogo de sobrevivência, as toalhas poderiam ser usadas para secar personagens depois de nadar ou tomar banho, afetando seu conforto ou saúde.
+
+5. **Contexto de Casa ou Família:** Em um programa que ajuda na gestão doméstica ou organização familiar, as toalhas poderiam ser listadas como itens a serem monitorados, comprados, lavados, etc., ajudando a manter um controle sobre o uso e a disponibilidade.
+
+Se você puder fornecer mais detalhes sobre o contexto específico do programa ao qual você se refere, eu poderia oferecer uma resposta mais precisa e relevante."
+Qual ramal para chamar a limpeza?,"Para serviços de limpeza ou arrumação, o hóspede deve discar o ramal 105.","Desculpe, mas não tenho essa informação. Posso ajudar com mais alguma coisa sobre o Hotel?","Para chamar a limpeza, o ramal pode variar dependendo da empresa ou local onde você está. No entanto, em muitos ambientes, especialmente em escritórios ou condomínios, existe um ramal específico para solicitar serviços de limpeza. 
+
+Geralmente, para encontrar o ramal correto, você pode:
+
+1. **Verificar o Diretório de Ramais**: Muitas empresas têm um diretório de ramais disponível para os funcionários, seja em formato físico ou digital, onde você pode encontrar o contato da equipe de limpeza.
+
+2. **Central de Serviços**: Em condomínios ou grandes escritórios, costuma haver uma central de serviços ou uma recepção que pode redirecionar sua ligação para o setor de limpeza.
+
+3. **Ramal Único para Serviços**: Algumas empresas adotam um ramal único para solicitar serviços gerais, incluindo limpeza.
+
+4. **Contato Direto**: Se você tem o contato direto de alguém da equipe de limpeza, pode ligar diretamente para essa pessoa.
+
+Caso você não encontre o ramal específico, uma abordagem comum é ligar para a recepção ou para o número de atendimento geral da empresa e perguntar como proceder para chamar a limpeza. Eles poderão fornecer o ramal correto ou tomar as providências necessárias.
+
+Lembre-se de que os procedimentos podem variar, então não hesite em perguntar se você não encontrar a informação necessária."
+A que horas eles passam limpando?,A arrumação do quarto ocorre diariamente entre as 09h00 e 16h00.,A arrumação do quarto ocorre diariamente entre as 09h00 e 16h00.,"Para obter informações precisas sobre os horários de limpeza, recomendo verificar diretamente com a fonte relevante. Se você estiver se referindo a serviços de limpeza em uma área pública, como parques ou ruas, muitas cidades têm sites oficiais ou aplicativos móveis onde você pode encontrar horários e cronogramas para esses serviços. 
+
+Se for sobre um local específico, como um prédio de escritórios ou um estabelecimento comercial, talvez seja melhor entrar em contato diretamente com o gerenciamento do local ou com o serviço de limpeza para obter essas informações. 
+
+Lembre-se de que os horários podem variar dependendo do dia da semana, feriados e outras circunstâncias, então é sempre uma boa ideia confirmar com antecedência."
+Posso cancelar minha reserva de graça?,"Para a Tarifa Flexível, cancelamentos são totalmente gratuitos se realizados com até 48 horas de antecedência ao check-in.","Para cancelar sua reserva de graça, você precisa realizar o cancelamento com até 48 horas de antecedência ao dia do seu check-in, se você tiver uma tarifa flexível. Se você ultrapassar esse prazo, será retida uma multa no valor de 1 diária.
+
+Se você tiver uma tarifa não reembolsável ou promocional, não será possível cancelar ou reembolsar sua reserva.
+
+Você também pode verificar as condições específicas da sua reserva ou entrar em contato conosco para obter mais informações.","Depende da política de cancelamento da empresa com a qual você fez a reserva. Algumas empresas permitem cancelamentos gratuitos dentro de um determinado período de tempo, enquanto outras podem cobrar uma taxa de cancelamento ou não permitir cancelamentos. É importante verificar as condições específicas da sua reserva para entender as opções disponíveis."
+E se a minha tarifa for não reembolsável?,"Reservas promocionais não reembolsáveis não permitem cancelamento, reembolso ou alteração, e o valor integral será retido.","Se a sua tarifa for não reembolsável, infelizmente, não será possível realizar cancelamentos ou alterações de datas. O valor integral da reserva será retido em caso de desistência. Além disso, se você não comparecer no dia agendado do check-in sem aviso prévio, será considerado no-show e será cobrada 100% da estadia.","Se a sua tarifa for não reembolsável, por favor, verifique os termos e condições ou política de cancelamento dessa tarifa, para entender as opções disponíveis. Geralmente, as tarifas não reembolsáveis são mais baratas, mas implicam que, em caso de cancelamento, o cliente perca o valor total ou parte desse valor. Existem algumas opções, como:
+
+- Alterar para outra data: algumas companhias permitem que você altere para outra data sem custo adicional.
+- Crédito: algumas companhias concedem um crédito para ser usado em uma viagem futura. 
+- Seguros: se você comprou um seguro de viagem, verifique se ele cobre cancelamentos. 
+
+Lembre-se de que cada companhia tem as suas próprias regras e políticas, por isso é sempre bom ler os termos e condições antes de comprar."
+O wi-fi pega na piscina?,"Sim, oferecemos Wi-Fi gratuito em todo o perímetro do hotel, incluindo piscinas, restaurantes e quartos.","Sim, o Wi-Fi do hotel cobre toda a área, incluindo a piscina. Você pode se conectar usando a rede ""HotelExample_Guest"" e a senha ""hotel1234"". Se precisar de uma conexão mais rápida, também oferecemos uma rede Premium.","O Wi-Fi é uma tecnologia de rede sem fio que utiliza ondas de rádio para transmitir dados entre dispositivos. A capacidade do Wi-Fi de ""pegar"" ou alcançar uma determinada área depende de vários fatores, incluindo a potência do sinal do roteador, a presença de obstáculos físicos (como paredes, móveis e, no seu caso, a água) e a interferência de outros dispositivos.
+
+A água, especialmente em uma piscina, pode afetar significativamente a propagação do sinal Wi-Fi. A água é um excelente absorvedor de ondas eletromagnéticas, incluindo as usadas pelo Wi-Fi (que operam na faixa de 2,4 GHz ou 5 GHz). Quando um sinal Wi-Fi tenta atravessar a água, uma grande parte dele é absorvida, o que resulta na atenuação do sinal.
+
+Portanto, em uma piscina, especialmente se você estiver submerso, a recepção do sinal Wi-Fi tende a ser muito fraca ou praticamente inexistente. Mesmo se você estiver na borda da piscina ou em uma área próxima, mas ainda com a água como um obstáculo direto entre o dispositivo e o roteador, a intensidade do sinal pode ser reduzida.
+
+No entanto, existem algumas soluções e tecnologias que podem melhorar a cobertura Wi-Fi em áreas com obstáculos, incluindo:
+
+1. **Roteadores com maior potência de transmissão:** Podem oferecer uma cobertura mais ampla, mas ainda enfrentarão limitações com obstáculos significativos como a água.
+
+2. **Redes Wi-Fi Mesh:** São compostas por vários pontos de acesso que trabalham juntos para fornecer uma cobertura Wi-Fi uniforme em uma área. Isso pode ajudar a superar obstáculos.
+
+3. **Extensores de alcance Wi-Fi:** Dispositivos que capturam o sinal Wi-Fi existente e o retransmitem, ampliando a cobertura.
+
+4. **Conexões Ethernet com adaptadores Powerline:** Se você tiver acesso a uma tomada na área da piscina, pode usar adaptadores Powerline para criar uma conexão Ethernet através da fiação elétrica da sua casa, e então converter isso em Wi-Fi.
+
+Em resumo, o Wi-Fi pode ter dificuldade em alcançar áreas submersas em uma piscina devido à absorção do sinal pela água. No entanto, com planejamento e as tecnologias certas, é possível melhorar a cobertura Wi-Fi em áreas externas, incluindo aquelas próximas a piscinas."
+Tem alguma rede com internet mais rápida?,"Sim, há a rede Premium (HotelExample_Premium) adquirida na recepção para quem precisa de banda larga dedicada.","Sim, oferecemos planos ""Premium"" de internet que podem ser adquiridos na recepção. Esses planos oferecem uma banda larga dedicada e são ideais para hóspedes em viagem a negócios que precisem de uma conexão mais rápida. O valor é de $/dia, mas por favor, verifique com a recepção para obter mais informações sobre os preços e detalhes.","A velocidade da internet pode variar muito dependendo de vários fatores, incluindo a tecnologia de rede utilizada (como fibra óptica, cabo coaxial, DSL, satélite, etc.), a infraestrutura local, a distância do provedor de serviços de internet (PSI) e a demanda de uso na área. Até o meu último conhecimento em abril de 2023, as redes com internet mais rápida geralmente são aquelas que utilizam fibra óptica, pois essa tecnologia pode oferecer velocidades muito altas com baixa latência.
+
+ Algumas das opções de redes com internet mais rápida incluem:
+
+1. **Fibra Óptica**: A fibra óptica é uma das tecnologias de internet mais rápidas e confiáveis. Ela pode oferecer velocidades de até 10 Gbps (gigabit por segundo) ou mais em alguns casos, embora velocidades de 1 Gbps sejam mais comuns para usuários residenciais.
+
+2. **5G**: A quinta geração das redes móveis (5G) promete velocidades de internet muito altas, com picos de até 20 Gbps, embora as velocidades experimentais mais comuns sejam na faixa de dezenas a centenas de megabits por segundo (Mbps). A velocidade e a qualidade do 5G podem variar significativamente dependendo da cobertura e da capacidade da rede.
+
+3. **Cabo Coaxial**: As redes de cabo coaxial, especialmente aquelas que são atualizadas para DOCSIS 3.1 ou DOCSIS 3.0, podem oferecer velocidades de até 10 Gbps, embora as velocidades comuns sejam de até 1 Gbps.
+
+4. **Ethernet**: Para conexões locais, a Ethernet é uma das formas mais rápidas de conexão de rede, com velocidades que variam de 100 Mbps a 100 Gbps ou mais, dependendo do hardware e da infraestrutura utilizados.
+
+É importante notar que a disponibilidade dessas tecnologias e suas velocidades máximas variam por região e dependem do provedor de serviços de internet. Além disso, a velocidade percebida pelo usuário pode ser afetada por vários fatores, incluindo o número de dispositivos conectados à rede, a qualidade do roteador e do modem, e a distância dos servidores de destino.
+
+Para saber qual é a opção mais rápida disponível em sua área, é recomendável verificar as ofertas dos provedores de serviços de internet locais e ler avaliações de outros usuários sobre a qualidade e velocidade da conexão."
+Qual bandeira de cartão vocês aceitam?,"Aceitamos Cartões Nacionais e Internacionais (Visa, Mastercard, American Express, Diners, Elo).","Nós aceitamos várias bandeiras de cartão, incluindo:
+
+* Visa
+* Mastercard
+* American Express
+* Diners
+* Elo
+
+Além disso, também aceitamos PIX (CNPJ do Hotel) e moedas correntes físicas do Brasil (BRL).","Eu sou um grande modelo de linguagem, então não tenho um negócio físico ou um site para processar pagamentos. Eu existo apenas como uma entidade digital e não posso aceitar cartões ou realizar transações financeiras. Estou aqui para ajudar a responder a perguntas e fornecer informações, então sinta-se à vontade para perguntar sobre qualquer coisa!"
+Aceitam Euro físico?,"Não, o hotel aceita pagamentos apenas em moedas correntes físicas do Brasil (Real/BRL), além de cartões e PIX.","Desculpe, mas não temos essa informação. Podemos confirmar que aceitamos moedas correntes físicas do nosso país (BRL), mas não temos informações sobre a aceitação de Euro físico. É recomendável entrar em contato conosco antes para confirmar essa informação.","Sim, muitos lugares aceitam Euro físico, especialmente em países da União Europeia. No entanto, é sempre uma boa ideia verificar antes de fazer uma compra, especialmente se você estiver em um país que não é membro da UE ou em estabelecimentos menores."
+Perdi meu cartão-chave. Tem multa?,"Sim, em caso de perda do cartão-chave, comunique a recepção e será cobrada uma taxa de substituição de R$ 20,00.","Sim, em caso de perda do cartão-chave, há uma taxa de reposição de R$ 20,00. Para evitar qualquer problema, por favor, comunique a recepção imediatamente.","Sim, perder o cartão-chave pode resultar em multa, dependendo das políticas do local ou serviço que o cartão-chave é utilizado. Muitos hotéis, condomínios e outros estabelecimentos cobram uma taxa ou multa por perda ou extravio do cartão-chave, pois isso pode comprometer a segurança do local.
+
+É importante verificar as políticas do estabelecimento ou serviço para entender as consequências e possíveis taxas associadas à perda do cartão-chave. Em alguns casos, pode ser necessário pagar uma taxa para substituir o cartão ou realizar um procedimento de segurança adicional.
+
+Se você perdeu o cartão-chave, é recomendável:
+
+1. **Informar imediatamente**: Notifique o estabelecimento ou serviço o mais rápido possível sobre a perda do cartão-chave. Isso ajuda a prevenir possíveis usos indevidos.
+2. **Verificar políticas**: Pergunte sobre as políticas de perda de cartão-chave e possíveis taxas.
+3. **Solicitar substituição**: Peça um novo cartão-chave, se necessário.
+
+Lembre-se de que a segurança é uma prioridade, e reportar a perda do cartão-chave ajuda a manter o ambiente seguro para todos."
+Esse cartão abre a porta de tudo?,"O cartão-chave é necessário para acesso aos quartos, elevadores e entrada nas dependências de lazer.","O cartão-chave que você recebe ao fazer o check-in é específico para abrir a porta do seu quarto. Ele não abre todas as portas do hotel, como as áreas comuns ou outros quartos. Se você perder o cartão-chave, por favor, comunique a recepção imediatamente. Haverá uma taxa de reposição de R$ 20,00.","O cartão que você menciona pode ser uma referência a um cartão específico que é amplamente aceito ou tem múltiplas funções, como um cartão de crédito, débito, ou até mesmo um cartão de fidelidade. No entanto, quando se fala em um cartão que ""abre a porta de tudo"", pode estar se referindo a algo mais específico ou simbólico.
+
+Se considerarmos cartões comuns:
+
+1. **Cartão de Crédito/Débito**: Esses cartões são amplamente aceitos para compras online e em lojas físicas, pagamentos de contas, e até mesmo para saque de dinheiro em caixas eletrônicos. Eles podem ser usados em uma variedade de estabelecimentos comerciais e serviços, mas existem limitações, como a necessidade de saldo ou limite de crédito disponível.
+
+2. **Cartão de Fidelidade**: Alguns cartões de fidelidade de programas de recompensa, como aqueles de companhias aéreas, hotéis ou lojas específicas, podem oferecer benefícios exclusivos, como descontos, acesso a salas VIP, ou pontos que podem ser trocados por produtos ou serviços. No entanto, eles geralmente são limitados a uma rede específica de estabelecimentos ou serviços.
+
+3. **Cartão de Identificação**: Em alguns contextos, um cartão de identificação pode servir como uma chave para acessar áreas restritas, serviços ou benefícios. Por exemplo, um cartão de funcionário pode permitir acesso a prédios ou sistemas de uma empresa.
+
+Se o seu questionamento for mais simbólico ou relacionado a um contexto específico (como um cartão que concede acesso ilimitado a serviços ou lugares), poderia ser útil ter mais detalhes para uma resposta mais precisa. Em geral, a utilidade de um cartão depende de sua finalidade específica e das políticas do emissor e dos estabelecimentos que o aceitam."
+O hotel possui jantar temático?,"Sim, temos Jantares Temáticos no restaurante por R$ 120,00 por pessoa, incluindo buffet completo.","Sim, o hotel oferece jantares temáticos em horários específicos, como jantares festivos locais. Nosso jantar é servido das 18h às 22h, com opções de culinária internacional e da gastronomia local contemporânea. No entanto, para informações detalhadas sobre os jantares temáticos, como datas e temas específicos, infelizmente não tenho essa informação.","Sim, muitos hotéis oferecem jantares temáticos como parte de suas opções de entretenimento e gastronomia. Esses jantares podem variar bastante em termos de tema, local, periodicidade e estilo de serviço. Aqui estão algumas informações sobre jantares temáticos em hotéis:
+
+### Tipos de Jantares Temáticos
+
+1. **Jantares de Gala**: Muitos hotéis de luxo oferecem jantares de gala, que são eventos sofisticados com menu de alta gastronomia, geralmente realizados em restaurantes exclusivos do hotel.
+
+2. **Jantares Temáticos Étnicos**: Alguns hotéis oferecem jantares com temas étnicos específicos, como jantar italiano, chinês, mexicano, etc., onde o menu, a decoração e até a música são inspirados na cultura do tema escolhido.
+
+3. **Jantares de Época**: Hotéis podem organizar jantares que os transportam de volta no tempo, para épocas como o Velho Oeste, anos 20 (era do jazz), entre outros, com decoração, vestimenta e música de época.
+
+4. **Jantares com Personagens**: Em alguns hotéis, especialmente aqueles que se direcionam ao público familiar ou a fãs de fantasia e ficção, podem haver jantares com personagens, como super-heróis, princesas de contos de fadas, etc.
+
+5. **Jantares de Natal e Ano Novo**: Muitos hotéis oferecem jantares temáticos durante as festas de fim de ano, com menus especiais e decoração festiva.
+
+### O que Esperar
+
+- **Menu Especial**: O menu é geralmente criado para se adequar ao tema, podendo incluir pratos típicos ou inspirados no tema.
+- **Decoração**: A decoração do local de jantar é adaptada ao tema, criando uma imersão para os convidados.
+- **Entretenimento**: Pode haver entretenimento ao vivo, como música, dança, mágica, etc., dependendo do tema.
+- **Dress Code**: Alguns jantares temáticos podem ter um dress code específico para os convidados, especialmente aqueles com temas mais formais ou de época.
+
+### Como Descobrir
+
+- **Site do Hotel**: Muitos hotéis listam seus eventos, incluindo jantares temáticos, em seus sites.
+- **Redes Sociais**: Hotéis frequentemente anunciam eventos especiais em suas redes sociais.
+- **Contato Direto**: Uma ligação direta para o hotel ou um e-mail para o departamento de eventos ou reservas pode fornecer informações detalhadas sobre jantares temáticos.
+
+Os jantares temáticos são uma ótima maneira de tornar a estadia em um hotel ainda mais memorável e única. Vale a pena verificar a oferta do hotel em que você está planejando ficar."
+Quando é a noite de churrasco?,O Churrasco Fogo de Chão ocorre aos Sábados. Há também Frutos do Mar (Sexta) e Noite Italiana (Quinta).,"A noite de churrasco é oferecida nas sextas e sábados, como parte do Jantar Temático, que custa R$ 120,00 por pessoa. É necessário fazer uma reserva prévia.","Não tenho informações sobre eventos ou atividades específicas, incluindo noites de churrasco, a menos que sejam amplamente divulgadas ou associadas a datas específicas. No entanto, posso oferecer algumas sugestões sobre quando uma noite de churrasco pode ser organizada:
+
+1. **Fim de semana**: O final de semana é um período popular para realizar churrascos, especialmente os fins de semana longos ou feriados, quando as pessoas têm mais tempo livre.
+
+2. **Estações quentes do ano**: Em muitas regiões, churrascos são mais comuns durante a primavera e o verão, quando o clima é mais agradável para estar ao ar livre.
+
+3. **Datas comemorativas**: Churrascos são frequentemente organizados em datas especiais como aniversários, casamentos, formaturas, e outras celebrações.
+
+4. **Feriados**: Feriados como o Dia do Trabalhador, Dia de Ação de Graças (em alguns países), e o Natal (em algumas culturas) são ocasiões populares para churrascos.
+
+5. **Eventos esportivos**: Grandes eventos esportivos, como finais de campeonatos de futebol, também podem ser uma desculpa para organizar um churrasco com amigos e familiares.
+
+Se você está se referindo a um evento específico ou a uma tradição local, por favor, forneça mais detalhes para que eu possa oferecer uma resposta mais precisa."
+O hotel organiza casamentos?,"Sim! Para reservas de grupos (acima de 5 quartos, como eventos corporativos ou casamentos) possuímos tarifas especiais.","Sim, o hotel organiza casamentos! Para reservas de grupos, incluindo eventos como casamentos, acima de 5 quartos, temos tarifas especiais e um gerente de contas exclusivo. Por favor, envie as datas e a quantidade de pessoas para `grupos@hotelexample.com.br` para mais informações.","Eu posso fornecer informações sobre uma variedade de tópicos, incluindo planejamento de eventos e casamentos. No entanto, não tenho acesso direto a informações específicas sobre hotéis ou suas ofertas de serviços, como organizar casamentos. Se você está procurando por um local para um casamento, recomendo procurar diretamente o hotel de seu interesse ou visitar seu site oficial para obter as informações mais atualizadas sobre seus serviços e pacotes para casamentos. Muitos hotéis têm departamentos de eventos ou casamentos que podem oferecer assistência personalizada para tornar seu dia especial ainda mais memorável."
+Com quem falo para bloquear os quartos?,Você terá um gerente de contas exclusivo. Envie as datas e a quantidade de pessoas para grupos@hotelexample.com.br.,"Para informações sobre reserva de quartos, por favor, entre em contato com a nossa recepção. Estaremos felizes em ajudar!","Para bloquear quartos, você normalmente precisará falar com o departamento de reservas ou recepção do hotel diretamente. Aqui estão algumas opções de como você pode entrar em contato com eles:
+
+1. **Telefone:** Você pode ligar diretamente para o hotel e perguntar para falar com alguém no departamento de reservas ou recepção. O número de telefone geralmente pode ser encontrado no site do hotel ou através de um serviço de reservas online.
+
+2. **E-mail:** Muitos hotéis têm endereços de e-mail específicos para reservas e solicitações. Você pode enviar um e-mail para o hotel com sua solicitação.
+
+3. **Chat ao Vivo ou Mensagem Instantânea:** Alguns hotéis oferecem serviços de chat ao vivo ou mensagens instantâneas em seus sites ou através de aplicativos de mensagens. Isso pode ser uma forma rápida de obter respostas.
+
+4. **Formulário de Contato no Site:** Você também pode usar o formulário de contato disponível no site do hotel para enviar sua solicitação.
+
+5. **Agências de Viagens ou Plataformas de Reservas Online:** Se você fez a reserva através de uma agência de viagens ou uma plataforma de reservas online, você pode entrar em contato com eles para solicitar alterações ou bloqueios de quartos.
+
+Ao entrar em contato com o hotel ou a agência responsável, certifique-se de fornecer todos os detalhes necessários, como a data da sua estadia, o tipo de quarto desejado e qualquer outra preferência ou requisito especial que você possa ter. Isso ajudará a garantir que sua solicitação seja processada de forma eficiente."
+Vocês disponibilizam cofre nos quartos?,"Sim, todos os quartos são equipados com cofres eletrônicos.","Sim, todos os quartos do nosso hotel são equipados com cofres eletrônicos para que você possa armazenar com segurança seus objetos de valor, como dinheiro e joias. É uma medida adicional para proteger seus pertences durante sua estadia.","Sim, a maioria dos nossos quartos possui um cofre para que você possa guardar seus objetos de valor com segurança. No entanto, é sempre uma boa ideia verificar com a nossa equipe de recepção ou verificar as informações do seu quarto ao fazer a reserva para confirmar se o seu quarto específico tem essa facilidade. Se não houver um cofre no quarto, também podemos oferecer opções alternativas de armazenamento seguro na área de recepção. Estamos aqui para ajudar e garantir que você tenha uma estadia confortável e segura."
+O que devo colocar neles?,Recomendamos que todo dinheiro ou valores expressivos sejam armazenados nele por questões de segurança e indenização.,"Desculpe, mas não entendi bem sua pergunta. Você está se referindo a algo específico no hotel? Se estiver se referindo aos cofres eletrônicos, recomendamos que você coloque valores expressivos, jóias e eletrônicos para proteger seus pertences. Se for outra coisa, por favor, forneça mais contexto para que eu possa ajudar melhor.",Você pode tentar me fazer perguntas ou me pedir para gerar textos ou imagens pra você. Podemos cuidar disso ao longo do caminho. Como você gostaria de começar?
+O café da manhã tá incluído no quarto standard?,"Sim, o Quarto Standard (R$ 350,00) tem café da manhã incluso, Wi-Fi e TV a cabo.","Sim, o café da manhã está incluído no quarto standard. O quarto standard custa R$ 350,00/noite e inclui café da manhã, Wi-Fi e TV a cabo.","Eu posso ajudar a planejar sua viagem! No entanto, preciso de mais detalhes para fornecer uma resposta precisa. Você está se referindo a um hotel específico ou a uma estadia em geral? Se for um hotel específico, por favor, forneça o nome e localização para que eu possa verificar as informações diretamente. 
+
+Se você estiver fazendo uma reserva ou considerando diferentes opções de hospedagem, é comum que alguns hotéis incluam o café da manhã no preço do quarto, enquanto outros podem oferecer como uma opção adicional ou serviço separado. Muitos hotéis oferecem diferentes tipos de pacotes ou upgrades que podem incluir o café da manhã.
+
+Para uma resposta mais precisa, aqui estão algumas sugestões:
+
+1. **Verifique o Site do Hotel:** A maioria dos hotéis lista os detalhes de suas acomodações, incluindo o que está incluído no preço do quarto, em seus sites oficiais.
+
+2. **Contate o Hotel Diretamente:** Se as informações não estiverem claras online, entrar em contato diretamente com o hotel pode ser a melhor maneira de obter uma resposta definitiva.
+
+3. **Leia as Avaliações:** Sites de reservas como Booking.com, Expedia, ou TripAdvisor frequentemente têm avaliações de outros viajantes que podem mencionar se o café da manhã foi incluído e como foi a experiência.
+
+4. **Pergunte sobre Pacotes:** Se o café da manhã não estiver incluído, pergunte sobre a possibilidade de adicionar um pacote que inclua o café da manhã e veja se há opções disponíveis.
+
+Espero que isso ajude a planejar sua viagem! Se tiver mais detalhes ou precisar de mais assistência, sinta-se à vontade para perguntar."
+Vocês têm cama extra infantil?,"Camas extras para crianças custam R$ 120,00/noite, mas berços são gratuitos para menores de 2 anos.","Sim, temos! O berço é gratuito para menores de 2 anos, mediante disponibilidade. Já a cama extra para criança acima de 7 anos ou adulto é cobrada R$ 120,00 por noite, sujeita a disponibilidade.","Sim, temos camas extras para crianças, berços e também poltronas para crianças. Posso agendar um desses para você?"
+"Se eu chegar antes das 14h, posso ficar na piscina?","Sim. Caso chegue mais cedo, você pode guardar suas malas no nosso Maleiro de forma gratuita e utilizar a piscina ou restaurante.","Se você chegar antes das 14h, infelizmente não poderá ficar na piscina. Conforme nossas regras, o check-in é permitido apenas a partir das 14h. No entanto, se você chegar mais cedo e quiser relaxar, pode deixar suas malas na recepção e aproveitar outras áreas do hotel até o horário de check-in.
+
+Quanto à piscina, ela funciona das 8h00 da manhã às 20h00 da noite, mas você precisará esperar até o check-in para poder usá-la. Se você tiver alguma outra dúvida ou precisar de mais informações, fique à vontade para perguntar!","Claro, você pode ficar na piscina se chegar antes das 14h. A maioria das piscinas tem horário de funcionamento e regras específicas, mas geralmente, o horário antes do almoço, como antes das 14h, é perfeitamente válido para uso. No entanto, é sempre uma boa ideia verificar com antecedência as regras específicas do local onde você pretende ficar, pois horários e regras podem variar. Algumas piscinas podem ter restrições ou horários diferenciados, especialmente em dias de semana ou fins de semana."
+E tem como já entrar no quarto de manhã?,"O Early check-in antes das 14h está sujeito à disponibilidade, com taxa de 30% a 50% do valor da diária.","Desculpe, mas de acordo com as nossas regras, o check-in (entrada) é permitido a partir das 14h. Se você chegar mais cedo, pode guardar suas malas no nosso Maleiro de forma gratuita e utilizar a piscina ou restaurante enquanto preparamos seu quarto.","Sim, é possível ajustar seu relógio biológico e hábitos para se sentir mais desperto e alerta pela manhã, o que pode ajudar a tornar o início do dia mais fácil e produtivo. Aqui estão algumas dicas para ajudá-lo a começar o dia sentindo-se mais acordado e pronto para enfrentar as responsabilidades:
+
+1. **Estabeleça um Horário de Acordar Consistente**: Tente acordar todos os dias no mesmo horário, inclusive nos fins de semana. Isso ajuda a regular seu relógio biológico.
+
+2. **Exposição à Luz Natural**: A luz natural é uma das melhores maneiras de acordar. Tente abrir as cortinas ou dar uma caminhada curta ao ar livre logo após acordar. A exposição à luz natural ajuda a regular seu ritmo circadiano.
+
+3. **Café da Manhã Saudável**: Inicie o dia com um café da manhã nutritivo. Alimentos ricos em proteínas, fibras e carboidratos complexos podem fornecer energia sustentável.
+
+4. **Hidratação**: Beba um copo de água assim que acordar. A desidratação pode causar fadiga, então começar o dia bem hidratado é essencial.
+
+5. **Exercícios Físicos**: Incorporar alguma forma de exercício físico na sua rotina matinal pode aumentar sua energia e melhorar seu humor. Pode ser tão simples quanto alongamentos ou uma caminhada.
+
+6. **Meditação e Planejamento**: Dedique alguns minutos para meditar, planejar seu dia ou simplesmente relaxar. Isso pode ajudar a clarear sua mente e definir prioridades.
+
+7. **Evite o Uso de Dispositivos Eletrônicos Imediatamente ao Acordar**: Tente evitar o uso de smartphones, tablets ou computadores logo após acordar. Em vez disso, foque em uma rotina matinal que inclua atividades relaxantes ou estimulantes.
+
+8. **Ajuste Gradualmente seu Horário de Acordar**: Se você não é uma pessoa matutina, pode ser difícil mudar drasticamente seu horário de acordar. Tente ajustar gradualmente seu horário de despertar em intervalos de 15 minutos a cada poucos dias até alcançar o horário desejado.
+
+9. **Durma Bem**: Certifique-se de dormir o suficiente. A falta de sono pode tornar difícil acordar cedo e se sentir descansado.
+
+10. **Crie um Ambiente Aconchegante**: Deixe seu quarto arejado e confortável. Um ambiente agradável pode tornar mais fácil acordar e começar o dia com o pé direito.
+
+Lembre-se de que pode levar algum tempo para seu corpo se ajustar a uma nova rotina. Seja paciente e flexível, e não hesite em fazer ajustes conforme necessário."
+Como conecto no wifi premium?,A Rede Premium de alta velocidade é a 'HotelExample_Premium' e os planos devem ser consultados na recepção.,"Para se conectar ao Wi-Fi Premium de alta velocidade, você pode seguir os passos abaixo:
+
+1. Acesse as configurações de Wi-Fi do seu dispositivo (computador, smartphone, tablet, etc.).
+2. Selecione a rede ""HotelExample_Premium"".
+3. Se solicitado, insira a senha que você pode obter na recepção do hotel ou através do nosso portal de Wi-Fi.
+
+Lembre-se de que os planos Premium são oferecidos mediante aquisição na recepção, então é importante verificar os detalhes e preços com nosso pessoal. 
+
+Se tiver alguma dificuldade ou precisar de mais informações, por favor, não hesite em entrar em contato conosco. Estamos aqui para ajudar!","Para conectar-se a uma rede Wi-Fi premium, você geralmente precisará seguir alguns passos que podem variar ligeiramente dependendo do dispositivo que está usando (como um smartphone, tablet, laptop, etc.) e do local onde está tentando se conectar (como um café, hotel, aeroporto, etc.). Aqui está um guia geral:
+
+### 1. Certifique-se de que o dispositivo está equipado para conexão Wi-Fi
+- Verifique se o seu dispositivo (smartphone, laptop, etc.) tem a capacidade de se conectar a redes Wi-Fi.
+
+### 2. Localize a rede Wi-Fi Premium
+- Procure pelas redes Wi-Fi disponíveis no seu dispositivo. A rede Wi-Fi premium geralmente terá um nome que indica ser uma rede de alta qualidade ou segura, podendo ser identificada por um nome específico do estabelecimento ou por um SSID (nome da rede) que inclua termos como ""premium"", ""pago"", ""VIP"", etc.
+
+### 3. Conecte-se à rede
+- Selecione a rede Wi-Fi premium da lista de redes disponíveis.
+- Se a rede for pública e não exigir senha, você pode se conectar diretamente. Caso contrário, pode ser necessário entrar em contato com o estabelecimento para obter a senha ou comprar um tíquete de acesso.
+
+### 4. Autenticação (se necessário)
+- Algumas redes Wi-Fi, especialmente em locais públicos, podem exigir autenticação através de um portal de captura. Isso geralmente envolve:
+  - Abrir um navegador (se não abrir automaticamente).
+  - Aceitar os termos de serviço.
+  - Inserir um código de acesso ou voucher, se fornecido.
+  - Em alguns casos, pode ser necessário efetuar um pagamento para acessar a rede.
+
+### 5. Configurações de Rede (se necessário)
+- Em alguns casos, especialmente em redes corporativas ou em certos pontos de acesso, pode ser necessário configurar manualmente o endereço IP, máscara de sub-rede, gateway padrão e servidores DNS. Isso geralmente não é necessário em redes Wi-Fi públicas.
+
+### Dicas de Segurança
+- **Use uma VPN:** Especialmente em redes Wi-Fi públicas, uma VPN (Rede Privada Virtual) pode ajudar a proteger seus dados.
+- **Evite sites sensíveis:** Tente evitar realizar operações bancárias ou fornecer informações sensíveis em redes Wi-Fi públicas.
+- **Mantenha seu dispositivo e software atualizados:** Isso ajuda a proteger contra vulnerabilidades de segurança.
+
+### Contate o Estabelecimento
+Se você estiver tendo dificuldade em encontrar ou se conectar à rede Wi-Fi premium, considere perguntar ao pessoal do estabelecimento. Eles podem fornecer instruções específicas ou uma senha de acesso."
+Ele pega na área de lazer também?,"Sim, a conectividade do hotel abrange todos os quartos, áreas de lazer e espaços de eventos.","Sim, o estacionamento é válido para toda a área do hotel, incluindo a área de lazer. Nós oferecemos serviço de valet parking para a conveniência de nossos hóspedes.","Sim, ele pega na área de lazer também. A área de lazer de um condomínio é um espaço destinado ao entretenimento e ao convívio social dos moradores, geralmente incluindo piscinas, academias, áreas de convivência, playgrounds, entre outros. Esses espaços são projetados para proporcionar momentos de relaxamento, diversão e interação social.
+
+Se você estiver se referindo a uma pessoa específica que ""pega"" (ou frequenta) a área de lazer, isso significa que essa pessoa costuma utilizar ou visitar esses espaços. Se for sobre uma regra ou regulamento específico de um condomínio, seria interessante verificar as normas do local para entender melhor o que é permitido ou não.
+
+Se tiver mais contexto ou precisar de informações sobre um tópico específico relacionado a áreas de lazer em condomínios, sinta-se à vontade para perguntar!"
+O restaurante abre na janta até tarde?,"O restaurante funciona para o jantar até as 22h, e exige-se reserva prévia no caso de Jantar Temático.","O restaurante do nosso hotel está aberto das 6h30 às 22h. Durante esse período, oferecemos um buffet múltiplo de refeição. Vale ressaltar que, em eventos especiais ou jantares temáticos, o horário pode variar. Se você tiver alguma dúvida específica sobre o jantar, é melhor verificar diretamente com o restaurante, Ramal 101, ou com a recepção, Ramal 9.","Sim, o restaurante funciona até tarde, na janta."
+"Se eu perder a hora, posso pedir algo no quarto?","Sim, o Serviço de Quarto (Room Service) está disponível 24 horas por dia com cardápio.","Sim, o serviço de quarto (Room Service) está disponível do meio-dia às 23h. Você pode verificar o cardápio na Smart TV do seu quarto ou no nosso aplicativo.","Sim, geralmente é possível pedir algo no quarto de um hotel se você perder a hora ou esquecer de fazer algo antes de sair. A maioria dos hotéis oferece serviços de quarto, como serviço de quarto (room service), onde você pode pedir comida, bebidas e outros itens para serem entregues diretamente no seu quarto.
+
+Além disso, muitos hotéis também oferecem serviços de amenidades, como toalhas extras, sabonetes, xampus, etc. Se você precisar de algo específico, como um despertador, um ferro de passar roupa ou um secador de cabelo, é comum que os hotéis possam fornecer esses itens mediante solicitação.
+
+Se você perder a hora e precisar de algo no quarto, é recomendável entrar em contato com a recepção do hotel o mais rápido possível para explicar a situação e solicitar o que precisar. Eles geralmente estarão dispostos a ajudar e encontrar uma solução para você.
+
+Lembre-se de que alguns serviços podem ter um custo adicional, então é sempre bom verificar com antecedência."
+Vocês têm tomadas para carregar carros?,"Sim, no estacionamento temos tomadas para carregamento de veículos elétricos (EVs).","Sim, temos tomadas para carregamento de veículos elétricos (EVs) disponíveis no nosso estacionamento.","Sim, existem tomadas para carregar carros elétricos. Elas são conhecidas como pontos de recarga ou estações de recarga e são projetadas especificamente para fornecer energia elétrica aos veículos elétricos. Existem diferentes tipos de tomadas e níveis de recarga, variando em potência e velocidade de recarga.
+
+Alguns exemplos comuns incluem:
+
+1. **Tomada de recarga lenta (Nível 1)**: Geralmente utiliza uma tomada padrão de 120 volts e fornece cerca de 2 a 5 milhas de alcance por hora de recarga. É comum em residências.
+
+2. **Tomada de recarga rápida (Nível 2)**: Opera com 240 volts e pode fornecer até 25 milhas de alcance por hora de recarga. É comum em estações de recarga públicas e em algumas residências.
+
+3. **Tomada de recarga ultrarrápida (DC Fast Charging)**: Fornece uma grande quantidade de energia rapidamente, permitindo que os carros elétricos recarreguem até 80% em cerca de 30 minutos. É comum em autoestradas e áreas de grande fluxo de veículos.
+
+Essas tomadas são conectadas à rede elétrica e são projetadas para atender às especificações de segurança e compatibilidade dos veículos elétricos. A infraestrutura de recarga está em constante expansão, tornando mais fácil e conveniente possuir um carro elétrico."
+Quanto custa para o valet guardar ele?,"O serviço de estacionamento e valet custa R$ 30,00 por diária.","Desculpe, mas não tenho informações sobre serviços de valet parking. Posso ajudar com outras informações sobre o Hotel?","O custo do valet pode variar dependendo de vários fatores, como a localização, o tipo de estabelecimento (hotel, restaurante, estacionamento, etc.) e o período de tempo em que o veículo será guardado. Aqui estão algumas estimativas gerais:
+
+*   Em hotéis: O custo do valet em hotéis pode variar de R$ 20 a R$ 50 por hora, ou cerca de R$ 100 a R$ 300 por dia.
+*   Em restaurantes: Em restaurantes, o custo do valet pode variar de R$ 10 a R$ 30 por hora.
+*   Em estacionamentos: Em estacionamentos, o custo pode variar de R$ 10 a R$ 50 por hora, ou cerca de R$ 50 a R$ 200 por dia.
+
+Lembre-se de que esses valores são apenas estimativas e podem variar dependendo do local e do estabelecimento. É sempre uma boa ideia verificar com antecedência o custo do valet para evitar surpresas."
+Criança acima de 7 anos paga a mais?,"Sim, para cama extra de adulto ou criança acima de 7 anos é cobrada uma taxa de R$ 120,00 por noite.","Sim, crianças acima de 7 anos pagam R$ 120,00 por noite para utilizar a cama extra. Já berços são gratuitos para menores de 2 anos, mediante disponibilidade.","Em muitos lugares, especialmente em serviços de transporte público, hotéis, e eventos, crianças acima de uma certa idade podem ser consideradas como adultos para fins de cobrança. No entanto, essa política varia muito dependendo do local, do tipo de serviço e das regras específicas de cada lugar.
+
+Geralmente, crianças acima de 7 anos podem ser cobradas como adultos em algumas situações, mas isso não é uma regra universal. Muitos lugares têm políticas específicas para crianças, como:
+
+1. **Transporte Aéreo e Ferroviário**: Em muitas companhias aéreas e ferroviárias, crianças acima de 12 anos (ou às vezes 10) são consideradas adultos para fins de passagem. Crianças entre 2 e 12 anos (ou outra faixa etária específica) podem ter direito a descontos, enquanto crianças abaixo de 2 anos geralmente viajam de graça, desde que sentadas no colo de um adulto.
+
+2. **Hotéis e Hospedagem**: A política de hospedagem para crianças varia bastante. Alguns hotéis permitem que crianças até uma certa idade (geralmente até 12 ou 16 anos) fiquem de graça, desde que não ocupem uma cama extra. Outras cobram um valor reduzido ou o preço cheio por criança, dependendo da idade.
+
+3. **Eventos e Ingressos**: Para eventos, como shows, parques de diversões e museus, a política de preços para crianças também varia. Algumas vezes, crianças acima de 7 anos pagam o preço inteiro, enquanto em outros casos, podem haver tarifas reduzidas até uma certa idade.
+
+É importante verificar as políticas específicas do local ou serviço que você está planejando usar, pois essas regras podem mudar e podem haver exceções. Muitos estabelecimentos oferecem informações detalhadas sobre suas políticas de preços para crianças em seus sites ou através de seus canais de atendimento ao cliente."
+E bebê?,"Para bebês, fornecemos berços gratuitos para menores de 2 anos, mediante disponibilidade.","Bebês são aceitos! É obrigatório apresentar a certidão de nascimento para bebês e crianças. Berços são gratuitos para menores de 2 anos, mas é necessário verificar a disponibilidade.","Não tenho informações sobre um bebê específico. Se você está procurando informações sobre saúde, desenvolvimento ou cuidados com bebês, ficarei feliz em ajudar com isso!"
+O hotel tem programa de happy hour?,"Sim, o Happy Hour ocorre no Bar do Lobby das 17h às 19h.","Sim, nosso hotel tem um programa de Happy Hour no Bar do Lobby, que ocorre das 17h às 19h, com descontos especiais em drinks selecionados. É uma ótima opção para relaxar e aproveitar um momento de descontração durante sua estadia!","Sim, muitos hotéis oferecem programas de happy hour, especialmente aqueles localizados em áreas turísticas ou que possuem bares e restaurantes no local. O programa de happy hour geralmente inclui descontos em bebidas e, às vezes, em aperitivos ou snacks, durante um período específico do dia, comumente à tarde ou no início da noite. É uma ótima maneira de relaxar e aproveitar um momento de descontração após um longo dia de trabalho ou atividades turísticas.
+
+Se você está planejando se hospedar em um hotel específico, recomendo verificar diretamente com o hotel ou verificar o site oficial do hotel para obter informações sobre os programas de happy hour que eles oferecem. Muitos hotéis também anunciam esses programas em suas redes sociais ou em sites de reservas de hotéis."
+O que servem lá?,"Nesse horário, há descontos especiais em drinks selecionados.","Parece que você está se referindo aos serviços oferecidos pelo nosso hotel. Nós temos uma variedade de serviços e instalações para tornar a sua estadia o mais confortável possível.
+
+- **Estacionamento**: Contamos com manobristas (Valet) que acomodam os carros em vagas cobertas ou fechadas subterrâneas. Também há estacionamento externo para veículos maiores, com um custo de R$ 30 diários por cada utilitário/noite.
+
+- **Animais de estimação**: Somos amigos dos animais! Recebemos cães e gatos de pequeno porte (até 10 kg), com uma tarifa ""Pet Fee"" de R$ 60 por diária, e é necessário apresentar comprovantes de vacinas atualizados.
+
+- **Academia**: Nossa academia está disponível das 06h00 às 22h00, sem taxa adicional.
+
+- **Serviços externos**: Oferecemos convênios com empresas locais para atividades como passeios de barco e roteiros ecológicos.
+
+- **Lazer**: Temos áreas de lazer como piscina, mas é importante respeitar as regras de uso, como não permitir fraldas expostas convencionais nas piscinas, exceto as apropriadas para flutuação e mergulhos infantis.
+
+- **Acessos e segurança**: O cartão-chave é necessário para acessar os quartos, elevadores e áreas de lazer.
+
+- **Sustentabilidade**: Convidamos você a participar do nosso programa ""Hotel Verde"", reutilizando toalhas penduradas no toalheiro.
+
+Se você tiver alguma dúvida específica sobre os serviços ou instalações, sinta-se à vontade para perguntar!",Posso oferecer ideias e dicas em uma variedade de assuntos. Você se importaria em me contar um pouco mais sobre o que você gostaria de saber?
+O que é o programa Verde?,O 'Hotel Verde' é um programa de sustentabilidade onde as roupas de cama são trocadas a cada 3 dias e toalhas podem ser reutilizadas.,"O programa ""Hotel Verde"" é uma iniciativa do nosso hotel para promover a sustentabilidade. Se você deseja reutilizar suas toalhas, basta deixá-las penduradas no toalheiro. Dessa forma, você estará contribuindo para reduzir o consumo de recursos e ajudar o meio ambiente. É uma pequena ação que faz uma grande diferença!","O Programa Verde é uma iniciativa governamental ou de organizações que visa promover práticas sustentáveis e a conservação do meio ambiente. Os detalhes específicos podem variar dependendo do contexto e da região, mas geralmente inclui ações como o plantio de árvores, educação ambiental, conservação de recursos naturais e incentivo a práticas ecologicamente corretas."
+"Se eu jogar minha toalha no piso de propósito, o que ocorre?",Toalhas jogadas no chão indicam solicitação de troca e serão prontamente lavadas e substituídas por novas.,"Se você jogar sua toalha no piso de propósito, ela será prontamente lavada e substituída por uma nova. Isso é para garantir a higiene e a limpeza do seu quarto. Se você desejar reutilizar a toalha, basta deixá-la pendurada no toalheiro que ela será reutilizada. Estamos sempre buscando formas de reduzir o consumo de água e contribuir para o meio ambiente com nosso programa ""Hotel Verde"".","Se você jogar sua toalha no piso de propósito, ela simplesmente cairá no chão devido à gravidade. A toalha não possui a capacidade de flutuar ou se mover por conta própria; ela seguirá as leis da física e cairá em direção ao solo."
+Vocês têm computadores pro hóspede?,"Sim, o nosso Business Center oferece estações de trabalho, computadores e impressoras disponíveis 24h no térreo.","Desculpe, mas não temos computadores disponíveis para uso dos hóspedes. No entanto, todos os quartos são equipados com televisores SmartTV e acesso ao Wi-Fi gratuito de alta velocidade, o que permite que você use seu próprio dispositivo para trabalhar ou se conectar à internet. Se precisar de ajuda com o acesso à internet ou precisar de mais informações sobre nossos serviços, estou aqui para ajudar!","Sim, muitos hotéis oferecem computadores para uso dos hóspedes, embora isso possa variar dependendo do hotel e de suas instalações. Alguns hotéis podem oferecer estações de trabalho ou computadores em uma área comum, muitas vezes localizada na recepção, lounge ou business center. Esses computadores podem ser usados para uma variedade de tarefas, como verificar e-mails, imprimir documentos, navegar na internet e, em alguns casos, até mesmo fazer videochamadas.
+
+Se você está planejando uma estadia em um hotel e precisa de acesso a um computador, aqui estão algumas dicas:
+
+1. **Verifique com o hotel**: Antes de fazer uma reserva, é uma boa ideia entrar em contato com o hotel diretamente e perguntar sobre a disponibilidade de computadores para os hóspedes. Isso pode ser feito através de uma ligação telefônica, e-mail ou mensagem de texto.
+
+2. **Pergunte sobre as condições de uso**: Se o hotel oferece computadores, pergunte sobre as condições de uso. Alguns hotéis podem cobrar uma taxa pelo uso, ter horários limitados de acesso ou exigir que você seja hóspede do hotel.
+
+3. **Alternativas**: Se o hotel não oferecer computadores para uso dos hóspedes, considere outras opções. Muitos cafés e bibliotecas públicas têm computadores que você pode usar gratuitamente ou por uma pequena taxa. Além disso, muitos hóspedes optam por trazer seus próprios dispositivos ou usar seus smartphones para acessar a internet.
+
+4. **Acesso à internet**: Mesmo que o hotel não ofereça computadores, muitos deles fornecem acesso à internet Wi-Fi gratuito ou mediante uma taxa. Isso permite que você use seu próprio dispositivo para se conectar à internet.
+
+Lembre-se de que a disponibilidade de computadores e os serviços oferecidos podem variar significativamente de um hotel para outro, então é sempre uma boa ideia verificar com antecedência."
+Eu pego a senha do wifi premium com eles?,Você deve consultar os planos da rede Premium (HotelExample_Premium) diretamente na recepção.,"Para obter a senha do Wi-Fi Premium, você pode consultar os planos disponíveis na recepção ou acessar nosso portal via Wi-Fi. A senha para a rede padrão é ""hotel1234"", mas para a rede Premium, é melhor verificar diretamente com a recepção para ter acesso às informações mais atualizadas e adquirir o plano que melhor se adequa às suas necessidades. O suporte está disponível 24 horas para ajudar com qualquer problema de conexão.",Eu não posso ajudá-lo a obter uma senha de Wi-Fi premium que você não tem permissão para usar. Há algo mais que eu possa ajudá-lo?
+Perdi meu relógio. Tem achados e perdidos?,"Sim, se perder um objeto, entre em contato com a recepção ou o e-mail achadosperdidos@hotel.com.","Se você perdeu seu relógio, por favor, entre em contato com a recepção do hotel no telefone (XX) XXXX-XXXX ou envie um e-mail para achadosperdidos@hotel.com. Nós guardamos itens perdidos por 30 dias.","Sim, muitos lugares têm serviços de achados e perdidos. Se você perdeu seu relógio em um local específico, como um restaurante, loja, hotel ou aeroporto, é uma boa ideia entrar em contato diretamente com o serviço de achados e perdidos desse local. Muitos lugares têm um procedimento padrão para lidar com itens perdidos, e eles podem ter recebido seu relógio.
+
+Se você não sabe exatamente onde perdeu o relógio, aqui estão algumas sugestões de onde procurar:
+
+1. **Restaurantes e Lojas:** Se você esteve em um restaurante ou loja recentemente, ligue para eles e pergunte se alguém encontrou um relógio.
+
+2. **Hotéis:** Se você esteve em um hotel, entre em contato com a recepção ou com o serviço de concierge. Eles geralmente têm um setor de achados e perdidos.
+
+3. **Aeroportos:** Os aeroportos têm serviços de achados e perdidos. Você pode encontrar informações de contato no site do aeroporto ou procurando por placas de informação.
+
+4. **Táxis e Transportes Públicos:** Se você perdeu o relógio em um táxi ou transporte público, entre em contato com a empresa de táxi ou com o departamento de transporte público da sua cidade.
+
+5. **Redes Sociais e Grupos Locais:** Às vezes, as pessoas postam sobre achados e perdidos em grupos locais de redes sociais. Você pode tentar postar uma mensagem em grupos do Facebook ou usar aplicativos de comunidade local.
+
+6. **Delegacias de Polícia:** Embora a maioria das delegacias tenha um serviço de achados e perdidos, geralmente eles lidam com itens de maior valor ou que foram claramente roubados. No entanto, vale a pena tentar, especialmente se você acredita que o relógio foi perdido em um local público.
+
+Lembre-se de fornecer uma descrição detalhada do seu relógio, incluindo marca, modelo, cor e quaisquer características únicas, para ajudar a identificá-lo caso seja encontrado. Boa sorte!"
+Quanto tempo vocês guardam as coisas lá?,Os itens esquecidos são guardados no hotel por um período de 30 dias.,"Se você perdeu algum objeto durante a sua estadia, nós guardamos os achados por 30 dias. Após esse período, infelizmente não poderemos mais guardar esses itens. 
+
+Para reportar um objeto perdido, basta entrar em contato conosco através do telefone (XX) XXXX-XXXX ou e-mail achadosperdidos@hotel.com.","Eu não guardo informações pessoais sobre indivíduos, então não tenho nada para ""guardar"". Para esse tipo de informação, consulte o Centro de Privacidade da Meta (Meta’s Privacy Center) aqui: https://www.facebook.com/privacy/center/"
+O que acontece se eu levar multa por cheiro de cigarro?,"A multa por odor de fumaça é lançada na sua conta, considerada como taxa adicional por limpeza extrema.","Se for constatado odor de fumaça no seu quarto ou em alguma área do hotel, será cobrada uma multa por odor de fumaça. O valor dessa multa pode ser consultado na recepção do hotel. Ela será adicionada à sua conta do hotel. Lembre-se de que fumar é proibido em todas as áreas cobertas do hotel, incluindo quartos e corredores. Se precisar fumar, dirija-se aos locais designados para isso.","Se você for multado por cheiro de cigarro, é provável que esteja relacionado a uma legislação local ou nacional que proíbe fumar em locais públicos ou em áreas específicas devido aos riscos associados ao tabagismo passivo. A aplicação e as penalidades podem variar significativamente dependendo do local e da legislação específica em vigor. No entanto, aqui estão algumas informações gerais sobre o que poderia acontecer:
+
+1. **Legislação Variada**: Em muitos lugares, há leis que proíbem fumar em locais públicos fechados, como restaurantes, bares, shopping centers, hospitais, e em alguns casos, áreas ao ar livre, como praias, parques e estádios. Algumas jurisdições também têm leis que especificamente abordam o tabagismo em locais de trabalho.
+
+2. **Multas**: Se você for pego fumando em um local onde o tabagismo é proibido, pode receber uma multa. O valor da multa pode variar; em alguns lugares, pode ser relativamente baixo, enquanto em outros, pode ser mais alto.
+
+3. **Advertências**: Em alguns casos, especialmente se for a primeira vez que você é pego fumando em um local proibido, você pode receber uma advertência em vez de uma multa.
+
+4. **Responsabilidade do Estabelecimento**: Em alguns lugares, os proprietários ou gestores de estabelecimentos também podem ser responsabilizados se permitirem que os clientes fumem em suas instalações. Isso pode incluir multas para o estabelecimento.
+
+5. **Exceções**: Algumas leis permitem fumar em áreas designadas para fumantes. Essas áreas são geralmente equipadas com cinzeiros e são localizadas de forma a minimizar a exposição ao fumo para os não fumantes.
+
+6. **Efeitos Legais A Longo Prazo**: Se você acumular várias multas por desrespeitar as leis de tabagismo, pode enfrentar consequências legais mais sérias, como aumento do valor das multas ou até mesmo processos judiciais.
+
+7. **Impacto na Saúde**: Além das consequências legais, é importante lembrar que o tabagismo e a exposição ao fumo de segunda mão têm sérios impactos na saúde. O tabagismo é uma das principais causas de morte evitável em todo o mundo.
+
+Se você estiver preocupado com uma multa específica ou com as leis de tabagismo em sua área, é uma boa ideia verificar a legislação local ou consultar um profissional legal para obter aconselhamento específico."
+Isso vale pro pátio externo também?,"A proibição de fumo (incluindo cigarros eletrônicos) se aplica a qualquer espaço coberto do hotel, aposentos ou corredores. Nas áreas externas designadas, o fumo é permitido.","O estacionamento externo para picos ou vans, com cobrança de R$ 30 diários por cada utilitário/noite, não foi mencionado como tendo regras específicas diferentes do estacionamento interno. Contudo, recomendo confirmar diretamente com a recepção do hotel para obter informações mais precisas sobre o estacionamento externo.","Sim, é uma boa ideia aplicar princípios semelhantes de organização e limpeza no pátio externo. Aqui estão algumas dicas para manter o pátio externo organizado e agradável:
+
+1. **Remova itens desnecessários**: Livrar-se de itens quebrados, danificados ou que não são mais necessários pode ajudar a manter o espaço organizado e evitar o acúmulo de lixo.
+
+2. **Defina zonas**: Assim como dentro de casa, você pode definir zonas no pátio externo para diferentes atividades, como uma área para refeições, uma área para relaxamento e uma área para jardinagem.
+
+3. **Mantenha a limpeza**: Estabeleça uma rotina para limpar o pátio, incluindo a remoção de folhas secas, limpeza de móveis e, se necessário, lavagem do chão.
+
+4. **Cuide do jardim**: Se você tem um jardim no pátio, mantenha-o bem cuidado. Isso inclui regar as plantas regularmente, podar quando necessário e adicionar fertilizantes conforme apropriado.
+
+5. **Iluminação**: A iluminação pode fazer uma grande diferença no ambiente do seu pátio externo. Considere instalar luzes que destaquem as características do jardim ou que criem um ambiente acolhedor para áreas de estar.
+
+6. **Armazenamento**: Use mobília com armazenamento, como bancos com espaço para guardar itens, ou considere instalar um armazém externo para guardar itens como ferramentas de jardinagem, equipamentos de lazer e outros.
+
+7. **Decoração**: Adicione elementos decorativos que reflitam seu estilo pessoal e que sejam resistentes ao tempo, como vasos, esculturas ou uma fonte.
+
+8. **Manutenção regular**: Além da limpeza regular, certifique-se de fazer uma manutenção mais profunda periodicamente. Isso pode incluir pintar ou tratar a madeira dos móveis, verificar e reparar qualquer dano nos elementos do pátio, e garantir que as plantas estejam saudáveis.
+
+Lembre-se de que a chave para manter o pátio externo (e qualquer espaço) organizado e agradável é a consistência. Tente incorporar algumas dessas tarefas na sua rotina semanal ou mensal para manter tudo em ordem."

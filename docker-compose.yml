@@ -25,7 +25,10 @@ services:
       - ./chroma_data:/api/chroma_data
     networks:
       - evolution-networks
-  postgres: 
+    depends_on:
+      postgres:
+        condition: service_healthy
+  postgres:
     container_name: evolution_postgres
     image: postgres:12
     restart: always
@@ -39,6 +42,11 @@ services:
       - evolution_postgres:/var/lib/postgresql/data
     networks:
       - evolution-networks
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER} -d $${POSTGRES_DB}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
   redis:
     container_name: evolution_redis
     image: redis:6

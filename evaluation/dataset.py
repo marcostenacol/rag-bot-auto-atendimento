@@ -1,202 +1,356 @@
-dataset = [
+dataset_sessions = [
     {
-        "question": "A partir de que horas posso fazer o check-in?",
-        "ground_truth": "O check-in é permitido a partir das 14h."
+        "session_id": 1,
+        "turns": [
+            {"question": "A partir de que horas posso fazer o check-in?", "ground_truth": "O check-in é permitido a partir das 14h."},
+            {"question": "E se eu chegar de madrugada?", "ground_truth": "O serviço de recepção funciona, mas o check-in antecipado está sujeito à disponibilidade e a taxas de 30% a 50% do valor da diária."}
+        ]
     },
     {
-        "question": "Posso levar meu cachorro? Ele pesa 5kg.",
-        "ground_truth": "Sim, o hotel recebe cães e gatos de pequeno porte até 10kg. É aplicada uma tarifa Pet Fee de R$ 60 por estadia."
+        "session_id": 2,
+        "turns": [
+            {"question": "Posso levar meu cachorro? Ele pesa 5kg.", "ground_truth": "Sim, o hotel recebe cães e gatos de pequeno porte até 10kg com uma tarifa Pet Fee de R$ 60 por estadia."},
+            {"question": "Ele pode frequentar a piscina com as crianças?", "ground_truth": "Não, por normas da vigilância sanitária, os animais não podem ingressar nas áreas de piscina e restaurante."}
+        ]
     },
     {
-        "question": "Tem internet de alta velocidade no hotel?",
-        "ground_truth": "Sim, oferecemos Wi-Fi gratuito de alta velocidade em todo o hotel. Para quem precisa de mais banda, há a rede Premium paga."
+        "session_id": 3,
+        "turns": [
+            {"question": "Tem internet de alta velocidade no hotel?", "ground_truth": "Sim, oferecemos Wi-Fi gratuito de alta velocidade em todo o hotel. Há também a rede Premium paga."},
+            {"question": "Qual é a senha da rede gratuita?", "ground_truth": "A senha para a rede padrão (HotelExample_Guest) é hotel1234."}
+        ]
     },
     {
-        "question": "O estacionamento é gratuito?",
-        "ground_truth": "Não, o estacionamento e valet custam R$ 30,00 por diária."
+        "session_id": 4,
+        "turns": [
+            {"question": "O estacionamento é gratuito?", "ground_truth": "Não, o estacionamento e valet custam R$ 30,00 por diária."},
+            {"question": "Vocês garantem que meu carro ficará na sombra?", "ground_truth": "As vagas cobertas e subterrâneas são disponibilizadas por ordem de chegada até que a lotação seja completada."}
+        ]
     },
     {
-        "question": "Quais são os horários do café da manhã?",
-        "ground_truth": "O café da manhã é servido das 6h30 às 10h30."
+        "session_id": 5,
+        "turns": [
+            {"question": "Quais são os horários do café da manhã?", "ground_truth": "O café da manhã é servido das 6h30 às 10h30."},
+            {"question": "E se eu não tiver ele incluso no meu pacote, quanto pago?", "ground_truth": "Para quem não possui o café incluso na reserva, cobra-se uma taxa de R$ 55,00 por pessoa na portaria."}
+        ]
     },
     {
-        "question": "O hotel possui serviço gratuito de transporte em helicóptero do aeroporto?",
-        "ground_truth": "Não há informações sobre serviço de helicóptero nos documentos. O hotel oferece serviço de transfer (van/carro) com tarifa adicional."
+        "session_id": 6,
+        "turns": [
+            {"question": "O hotel possui serviço gratuito de transporte do aeroporto?", "ground_truth": "Não há serviço gratuito. O hotel oferece serviço de transfer (van/carro) com tarifa adicional de R$ 80,00 por trecho."},
+            {"question": "A que distância ele fica de vocês?", "ground_truth": "O aeroporto está a 12 km de distância do hotel (aproximadamente 25 minutos de carro)."}
+        ]
     },
     {
-        "question": "Posso fumar no quarto?",
-        "ground_truth": "Não, o hotel é um ambiente livre de fumo e é expressamente proibido fumar em qualquer espaço coberto, incluindo os quartos."
+        "session_id": 7,
+        "turns": [
+            {"question": "Posso fumar no quarto?", "ground_truth": "Não, o hotel é um ambiente livre de fumo e é expressamente proibido fumar em qualquer espaço coberto."},
+            {"question": "Isso inclui cigarro eletrônico e vape?", "ground_truth": "Sim, é expressamente proibido o uso de qualquer tipo de fumo, inclusive cigarros eletrônicos, charutos ou cachimbos."}
+        ]
     },
     {
-        "question": "Qual a idade mínima para se hospedar sozinho no hotel?",
-        "ground_truth": "Menores de 18 anos só podem se hospedar acompanhados dos pais ou responsáveis legais, conforme o ECA (Lei nº 8.069/1990)."
+        "session_id": 8,
+        "turns": [
+            {"question": "Qual a idade mínima para se hospedar sozinho?", "ground_truth": "Menores de 18 anos só podem se hospedar acompanhados dos pais ou responsáveis legais."},
+            {"question": "E se o adolescente tiver autorização judicial?", "ground_truth": "Caso acompanhado de terceiros, exige-se autorização judicial ou por escrito dos responsáveis com firma reconhecida."}
+        ]
     },
     {
-        "question": "O que acontece se eu chegar para o check-in após as 18h sem avisar?",
-        "ground_truth": "As reservas são garantidas até as 18h da data de início, salvo se houver garantia de no-show (depósito prévio ou cartão). Informe sempre eventuais atrasos."
+        "session_id": 9,
+        "turns": [
+            {"question": "O que acontece se eu chegar para o check-in após as 18h?", "ground_truth": "As reservas são garantidas até as 18h. Em caso de ausência sem comunicação (No Show) a reserva pode ser cancelada e cobrada integralmente."},
+            {"question": "Como posso garantir se eu for atrasar?", "ground_truth": "A reserva se mantém se houver garantia de no-show (ex: cartão de crédito ou depósito prévio fornecidos previamente)."}
+        ]
     },
     {
-        "question": "Quais documentos preciso apresentar no momento do check-in?",
-        "ground_truth": "É necessário apresentar um documento oficial de identidade com foto (RG, CNH ou Passaporte) e o titular do cartão de crédito da reserva deve estar presente."
+        "session_id": 10,
+        "turns": [
+            {"question": "Quais documentos preciso apresentar no check-in?", "ground_truth": "É necessário apresentar um documento oficial de identidade com foto (RG, CNH ou Passaporte). O titular do cartão de crédito da reserva também deve estar presente."},
+            {"question": "Vocês exigem caução nessa hora?", "ground_truth": "Sim, retemos uma garantia eletrônica (caução) de em média R$ 200,00 por dia."}
+        ]
     },
     {
-        "question": "Existe um horário de silêncio obrigatório no hotel?",
-        "ground_truth": "Sim, o horário de silêncio absoluto vigora das 22h às 07h para garantir o bem-estar de todos os hóspedes."
+        "session_id": 11,
+        "turns": [
+            {"question": "Existe um horário de silêncio obrigatório no hotel?", "ground_truth": "Sim, o horário de silêncio absoluto vigora das 22h às 07h para garantir o bem-estar de todos."},
+            {"question": "O que acontece se um hóspede fizer barulho alto nesse período?", "ground_truth": "Barulhos e conversas em tom alto implicarão em advertências ou multas."}
+        ]
     },
     {
-        "question": "Posso usar cigarro eletrônico (vape) nas áreas internas?",
-        "ground_truth": "Não, é expressamente proibido o fumo (inclusive cigarros eletrônicos) em qualquer espaço coberto do hotel, aposentos ou corredores."
+        "session_id": 12,
+        "turns": [
+            {"question": "O que acontece se for detectado cheiro de fumaça no meu quarto?", "ground_truth": "Caso seja percebido odor ou vestígio de tabaco, uma multa por limpeza extrema será lançada na conta do hóspede."},
+            {"question": "Onde eu poderia fumar então?", "ground_truth": "Os fumantes deverão se dirigir aos locais especificamente designados nas áreas externas (se houver)."}
+        ]
     },
     {
-        "question": "O que acontece se for detectado cheiro de fumaça no meu quarto?",
-        "ground_truth": "Caso seja percebido odor ou vestígio de tabaco, uma multa por limpeza extrema será lançada na conta do hóspede."
+        "session_id": 13,
+        "turns": [
+            {"question": "Posso utilizar meu fogareiro elétrico no quarto?", "ground_truth": "Não é permitida a utilização de aparelhos de alto consumo, como fogareiros ou resistências, visando evitar riscos de incêndio."},
+            {"question": "E se eu precisar ferver água?", "ground_truth": "Nós solicitamos que evite usar esses itens de alto consumo, você pode utilizar o frigobar ou o serviço de quarto 24h para bebidas quentes."}
+        ]
     },
     {
-        "question": "Posso utilizar meu próprio fogareiro ou resistência para ferver água no quarto?",
-        "ground_truth": "Não é permitida a utilização de aparelhos de alto consumo, como fogareiros ou resistências, visando evitar riscos de incêndio."
+        "session_id": 14,
+        "turns": [
+            {"question": "Qual a regra para consumo de bebidas alcoólicas?", "ground_truth": "O consumo de bebidas alcoólicas é permitido apenas para maiores de 18 anos, mediante apresentação de identificação."},
+            {"question": "Vocês vendem isso de madrugada no quarto?", "ground_truth": "Sim, o serviço de quarto está disponível 24h e as cervejas artesanais ou garrafas de vinho podem ser solicitadas via Room Service."}
+        ]
     },
     {
-        "question": "Qual a regra para consumo de bebidas alcoólicas no hotel?",
-        "ground_truth": "O consumo de bebidas alcoólicas é permitido apenas para maiores de 18 anos, mediante apresentação de identificação."
+        "session_id": 15,
+        "turns": [
+            {"question": "O hotel se responsabiliza por valores deixados na mesa?", "ground_truth": "Não. O hotel recomenda o uso do cofre eletrônico do quarto e não se responsabiliza por valores ou dinheiro não armazenados nele."},
+            {"question": "E se alguém da limpeza roubar?", "ground_truth": "A política de responsabilidade determina que valores expressivos devem estar no cofre, caso contrário não há passibilidade de indenização."}
+        ]
     },
     {
-        "question": "O hotel se responsabiliza por valores ou dinheiro deixados fora do cofre?",
-        "ground_truth": "Não. O hotel recomenda o uso do cofre eletrônico do quarto e não se responsabiliza por valores não armazenados corretamente."
+        "session_id": 16,
+        "turns": [
+            {"question": "Onde ficam as rotas de evacuação de incêndio?", "ground_truth": "A rota de evacuação está localizada na porta de todos os quartos e nos corredores do prédio."},
+            {"question": "Qual ramal eu ligo se houver fogo?", "ground_truth": "Em caso acidental, deve-se contatar imediatamente a recepção nos ramais específicos previstos de emergência (como o Ramal 0)."}
+        ]
     },
     {
-        "question": "Onde posso encontrar as instruções de evacuação em caso de emergência?",
-        "ground_truth": "A rota de evacuação está localizada na porta de todos os quartos e nos corredores do prédio."
+        "session_id": 17,
+        "turns": [
+            {"question": "Posso receber visitas no meu quarto à tarde?", "ground_truth": "Não. Visitantes não-hóspedes são permitidos apenas em áreas comuns (lobby, restaurante) e o acesso aos andares de quartos é restrito."},
+            {"question": "Até que horas eles podem ficar nessas áreas comuns?", "ground_truth": "Os visitantes podem ficar nas áreas comuns das 08h até, no mais tardar, 22h."}
+        ]
     },
     {
-        "question": "Posso receber visitas de amigos não-hóspedes no meu quarto?",
-        "ground_truth": "Não. Visitantes são permitidos apenas em áreas comuns (lobby, restaurante) das 08h às 22h. O acesso aos andares de quartos é restrito."
+        "session_id": 18,
+        "turns": [
+            {"question": "Crianças podem usar a piscina sozinhas?", "ground_truth": "Não, as crianças deverão sempre estar acompanhadas por um adulto responsável ao utilizar a piscina."},
+            {"question": "Bebês podem entrar com fraldas normais nela?", "ground_truth": "Não, bebês devem utilizar fraldas apropriadas flutuantes para mergulhos infantis."}
+        ]
     },
     {
-        "question": "As crianças podem usar a piscina sozinhas?",
-        "ground_truth": "Não, as crianças deverão sempre estar acompanhadas por um adulto responsável ao utilizar a piscina."
+        "session_id": 19,
+        "turns": [
+            {"question": "Tem salva-vidas de plantão lá?", "ground_truth": "Não existe salva-vidas no local, portanto o uso da piscina é de responsabilidade exclusiva do hóspede."},
+            {"question": "Qual o horário de funcionamento dela?", "ground_truth": "A piscina funciona todos os dias das 08h00 da manhã às 20h00."}
+        ]
     },
     {
-        "question": "Bebês podem usar a piscina com fraldas comuns?",
-        "ground_truth": "Não, bebês devem utilizar fraldas apropriadas flutuantes para mergulhos infantis na piscina."
+        "session_id": 20,
+        "turns": [
+            {"question": "Qual o horário de funcionamento da academia?", "ground_truth": "A academia (Fitness Center) funciona diariamente das 06h00 às 22h00."},
+            {"question": "Adolescentes podem treinar lá?", "ground_truth": "O acesso à academia é restrito para menores de 16 anos, salvo acompanhamento formalizado pelos pais."}
+        ]
     },
     {
-        "question": "O hotel possui salva-vidas na piscina?",
-        "ground_truth": "Não existe salva-vidas no local, portanto o uso da piscina é de responsabilidade exclusiva do hóspede."
+        "session_id": 21,
+        "turns": [
+            {"question": "Posso almoçar no restaurante usando apenas roupa de banho?", "ground_truth": "Não, não é permitido o ingresso ou trânsito nos restaurantes sem camisas, em biquínis ou com os pés descalços."},
+            {"question": "Que tipo de comida tem no almoço?", "ground_truth": "O almoço oferece pratos à la carte ou buffet executivo (saladas, carnes, massas, sobremesas) e funciona das 12h às 15h."}
+        ]
     },
     {
-        "question": "Qual o horário de funcionamento da academia (Fitness Center)?",
-        "ground_truth": "A academia funciona diariamente das 06h00 às 22h00."
+        "session_id": 22,
+        "turns": [
+            {"question": "Como funciona o check-out tarde?", "ground_truth": "O late check-out até as 16h00 tem cobrança de 50% do valor da diária, dependendo da disponibilidade."},
+            {"question": "Tem alguma regra que isenta essa taxa?", "ground_truth": "Hóspedes que integram o programa 'Viajante Vip Hotel' podem ganhar check-outs prorrogados gratuitos às 14h."}
+        ]
     },
     {
-        "question": "Qual a idade mínima para frequentar a academia sem acompanhamento?",
-        "ground_truth": "O acesso à academia é restrito para menores de 16 anos, salvo acompanhamento formalizado pelos pais."
+        "session_id": 23,
+        "turns": [
+            {"question": "O hotel emite nota fiscal para minha empresa?", "ground_truth": "Sim, realizamos emissão fiscal contra empresas (B2B) perante faturamento quinzenal para clientes corporativos registrados."},
+            {"question": "Preciso mandar algum e-mail pra isso?", "ground_truth": "Sim, a recepção exigirá seus dados corporativos completos durante o check-out ou via contato com nosso setor de faturamento."}
+        ]
     },
     {
-        "question": "É permitido entrar no restaurante usando apenas roupas de banho?",
-        "ground_truth": "Não, não é permitido o ingresso ou trânsito nos restaurantes sem camisas, em biquínis ou com os pés descalços."
+        "session_id": 24,
+        "turns": [
+            {"question": "Qual é a política sobre lavagem de roupas?", "ground_truth": "O hotel possui serviço de lavanderia (urgente) que custa R$ 50,00 por peça, entregando em até 6 horas."},
+            {"question": "Esses serviços são cobrados na hora?", "ground_truth": "Não, serviços de lavanderia costumam ser lançados como 'consumo' e pagos sempre na saída do Check-Out."}
+        ]
     },
     {
-        "question": "Por que é cobrada uma caução no check-in e qual o valor?",
-        "ground_truth": "A caução é de aproximadamente R$ 200,00 por dia e serve como garantia para despesas extras ou danos, sendo reembolsada no check-out."
+        "session_id": 25,
+        "turns": [
+            {"question": "Os quartos têm ar condicionado?", "ground_truth": "Sim, todos os quartos são equipados com Ar Condicionado Split silencioso."},
+            {"question": "Qual a voltagem das tomadas deles?", "ground_truth": "A voltagem padrão nas acomodações do hotel é de 220v."}
+        ]
     },
     {
-        "question": "Quais bandeiras de cartão de crédito o hotel aceita?",
-        "ground_truth": "Aceitamos Visa, Mastercard, American Express, Diners, Elo e também pagamentos via PIX ou dinheiro (BRL)."
+        "session_id": 26,
+        "turns": [
+            {"question": "Posso agendar uma massagem?", "ground_truth": "Sim, oferecemos massagem relaxante com aromaterapia por R$ 150,00 a hora, mediante agendamento das 09h às 21h."},
+            {"question": "Posso agendar pela recepção?", "ground_truth": "O agendamento é feito no próprio Spa, e terapias do SPA costumam ser lançadas na conta do quarto."}
+        ]
     },
     {
-        "question": "Sou uma empresa, posso solicitar faturamento da nota fiscal?",
-        "ground_truth": "Sim, o hotel realiza faturamento quinzenal para empresas cadastradas ou mediante depósitos antecipados."
+        "session_id": 27,
+        "turns": [
+            {"question": "Quais passeios posso fazer na cidade?", "ground_truth": "O Concierge organiza City Tours, passeios de barco para ilhas, e roteiros ecológicos de jipe."},
+            {"question": "Qual o valor do passeio de barco?", "ground_truth": "O passeio de barco custa R$ 200,00 por pessoa, dura 2h e ocorre na temporada (jun–set)."}
+        ]
     },
     {
-        "question": "Quais são as regras para trânsito de animais (pets) no hotel?",
-        "ground_truth": "Os pets devem portar carteira de vacinação atualizada e trafegar obrigatoriamente presos em guias ou coleiras pelo pátio."
+        "session_id": 28,
+        "turns": [
+            {"question": "O hotel fica no centro turístico?", "ground_truth": "O hotel tem fácil acesso aos atrativos. Os pontos turísticos mais próximos são o Museu Central (2 km) e o Parque Verde com pista de caminhada (1,2 km)."},
+            {"question": "Qual aplicativo vocês recomendam usar pra ir lá?", "ground_truth": "Sugerimos o uso de Uber, 99 ou InDriver, com ponto de embarque na entrada principal."}
+        ]
     },
     {
-        "question": "O pet pode frequentar o ambiente da piscina ou restaurante?",
-        "ground_truth": "Não, por normas da vigilância sanitária, os animais não podem ingressar nas áreas de piscina e restaurante."
+        "session_id": 29,
+        "turns": [
+            {"question": "Se eu esquecer meu carregador, acho outro perto?", "ground_truth": "Existem pontos comerciais, como um Shopping Center e Centro Financeiro a 5 km de distância."},
+            {"question": "E farmácia?", "ground_truth": "Temos uma farmácia 24h a 500m (Rua das Palmeiras, 100)."}
+        ]
     },
     {
-        "question": "O hotel garante vaga coberta no estacionamento?",
-        "ground_truth": "As vagas cobertas e subterrâneas são disponibilizadas por ordem de chegada até que a lotação seja completada."
+        "session_id": 30,
+        "turns": [
+            {"question": "Vocês têm suíte presidencial?", "ground_truth": "Sim, a Suíte Presidencial custa a partir de R$ 1.200,00 por noite e inclui 2 ambientes e serviço de mordomo."},
+            {"question": "Tem jacuzzi nela?", "ground_truth": "Sim, ela possui champanhe de boas-vindas, máquina de café expresso e jacuzzi privativa."}
+        ]
     },
     {
-        "question": "Como funciona o 'Programa Viajante Vip Hotel'?",
-        "ground_truth": "Hóspedes com mais de 3 estadias anuais ganham benefícios como upgrade de categoria, mimos de boas-vindas ou check-out tardio gratuito."
+        "session_id": 31,
+        "turns": [
+            {"question": "O hotel tem programa de sustentabilidade?", "ground_truth": "Sim, possuímos o programa 'Hotel Verde'. Para colaborar, as roupas de cama são trocadas a cada 3 dias."},
+            {"question": "E as toalhas, como funcionam no programa?", "ground_truth": "Se desejar reutilizar suas toalhas, deixe-as penduradas no toalheiro. Toalhas no chão serão lavadas."}
+        ]
     },
     {
-        "question": "Quais tipos de passeios o Concierge pode organizar?",
-        "ground_truth": "O Concierge organiza City Tours, passeios de barco para ilhas, roteiros ecológicos de jipe e agendamento de terapias de Spa."
+        "session_id": 32,
+        "turns": [
+            {"question": "Qual ramal para chamar a limpeza?", "ground_truth": "Para serviços de limpeza ou arrumação, o hóspede deve discar o ramal 105."},
+            {"question": "A que horas eles passam limpando?", "ground_truth": "A arrumação do quarto ocorre diariamente entre as 09h00 e 16h00."}
+        ]
     },
     {
-        "question": "O uso da academia tem alguma taxa extra?",
-        "ground_truth": "Não, o Fitness Center possui entrada livre de taxas para os hóspedes do hotel."
+        "session_id": 33,
+        "turns": [
+            {"question": "Posso cancelar minha reserva de graça?", "ground_truth": "Para a Tarifa Flexível, cancelamentos são totalmente gratuitos se realizados com até 48 horas de antecedência ao check-in."},
+            {"question": "E se a minha tarifa for não reembolsável?", "ground_truth": "Reservas promocionais não reembolsáveis não permitem cancelamento, reembolso ou alteração, e o valor integral será retido."}
+        ]
     },
     {
-        "question": "Existe alguma multa por perda do cartão-chave do quarto?",
-        "ground_truth": "Sim, em caso de perda do cartão-chave, é cobrada uma taxa de substituição de R$ 20,00."
+        "session_id": 34,
+        "turns": [
+            {"question": "O wi-fi pega na piscina?", "ground_truth": "Sim, oferecemos Wi-Fi gratuito em todo o perímetro do hotel, incluindo piscinas, restaurantes e quartos."},
+            {"question": "Tem alguma rede com internet mais rápida?", "ground_truth": "Sim, há a rede Premium (HotelExample_Premium) adquirida na recepção para quem precisa de banda larga dedicada."}
+        ]
     },
     {
-        "question": "Qual a distância entre o hotel e o aeroporto mais próximo?",
-        "ground_truth": "O hotel está localizado a 12 km de distância do aeroporto, o que leva aproximadamente 25 minutos de carro."
+        "session_id": 35,
+        "turns": [
+            {"question": "Qual bandeira de cartão vocês aceitam?", "ground_truth": "Aceitamos Cartões Nacionais e Internacionais (Visa, Mastercard, American Express, Diners, Elo)."},
+            {"question": "Aceitam Euro físico?", "ground_truth": "Não, o hotel aceita pagamentos apenas em moedas correntes físicas do Brasil (Real/BRL), além de cartões e PIX."}
+        ]
     },
     {
-        "question": "O hotel sugere algum aplicativo específico para transporte?",
-        "ground_truth": "Sugerimos o uso de Uber, 99 ou InDriver, com ponto de embarque na entrada principal sob a marquise."
+        "session_id": 36,
+        "turns": [
+            {"question": "Perdi meu cartão-chave. Tem multa?", "ground_truth": "Sim, em caso de perda do cartão-chave, comunique a recepção e será cobrada uma taxa de substituição de R$ 20,00."},
+            {"question": "Esse cartão abre a porta de tudo?", "ground_truth": "O cartão-chave é necessário para acesso aos quartos, elevadores e entrada nas dependências de lazer."}
+        ]
     },
     {
-        "question": "O hotel oferece serviço de manobrista (Valet)?",
-        "ground_truth": "Sim, dispomos de uma equipe de manobristas (Valet) para acomodar os veículos dos hóspedes."
+        "session_id": 37,
+        "turns": [
+            {"question": "O hotel possui jantar temático?", "ground_truth": "Sim, temos Jantares Temáticos no restaurante por R$ 120,00 por pessoa, incluindo buffet completo."},
+            {"question": "Quando é a noite de churrasco?", "ground_truth": "O Churrasco Fogo de Chão ocorre aos Sábados. Há também Frutos do Mar (Sexta) e Noite Italiana (Quinta)."}
+        ]
     },
     {
-        "question": "Até que horas o restaurante funciona para o jantar?",
-        "ground_truth": "O restaurante funciona para o jantar até as 22h."
+        "session_id": 38,
+        "turns": [
+            {"question": "O hotel organiza casamentos?", "ground_truth": "Sim! Para reservas de grupos (acima de 5 quartos, como eventos corporativos ou casamentos) possuímos tarifas especiais."},
+            {"question": "Com quem falo para bloquear os quartos?", "ground_truth": "Você terá um gerente de contas exclusivo. Envie as datas e a quantidade de pessoas para grupos@hotelexample.com.br."}
+        ]
     },
     {
-        "question": "O hotel aceita pagamentos em Dólar ou Euro?",
-        "ground_truth": "O hotel aceita pagamentos em moedas correntes físicas do Brasil (Real/BRL), além de cartões e PIX."
+        "session_id": 39,
+        "turns": [
+            {"question": "Vocês disponibilizam cofre nos quartos?", "ground_truth": "Sim, todos os quartos são equipados com cofres eletrônicos."},
+            {"question": "O que devo colocar neles?", "ground_truth": "Recomendamos que todo dinheiro ou valores expressivos sejam armazenados nele por questões de segurança e indenização."}
+        ]
     },
     {
-        "question": "Como funciona a política de sustentabilidade em relação às toalhas?",
-        "ground_truth": "Hóspedes que desejam participar do programa 'Hotel Verde' podem reutilizar toalhas deixando-as penduradas no toalheiro."
+        "session_id": 40,
+        "turns": [
+            {"question": "O café da manhã tá incluído no quarto standard?", "ground_truth": "Sim, o Quarto Standard (R$ 350,00) tem café da manhã incluso, Wi-Fi e TV a cabo."},
+            {"question": "Vocês têm cama extra infantil?", "ground_truth": "Camas extras para crianças custam R$ 120,00/noite, mas berços são gratuitos para menores de 2 anos."}
+        ]
     },
     {
-        "question": "Qual o ramal para entrar em contato com a equipe de limpeza?",
-        "ground_truth": "Para serviços de limpeza ou arrumação, o hóspede deve discar o ramal 105."
+        "session_id": 41,
+        "turns": [
+            {"question": "Se eu chegar antes das 14h, posso ficar na piscina?", "ground_truth": "Sim. Caso chegue mais cedo, você pode guardar suas malas no nosso Maleiro de forma gratuita e utilizar a piscina ou restaurante."},
+            {"question": "E tem como já entrar no quarto de manhã?", "ground_truth": "O Early check-in antes das 14h está sujeito à disponibilidade, com taxa de 30% a 50% do valor da diária."}
+        ]
     },
     {
-        "question": "O serviço de quarto (Room Service) funciona de madrugada?",
-        "ground_truth": "Sim, o serviço de quarto está disponível 24 horas por dia com cardápio acessível no quarto ou via app."
+        "session_id": 42,
+        "turns": [
+            {"question": "Como conecto no wifi premium?", "ground_truth": "A Rede Premium de alta velocidade é a 'HotelExample_Premium' e os planos devem ser consultados na recepção."},
+            {"question": "Ele pega na área de lazer também?", "ground_truth": "Sim, a conectividade do hotel abrange todos os quartos, áreas de lazer e espaços de eventos."}
+        ]
     },
     {
-        "question": "O Wi-Fi abrange as áreas de lazer como a piscina?",
-        "ground_truth": "Sim, oferecemos Wi-Fi gratuito em todo o perímetro do hotel, incluindo piscinas, restaurantes e quartos."
+        "session_id": 43,
+        "turns": [
+            {"question": "O restaurante abre na janta até tarde?", "ground_truth": "O restaurante funciona para o jantar até as 22h, e exige-se reserva prévia no caso de Jantar Temático."},
+            {"question": "Se eu perder a hora, posso pedir algo no quarto?", "ground_truth": "Sim, o Serviço de Quarto (Room Service) está disponível 24 horas por dia com cardápio."}
+        ]
     },
     {
-        "question": "O que devo fazer se tiver problemas com a conexão de internet?",
-        "ground_truth": "O suporte para conexão Wi-Fi está disponível 24 horas por dia através da recepção."
+        "session_id": 44,
+        "turns": [
+            {"question": "Vocês têm tomadas para carregar carros?", "ground_truth": "Sim, no estacionamento temos tomadas para carregamento de veículos elétricos (EVs)."},
+            {"question": "Quanto custa para o valet guardar ele?", "ground_truth": "O serviço de estacionamento e valet custa R$ 30,00 por diária."}
+        ]
     },
     {
-        "question": "É possível fazer o check-out após as 12h?",
-        "ground_truth": "Sim, dependendo da disponibilidade, mas está sujeito a taxas de 'late check-out'. Consulte a recepção."
+        "session_id": 45,
+        "turns": [
+            {"question": "Criança acima de 7 anos paga a mais?", "ground_truth": "Sim, para cama extra de adulto ou criança acima de 7 anos é cobrada uma taxa de R$ 120,00 por noite."},
+            {"question": "E bebê?", "ground_truth": "Para bebês, fornecemos berços gratuitos para menores de 2 anos, mediante disponibilidade."}
+        ]
     },
     {
-        "question": "O café da manhã é cobrado para quem não tem reserva com pensão completa?",
-        "ground_truth": "Para quem não possui o café incluso na reserva, cobra-se uma taxa de R$ 55,00 por pessoa na portaria."
+        "session_id": 46,
+        "turns": [
+            {"question": "O hotel tem programa de happy hour?", "ground_truth": "Sim, o Happy Hour ocorre no Bar do Lobby das 17h às 19h."},
+            {"question": "O que servem lá?", "ground_truth": "Nesse horário, há descontos especiais em drinks selecionados."}
+        ]
     },
     {
-        "question": "O hotel fica perto de algum museu?",
-        "ground_truth": "Sim, o Museu Central está localizado a apenas 2 km do hotel."
+        "session_id": 47,
+        "turns": [
+            {"question": "O que é o programa Verde?", "ground_truth": "O 'Hotel Verde' é um programa de sustentabilidade onde as roupas de cama são trocadas a cada 3 dias e toalhas podem ser reutilizadas."},
+            {"question": "Se eu jogar minha toalha no piso de propósito, o que ocorre?", "ground_truth": "Toalhas jogadas no chão indicam solicitação de troca e serão prontamente lavadas e substituídas por novas."}
+        ]
     },
     {
-        "question": "Quanto custa o serviço de lavanderia urgente?",
-        "ground_truth": "A lavanderia urgente custa R$ 50,00 por peça, com entrega em até 6 horas (Seg-Sáb até 18h)."
+        "session_id": 48,
+        "turns": [
+            {"question": "Vocês têm computadores pro hóspede?", "ground_truth": "Sim, o nosso Business Center oferece estações de trabalho, computadores e impressoras disponíveis 24h no térreo."},
+            {"question": "Eu pego a senha do wifi premium com eles?", "ground_truth": "Você deve consultar os planos da rede Premium (HotelExample_Premium) diretamente na recepção."}
+        ]
     },
     {
-        "question": "Quais são os principais pontos turísticos perto do hotel?",
-        "ground_truth": "Os pontos turísticos mais próximos são o Museu Central (2 km) e o Parque Verde com pista de caminhada (1,2 km)."
+        "session_id": 49,
+        "turns": [
+            {"question": "Perdi meu relógio. Tem achados e perdidos?", "ground_truth": "Sim, se perder um objeto, entre em contato com a recepção ou o e-mail achadosperdidos@hotel.com."},
+            {"question": "Quanto tempo vocês guardam as coisas lá?", "ground_truth": "Os itens esquecidos são guardados no hotel por um período de 30 dias."}
+        ]
     },
     {
-        "question": "Posso contratar uma massagem relaxante no hotel?",
-        "ground_truth": "Sim, oferecemos massagem relaxante com aromaterapia por R$ 150,00 a hora, mediante agendamento das 09h às 21h."
+        "session_id": 50,
+        "turns": [
+            {"question": "O que acontece se eu levar multa por cheiro de cigarro?", "ground_truth": "A multa por odor de fumaça é lançada na sua conta, considerada como taxa adicional por limpeza extrema."},
+            {"question": "Isso vale pro pátio externo também?", "ground_truth": "A proibição de fumo (incluindo cigarros eletrônicos) se aplica a qualquer espaço coberto do hotel, aposentos ou corredores. Nas áreas externas designadas, o fumo é permitido."}
+        ]
     }
 ]
+
+# Variável flat para compatibilidade com outros testes
+dataset = [turn for s in dataset_sessions for turn in s['turns']]
+
