@@ -1,6 +1,6 @@
 import json
 import re
-from validator import parse_date_or_none
+from bot.reservation.validator import parse_date_or_none
 from bot.reservation.llm import structured_llm
 
 
@@ -39,13 +39,13 @@ def extract_fields_with_llm(message, current_data, current_step):
     response = structured_llm.ask(prompt)
     try:
         data = json.loads(response)
-    except:
+    except Exception:
         match = re.search(r"\{.*\}", response, flags=re.DOTALL)
         if not match:
             return {}
         try:
             data = json.loads(match.group(0))
-        except:
+        except Exception:
             return {}
 
     if "check_out_date" in data and current_data.get("check_in_date"):

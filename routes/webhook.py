@@ -40,33 +40,41 @@ def webhook():
         return jsonify({'status': 'success', 'message': 'Mensagem de grupo/status ignorada.'}), 200
 
     user = get_user_by_contact(received_number)
-        
-    if not user:
-        user = create_user(name = data.get('data', {}).get('pushName', {}), contact = received_number)
-        history_messages = []
 
-    
-    
-    step = get_active_pre_reservation_step(user.id)
-    if step:
-        message = handle_reservation_flow(user, received_message)
-    else:
-        intention_type = intention.detect(received_message)
-        if intention_type == "pre_reserva":
+    if not user:
+        user = create_user(name = data.get('data', {}).get('pushName', ''), contact = received_number)
+
+    try:
+        step = get_active_pre_reservation_step(user.id)
+        if step:
             message = handle_reservation_flow(user, received_message)
         else:
-            history_messages = get_last_messages_by_user(user.id)
-            message= ai_bot.invoke(
-                history_messages=history_messages,
-                question=received_message
-            )
+            intention_type = intention.detect(received_message)
+            if intention_type == "pre_reserva":
+                message = handle_reservation_flow(user, received_message)
+            else:
+                history_messages = get_last_messages_by_user(user.id)
+                message = ai_bot.invoke(
+                    history_messages=history_messages,
+                    question=received_message
+                )
 
-    evo.send_message(instance=instance,
-                         apikey=apikey, 
-                         sender_number=received_number, 
-                         message=message)
-    
+        evo.send_message(instance=instance,
+                             apikey=apikey,
+                             sender_number=received_number,
+                             message=message)
 
-    save_message(user_id = user.id, message=received_message, response = message)
+        save_message(user_id = user.id, message=received_message, response = message)
+    except Exception as e:
+        print(f"[!] Erro ao processar a mensagem do usuário {received_number}: {e}")
+        fallback_message = "Desculpe, tivemos um problema ao processar sua mensagem. Por favor, tente novamente em instantes."
+        try:
+            evo.send_message(instance=instance,
+                                 apikey=apikey,
+                                 sender_number=received_number,
+                                 message=fallback_message)
+        except Exception as send_error:
+            print(f"[!] Falha ao enviar mensagem de fallback: {send_error}")
+        return jsonify({'status': 'failed', 'message': 'Erro interno tratado.'}), 200
 
     return jsonify({'status': 'success'}), 200
