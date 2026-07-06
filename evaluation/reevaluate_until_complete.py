@@ -2,11 +2,11 @@
 
 Reaproveita evaluation/checkpoint_generation.json (geracao ja concluida) e refaz apenas
 a fase de avaliacao, em micro-lotes com backoff. Persiste o CSV a cada lote e RETOMA de um
-CSV anterior (so reavalia os turnos com metrica NaN), o que permite completar ao longo de
-varios dias respeitando os limites de cota (RPD/TPD) sem retrabalho.
+CSV anterior (so reavalia os turnos com metrica NaN), permitindo completar a avaliacao
+em multiplas execucoes sem retrabalho.
 
-Avaliador: Qwen3-32B (independente do gerador Llama-4 -> evita vies de auto-avaliacao;
-robusto em JSON, validado; TPD 500k). RPD do free tier (~1000) pode exigir 2 execucoes.
+Avaliador: llama-3.1-8b-instant (independente do gerador llama-4-scout -> evita vies
+de auto-avaliacao). Usa RunConfig com max_workers=1 e backoff para lidar com interrupcoes.
 
 Uso: .venv/bin/python evaluation/reevaluate_until_complete.py
 """
@@ -55,8 +55,8 @@ def is_valid(v):
 
 
 def build_wrappers():
-    # Avaliador independente do gerador (Qwen3-32B != Llama): evita vies de auto-avaliacao;
-    # robusto em JSON (validado) e com TPD suficiente (500k). temp=0 -> determinismo.
+    # Avaliador llama-3.1-8b-instant, distinto do gerador llama-4-scout: evita vies de
+    # auto-avaliacao. temp=0 -> determinismo.
     llm_raw = ChatGroq(model=EVAL_MODEL, temperature=0)
     emb_raw = HuggingFaceEmbeddings(
         model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
